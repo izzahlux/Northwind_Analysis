@@ -1,0 +1,2156 @@
+OrderID,ProductName,CategoryName,Company_Name,UnitPrice,Quantity,Discount,Purchase
+10248,Mozzarella di Giovanni,Dairy Products,Vins et alcools Chevalier,34.8,5,0,174.00
+10248,Queso Cabrales,Dairy Products,Vins et alcools Chevalier,14,12,0,168.00
+10248,Singaporean Hokkien Fried Mee,Grains/Cereals,Vins et alcools Chevalier,9.8,10,0,98.00
+10249,Manjimup Dried Apples,Produce,Toms Spezialitäten,42.4,40,0,1696.00
+10249,Tofu,Produce,Toms Spezialitäten,18.6,9,0,167.40
+10250,Jack's New England Clam Chowder,Seafood,Hanari Carnes,7.7,10,0,77.00
+10250,Louisiana Fiery Hot Pepper Sauce,Condiments,Hanari Carnes,16.8,15,0.15,214.20
+10250,Manjimup Dried Apples,Produce,Hanari Carnes,42.4,35,0.15,1261.40
+10251,Gustaf's Knäckebröd,Grains/Cereals,Victuailles en stock,16.8,6,0.05,95.76
+10251,Louisiana Fiery Hot Pepper Sauce,Condiments,Victuailles en stock,16.8,20,0,336.00
+10251,Ravioli Angelo,Grains/Cereals,Victuailles en stock,15.6,15,0.05,222.30
+10252,Camembert Pierrot,Dairy Products,Suprêmes délices,27.2,40,0,1088.00
+10252,Geitost,Dairy Products,Suprêmes délices,2,25,0.05,47.50
+10252,Sir Rodney's Marmalade,Confections,Suprêmes délices,64.8,40,0.05,2462.40
+10253,Chartreuse verte,Beverages,Hanari Carnes,14.4,42,0,604.80
+10253,Gorgonzola Telino,Dairy Products,Hanari Carnes,10,20,0,200.00
+10253,Maxilaku,Confections,Hanari Carnes,16,40,0,640.00
+10254,Guaraná Fantástica,Beverages,Chop-suey Chinese,3.6,15,0.15,45.90
+10254,Longlife Tofu,Produce,Chop-suey Chinese,8,21,0,168.00
+10254,Pâté chinois,Meat/Poultry,Chop-suey Chinese,19.2,21,0.15,342.72
+10255,Chang,Beverages,Richter Supermarkt,15.2,20,0,304.00
+10255,Inlagd Sill,Seafood,Richter Supermarkt,15.2,25,0,380.00
+10255,Pavlova,Confections,Richter Supermarkt,13.9,35,0,486.50
+10255,Raclette Courdavault,Dairy Products,Richter Supermarkt,44,30,0,1320.00
+10256,Original Frankfurter grüne Soße,Condiments,Wellington Importadora,10.4,12,0,124.80
+10256,Perth Pasties,Meat/Poultry,Wellington Importadora,26.2,15,0,393.00
+10257,Chartreuse verte,Beverages,HILARION-Abastos,14.4,6,0,86.40
+10257,Original Frankfurter grüne Soße,Condiments,HILARION-Abastos,10.4,15,0,156.00
+10257,Schoggi Schokolade,Confections,HILARION-Abastos,35.1,25,0,877.50
+10258,Chang,Beverages,Ernst Handel,15.2,50,0.2,608.00
+10258,Chef Anton's Gumbo Mix,Condiments,Ernst Handel,17,65,0.2,884.00
+10258,Mascarpone Fabioli,Dairy Products,Ernst Handel,25.6,6,0.2,122.88
+10259,Gravad lax,Seafood,Centro comercial Moctezuma,20.8,1,0,20.80
+10259,Sir Rodney's Scones,Confections,Centro comercial Moctezuma,8,10,0,80.00
+10260,Jack's New England Clam Chowder,Seafood,Ottilies Käseladen,7.7,16,0.25,92.40
+10260,Outback Lager,Beverages,Ottilies Käseladen,12,21,0.25,189.00
+10260,Ravioli Angelo,Grains/Cereals,Ottilies Käseladen,15.6,50,0,780.00
+10260,Tarte au sucre,Confections,Ottilies Käseladen,39.4,15,0.25,443.25
+10261,Sir Rodney's Scones,Confections,Que Delícia,8,20,0,160.00
+10261,Steeleye Stout,Beverages,Que Delícia,14.4,20,0,288.00
+10262,Chef Anton's Gumbo Mix,Condiments,Rattlesnake Canyon Grocery,17,12,0.2,163.20
+10262,Gnocchi di nonna Alice,Grains/Cereals,Rattlesnake Canyon Grocery,30.4,2,0,60.80
+10262,Uncle Bob's Organic Dried Pears,Produce,Rattlesnake Canyon Grocery,24,15,0,360.00
+10263,Guaraná Fantástica,Beverages,Ernst Handel,3.6,28,0,100.80
+10263,Longlife Tofu,Produce,Ernst Handel,8,36,0.25,216.00
+10263,Nord-Ost Matjeshering,Seafood,Ernst Handel,20.7,60,0.25,931.50
+10263,Pavlova,Confections,Ernst Handel,13.9,60,0.25,625.50
+10264,Chang,Beverages,Folk och fä HB,15.2,35,0,532.00
+10264,Jack's New England Clam Chowder,Seafood,Folk och fä HB,7.7,25,0.15,163.63
+10265,Alice Mutton,Meat/Poultry,Blondesddsl père et fils,31.2,30,0,936.00
+10265,Outback Lager,Beverages,Blondesddsl père et fils,12,20,0,240.00
+10266,Queso Manchego La Pastora,Dairy Products,Wartian Herkku,30.4,12,0.05,346.56
+10267,Boston Crab Meat,Seafood,Frankenversand,14.7,50,0,735.00
+10267,Lakkalikööri,Beverages,Frankenversand,14.4,15,0.15,183.60
+10267,Raclette Courdavault,Dairy Products,Frankenversand,44,70,0.15,2618.00
+10268,Mozzarella di Giovanni,Dairy Products,GROSELLA-Restaurante,27.8,4,0,111.20
+10268,Thüringer Rostbratwurst,Meat/Poultry,GROSELLA-Restaurante,99,10,0,990.00
+10269,Geitost,Dairy Products,White Clover Markets,2,60,0.05,114.00
+10269,Mozzarella di Giovanni,Dairy Products,White Clover Markets,27.8,20,0.05,528.20
+10270,Inlagd Sill,Seafood,Wartian Herkku,15.2,30,0,456.00
+10270,Ipoh Coffee,Beverages,Wartian Herkku,36.8,25,0,920.00
+10271,Geitost,Dairy Products,Split Rail Beer & Ale,2,24,0,48.00
+10272,Gorgonzola Telino,Dairy Products,Rattlesnake Canyon Grocery,10,40,0,400.00
+10272,Mozzarella di Giovanni,Dairy Products,Rattlesnake Canyon Grocery,27.8,24,0,667.20
+10272,Sir Rodney's Marmalade,Confections,Rattlesnake Canyon Grocery,64.8,6,0,388.80
+10273,Boston Crab Meat,Seafood,QUICK-Stop,14.7,60,0.05,837.90
+10273,Geitost,Dairy Products,QUICK-Stop,2,20,0,40.00
+10273,Gorgonzola Telino,Dairy Products,QUICK-Stop,10,15,0.05,142.50
+10273,Ikura,Seafood,QUICK-Stop,24.8,24,0.05,565.44
+10273,Lakkalikööri,Beverages,QUICK-Stop,14.4,33,0.05,451.44
+10274,Flotemysost,Dairy Products,Vins et alcools Chevalier,17.2,20,0,344.00
+10274,Mozzarella di Giovanni,Dairy Products,Vins et alcools Chevalier,27.8,7,0,194.60
+10275,Guaraná Fantástica,Beverages,Magazzini Alimentari Riuniti,3.6,12,0.05,41.04
+10275,Raclette Courdavault,Dairy Products,Magazzini Alimentari Riuniti,44,6,0.05,250.80
+10276,Ikura,Seafood,Tortuga Restaurante,24.8,15,0,372.00
+10276,Konbu,Seafood,Tortuga Restaurante,4.8,10,0,48.00
+10277,Rössle Sauerkraut,Produce,Morgenstern Gesundkost,36.4,20,0,728.00
+10277,Tarte au sucre,Confections,Morgenstern Gesundkost,39.4,12,0,472.80
+10278,Gula Malacca,Condiments,Berglunds snabbköp,15.5,16,0,248.00
+10278,Raclette Courdavault,Dairy Products,Berglunds snabbköp,44,15,0,660.00
+10278,Röd Kaviar,Seafood,Berglunds snabbköp,12,25,0,300.00
+10278,Vegie-spread,Condiments,Berglunds snabbköp,35.1,8,0,280.80
+10279,Alice Mutton,Meat/Poultry,Lehmanns Marktstand,31.2,15,0.25,351.00
+10280,Guaraná Fantástica,Beverages,Berglunds snabbköp,3.6,12,0,43.20
+10280,Pâté chinois,Meat/Poultry,Berglunds snabbköp,19.2,20,0,384.00
+10280,Rhönbräu Klosterbier,Beverages,Berglunds snabbköp,6.2,30,0,186.00
+10281,Guaraná Fantástica,Beverages,Romero y tomillo,3.6,6,0,21.60
+10281,Steeleye Stout,Beverages,Romero y tomillo,14.4,4,0,57.60
+10281,Teatime Chocolate Biscuits,Confections,Romero y tomillo,7.3,1,0,7.30
+10282,Nord-Ost Matjeshering,Seafood,Romero y tomillo,20.7,6,0,124.20
+10282,Ravioli Angelo,Grains/Cereals,Romero y tomillo,15.6,2,0,31.20
+10283,Camembert Pierrot,Dairy Products,LILA-Supermercado,27.2,35,0,952.00
+10283,Genen Shouyu,Condiments,LILA-Supermercado,12.4,20,0,248.00
+10283,Mozzarella di Giovanni,Dairy Products,LILA-Supermercado,27.8,3,0,83.40
+10283,Teatime Chocolate Biscuits,Confections,LILA-Supermercado,7.3,18,0,131.40
+10284,Camembert Pierrot,Dairy Products,Lehmanns Marktstand,27.2,20,0.25,408.00
+10284,Gula Malacca,Condiments,Lehmanns Marktstand,15.5,21,0,325.50
+10284,Laughing Lumberjack Lager,Beverages,Lehmanns Marktstand,11.2,5,0.25,42.00
+10284,Schoggi Schokolade,Confections,Lehmanns Marktstand,35.1,15,0.25,394.88
+10285,Boston Crab Meat,Seafood,QUICK-Stop,14.7,40,0.2,470.40
+10285,Chai,Beverages,QUICK-Stop,14.4,45,0.2,518.40
+10285,Perth Pasties,Meat/Poultry,QUICK-Stop,26.2,36,0.2,754.56
+10286,Steeleye Stout,Beverages,QUICK-Stop,14.4,100,0,1440.00
+10286,Tarte au sucre,Confections,QUICK-Stop,39.4,40,0,1576.00
+10287,Pavlova,Confections,Ricardo Adocicados,13.9,40,0.15,472.60
+10287,Sasquatch Ale,Beverages,Ricardo Adocicados,11.2,20,0,224.00
+10287,Spegesild,Seafood,Ricardo Adocicados,9.6,15,0.15,122.40
+10288,Scottish Longbreads,Confections,Reggiani Caseifici,10,3,0.1,27.00
+10288,Tourtière,Meat/Poultry,Reggiani Caseifici,5.9,10,0.1,53.10
+10289,Aniseed Syrup,Condiments,B's Beverages,8,30,0,240.00
+10289,Wimmers gute Semmelknödel,Grains/Cereals,B's Beverages,26.6,9,0,239.40
+10290,Chef Anton's Gumbo Mix,Condiments,Comércio Mineiro,17,20,0,340.00
+10290,Maxilaku,Confections,Comércio Mineiro,16,15,0,240.00
+10290,Original Frankfurter grüne Soße,Condiments,Comércio Mineiro,10.4,10,0,104.00
+10290,Thüringer Rostbratwurst,Meat/Poultry,Comércio Mineiro,99,15,0,1485.00
+10291,Gula Malacca,Condiments,Que Delícia,15.5,24,0.1,334.80
+10291,Konbu,Seafood,Que Delícia,4.8,20,0.1,86.40
+10291,Manjimup Dried Apples,Produce,Que Delícia,42.4,2,0.1,76.32
+10292,Sir Rodney's Marmalade,Confections,Tradição Hipermercados,64.8,20,0,1296.00
+10293,Carnarvon Tigers,Seafood,Tortuga Restaurante,50,12,0,600.00
+10293,Guaraná Fantástica,Beverages,Tortuga Restaurante,3.6,10,0,36.00
+10293,Rhönbräu Klosterbier,Beverages,Tortuga Restaurante,6.2,6,0,37.20
+10293,Vegie-spread,Condiments,Tortuga Restaurante,35.1,5,0,175.50
+10294,Alice Mutton,Meat/Poultry,Rattlesnake Canyon Grocery,31.2,15,0,468.00
+10294,Camembert Pierrot,Dairy Products,Rattlesnake Canyon Grocery,27.2,21,0,571.20
+10294,Chai,Beverages,Rattlesnake Canyon Grocery,14.4,18,0,259.20
+10294,Ipoh Coffee,Beverages,Rattlesnake Canyon Grocery,36.8,15,0,552.00
+10294,Rhönbräu Klosterbier,Beverages,Rattlesnake Canyon Grocery,6.2,6,0,37.20
+10295,Gnocchi di nonna Alice,Grains/Cereals,Vins et alcools Chevalier,30.4,4,0,121.60
+10296,Gudbrandsdalsost,Dairy Products,LILA-Supermercado,28.8,15,0,432.00
+10296,Pavlova,Confections,LILA-Supermercado,13.9,30,0,417.00
+10296,Queso Cabrales,Dairy Products,LILA-Supermercado,16.8,12,0,201.60
+10297,Chartreuse verte,Beverages,Blondesddsl père et fils,14.4,60,0,864.00
+10297,Mozzarella di Giovanni,Dairy Products,Blondesddsl père et fils,27.8,20,0,556.00
+10298,Chang,Beverages,Hungry Owl All-Night Grocers,15.2,40,0,608.00
+10298,Inlagd Sill,Seafood,Hungry Owl All-Night Grocers,15.2,40,0.25,456.00
+10298,Raclette Courdavault,Dairy Products,Hungry Owl All-Night Grocers,44,30,0.25,990.00
+10298,Tarte au sucre,Confections,Hungry Owl All-Night Grocers,39.4,15,0,591.00
+10299,Outback Lager,Beverages,Ricardo Adocicados,12,20,0,240.00
+10299,Teatime Chocolate Biscuits,Confections,Ricardo Adocicados,7.3,15,0,109.50
+10300,Louisiana Hot Spiced Okra,Condiments,Magazzini Alimentari Riuniti,13.6,30,0,408.00
+10300,Scottish Longbreads,Confections,Magazzini Alimentari Riuniti,10,20,0,200.00
+10301,Boston Crab Meat,Seafood,Die Wandernde Kuh,14.7,10,0,147.00
+10301,Gnocchi di nonna Alice,Grains/Cereals,Die Wandernde Kuh,30.4,20,0,608.00
+10302,Alice Mutton,Meat/Poultry,Suprêmes délices,31.2,40,0,1248.00
+10302,Ipoh Coffee,Beverages,Suprêmes délices,36.8,12,0,441.60
+10302,Rössle Sauerkraut,Produce,Suprêmes délices,36.4,28,0,1019.20
+10303,Boston Crab Meat,Seafood,Godos Cocina Típica,14.7,40,0.1,529.20
+10303,Louisiana Fiery Hot Pepper Sauce,Condiments,Godos Cocina Típica,16.8,30,0.1,453.60
+10303,Scottish Longbreads,Confections,Godos Cocina Típica,10,15,0.1,135.00
+10304,Flotemysost,Dairy Products,Tortuga Restaurante,17.2,2,0,34.40
+10304,Maxilaku,Confections,Tortuga Restaurante,16,30,0,480.00
+10304,Raclette Courdavault,Dairy Products,Tortuga Restaurante,44,10,0,440.00
+10305,Carnarvon Tigers,Seafood,Old World Delicatessen,50,25,0.1,1125.00
+10305,Chartreuse verte,Beverages,Old World Delicatessen,14.4,30,0.1,388.80
+10305,Thüringer Rostbratwurst,Meat/Poultry,Old World Delicatessen,99,25,0.1,2227.50
+10306,Nord-Ost Matjeshering,Seafood,Romero y tomillo,20.7,10,0,207.00
+10306,Perth Pasties,Meat/Poultry,Romero y tomillo,26.2,10,0,262.00
+10306,Tourtière,Meat/Poultry,Romero y tomillo,5.9,5,0,29.50
+10307,Scottish Longbreads,Confections,Lonesome Pine Restaurant,10,3,0,30.00
+10307,Tarte au sucre,Confections,Lonesome Pine Restaurant,39.4,10,0,394.00
+10308,Gudbrandsdalsost,Dairy Products,Ana Trujillo Emparedados y helados,28.8,1,0,28.80
+10308,Outback Lager,Beverages,Ana Trujillo Emparedados y helados,12,5,0,60.00
+10309,Chef Anton's Cajun Seasoning,Condiments,Hungry Owl All-Night Grocers,17.6,20,0,352.00
+10309,Flotemysost,Dairy Products,Hungry Owl All-Night Grocers,17.2,3,0,51.60
+10309,Grandma's Boysenberry Spread,Condiments,Hungry Owl All-Night Grocers,20,30,0,600.00
+10309,Ipoh Coffee,Beverages,Hungry Owl All-Night Grocers,36.8,20,0,736.00
+10309,Singaporean Hokkien Fried Mee,Grains/Cereals,Hungry Owl All-Night Grocers,11.2,2,0,22.40
+10310,Pavlova,Confections,The Big Cheese,13.9,10,0,139.00
+10310,Tarte au sucre,Confections,The Big Cheese,39.4,5,0,197.00
+10311,Gudbrandsdalsost,Dairy Products,Du monde entier,28.8,7,0,201.60
+10311,Singaporean Hokkien Fried Mee,Grains/Cereals,Du monde entier,11.2,6,0,67.20
+10312,Ipoh Coffee,Beverages,Die Wandernde Kuh,36.8,24,0,883.20
+10312,Perth Pasties,Meat/Poultry,Die Wandernde Kuh,26.2,20,0,524.00
+10312,Rhönbräu Klosterbier,Beverages,Die Wandernde Kuh,6.2,10,0,62.00
+10312,Rössle Sauerkraut,Produce,Die Wandernde Kuh,36.4,4,0,145.60
+10313,Inlagd Sill,Seafood,QUICK-Stop,15.2,12,0,182.40
+10314,Escargots de Bourgogne,Seafood,Rattlesnake Canyon Grocery,10.6,30,0.1,286.20
+10314,Mascarpone Fabioli,Dairy Products,Rattlesnake Canyon Grocery,25.6,40,0.1,921.60
+10314,Tarte au sucre,Confections,Rattlesnake Canyon Grocery,39.4,25,0.1,886.50
+10315,Outback Lager,Beverages,Island Trading,12,30,0,360.00
+10315,Sasquatch Ale,Beverages,Island Trading,11.2,14,0,156.80
+10316,Jack's New England Clam Chowder,Seafood,Rattlesnake Canyon Grocery,7.7,10,0,77.00
+10316,Tarte au sucre,Confections,Rattlesnake Canyon Grocery,39.4,70,0,2758.00
+10317,Chai,Beverages,Lonesome Pine Restaurant,14.4,20,0,288.00
+10318,Jack's New England Clam Chowder,Seafood,Island Trading,7.7,20,0,154.00
+10318,Lakkalikööri,Beverages,Island Trading,14.4,6,0,86.40
+10319,Alice Mutton,Meat/Poultry,Tortuga Restaurante,31.2,8,0,249.60
+10319,Lakkalikööri,Beverages,Tortuga Restaurante,14.4,30,0,432.00
+10319,Rössle Sauerkraut,Produce,Tortuga Restaurante,36.4,14,0,509.60
+10320,Flotemysost,Dairy Products,Wartian Herkku,17.2,30,0,516.00
+10321,Steeleye Stout,Beverages,Island Trading,14.4,10,0,144.00
+10322,Filo Mix,Grains/Cereals,Pericles Comidas clásicas,5.6,20,0,112.00
+10323,Chartreuse verte,Beverages,Königlich Essen,14.4,4,0,57.60
+10323,Genen Shouyu,Condiments,Königlich Essen,12.4,5,0,62.00
+10323,NuNuCa Nuß-Nougat-Creme,Confections,Königlich Essen,11.2,4,0,44.80
+10324,Pavlova,Confections,Save-a-lot Markets,13.9,21,0.15,248.11
+10324,Raclette Courdavault,Dairy Products,Save-a-lot Markets,44,40,0.15,1496.00
+10324,Spegesild,Seafood,Save-a-lot Markets,9.6,30,0,288.00
+10324,Steeleye Stout,Beverages,Save-a-lot Markets,14.4,70,0.15,856.80
+10324,Vegie-spread,Condiments,Save-a-lot Markets,35.1,80,0.15,2386.80
+10325,Gorgonzola Telino,Dairy Products,Königlich Essen,10,4,0,40.00
+10325,Grandma's Boysenberry Spread,Condiments,Königlich Essen,20,6,0,120.00
+10325,Konbu,Seafood,Königlich Essen,4.8,12,0,57.60
+10325,Mozzarella di Giovanni,Dairy Products,Königlich Essen,27.8,40,0,1112.00
+10325,Tofu,Produce,Königlich Essen,18.6,9,0,167.40
+10326,Chef Anton's Cajun Seasoning,Condiments,Bólido Comidas preparadas,17.6,24,0,422.40
+10326,Ravioli Angelo,Grains/Cereals,Bólido Comidas preparadas,15.6,16,0,249.60
+10326,Rhönbräu Klosterbier,Beverages,Bólido Comidas preparadas,6.2,50,0,310.00
+10327,Chang,Beverages,Folk och fä HB,15.2,25,0.2,304.00
+10327,Escargots de Bourgogne,Seafood,Folk och fä HB,10.6,30,0.2,254.40
+10327,Nord-Ost Matjeshering,Seafood,Folk och fä HB,20.7,35,0.2,579.60
+10327,Queso Cabrales,Dairy Products,Folk och fä HB,16.8,50,0.2,672.00
+10328,Louisiana Fiery Hot Pepper Sauce,Condiments,Furia Bacalhau e Frutos do Mar,16.8,40,0,672.00
+10328,Raclette Courdavault,Dairy Products,Furia Bacalhau e Frutos do Mar,44,9,0,396.00
+10328,Scottish Longbreads,Confections,Furia Bacalhau e Frutos do Mar,10,10,0,100.00
+10329,Côte de Blaye,Beverages,Split Rail Beer & Ale,210.8,20,0.05,4005.20
+10329,Gnocchi di nonna Alice,Grains/Cereals,Split Rail Beer & Ale,30.4,12,0.05,346.56
+10329,Nord-Ost Matjeshering,Seafood,Split Rail Beer & Ale,20.7,8,0.05,157.32
+10329,Teatime Chocolate Biscuits,Confections,Split Rail Beer & Ale,7.3,10,0.05,69.35
+10330,Gumbär Gummibärchen,Confections,LILA-Supermercado,24.9,50,0.15,1058.25
+10330,Mozzarella di Giovanni,Dairy Products,LILA-Supermercado,27.8,25,0.15,590.75
+10331,Tourtière,Meat/Poultry,Bon app',5.9,15,0,88.50
+10332,Carnarvon Tigers,Seafood,Mère Paillarde,50,40,0.2,1600.00
+10332,Singaporean Hokkien Fried Mee,Grains/Cereals,Mère Paillarde,11.2,10,0.2,89.60
+10332,Zaanse koeken,Confections,Mère Paillarde,7.6,16,0.2,97.28
+10333,Flotemysost,Dairy Products,Wartian Herkku,17.2,40,0.1,619.20
+10333,Sir Rodney's Scones,Confections,Wartian Herkku,8,10,0.1,72.00
+10333,Tofu,Produce,Wartian Herkku,18.6,10,0,186.00
+10334,Filo Mix,Grains/Cereals,Victuailles en stock,5.6,8,0,44.80
+10334,Scottish Longbreads,Confections,Victuailles en stock,10,10,0,100.00
+10335,Chang,Beverages,Hungry Owl All-Night Grocers,15.2,7,0.2,85.12
+10335,Gorgonzola Telino,Dairy Products,Hungry Owl All-Night Grocers,10,25,0.2,200.00
+10335,Manjimup Dried Apples,Produce,Hungry Owl All-Night Grocers,42.4,48,0.2,1628.16
+10335,Mascarpone Fabioli,Dairy Products,Hungry Owl All-Night Grocers,25.6,6,0.2,122.88
+10336,Chef Anton's Cajun Seasoning,Condiments,Princesa Isabel Vinhos,17.6,18,0.1,285.12
+10337,Gravad lax,Seafood,Frankenversand,20.8,28,0,582.40
+10337,Gumbär Gummibärchen,Confections,Frankenversand,24.9,24,0,597.60
+10337,Inlagd Sill,Seafood,Frankenversand,15.2,20,0,304.00
+10337,Mozzarella di Giovanni,Dairy Products,Frankenversand,27.8,25,0,695.00
+10337,Tunnbröd,Grains/Cereals,Frankenversand,7.2,40,0,288.00
+10338,Alice Mutton,Meat/Poultry,Old World Delicatessen,31.2,20,0,624.00
+10338,Nord-Ost Matjeshering,Seafood,Old World Delicatessen,20.7,15,0,310.50
+10339,Alice Mutton,Meat/Poultry,Mère Paillarde,31.2,70,0.05,2074.80
+10339,Chef Anton's Cajun Seasoning,Condiments,Mère Paillarde,17.6,10,0,176.00
+10339,Tarte au sucre,Confections,Mère Paillarde,39.4,28,0,1103.20
+10340,Carnarvon Tigers,Seafood,Bon app',50,20,0.05,950.00
+10340,Ipoh Coffee,Beverages,Bon app',36.8,40,0.05,1398.40
+10340,Jack's New England Clam Chowder,Seafood,Bon app',7.7,12,0.05,87.78
+10341,Geitost,Dairy Products,Simons bistro,2,8,0,16.00
+10341,Raclette Courdavault,Dairy Products,Simons bistro,44,9,0.15,336.60
+10342,Chang,Beverages,Frankenversand,15.2,24,0.2,291.84
+10342,Gorgonzola Telino,Dairy Products,Frankenversand,10,56,0.2,448.00
+10342,Inlagd Sill,Seafood,Frankenversand,15.2,40,0.2,486.40
+10342,Pâté chinois,Meat/Poultry,Frankenversand,19.2,40,0.2,614.40
+10343,Lakkalikööri,Beverages,Lehmanns Marktstand,14.4,15,0,216.00
+10343,Scottish Longbreads,Confections,Lehmanns Marktstand,10,4,0.05,38.00
+10343,Wimmers gute Semmelknödel,Grains/Cereals,Lehmanns Marktstand,26.6,50,0,1330.00
+10344,Chef Anton's Cajun Seasoning,Condiments,White Clover Markets,17.6,35,0,616.00
+10344,Northwoods Cranberry Sauce,Condiments,White Clover Markets,32,70,0.25,1680.00
+10345,Northwoods Cranberry Sauce,Condiments,QUICK-Stop,32,70,0,2240.00
+10345,Singaporean Hokkien Fried Mee,Grains/Cereals,QUICK-Stop,11.2,9,0,100.80
+10345,Teatime Chocolate Biscuits,Confections,QUICK-Stop,7.3,80,0,584.00
+10346,Alice Mutton,Meat/Poultry,Rattlesnake Canyon Grocery,31.2,36,0.1,1010.88
+10346,Gnocchi di nonna Alice,Grains/Cereals,Rattlesnake Canyon Grocery,30.4,20,0,608.00
+10347,Boston Crab Meat,Seafood,Familia Arquibaldo,14.7,4,0,58.80
+10347,Chartreuse verte,Beverages,Familia Arquibaldo,14.4,50,0.15,612.00
+10347,NuNuCa Nuß-Nougat-Creme,Confections,Familia Arquibaldo,11.2,10,0,112.00
+10347,Rhönbräu Klosterbier,Beverages,Familia Arquibaldo,6.2,6,0.15,31.62
+10348,Chai,Beverages,Die Wandernde Kuh,14.4,15,0.15,183.60
+10348,Tunnbröd,Grains/Cereals,Die Wandernde Kuh,7.2,25,0,180.00
+10349,Tourtière,Meat/Poultry,Split Rail Beer & Ale,5.9,24,0,141.60
+10350,Gudbrandsdalsost,Dairy Products,La maison d'Asie,28.8,18,0.1,466.56
+10350,Valkoinen suklaa,Confections,La maison d'Asie,13,15,0.1,175.50
+10351,Côte de Blaye,Beverages,Ernst Handel,210.8,20,0.05,4005.20
+10351,Gula Malacca,Condiments,Ernst Handel,15.5,77,0.05,1133.82
+10351,Jack's New England Clam Chowder,Seafood,Ernst Handel,7.7,13,0,100.10
+10351,Louisiana Fiery Hot Pepper Sauce,Condiments,Ernst Handel,16.8,10,0.05,159.60
+10352,Guaraná Fantástica,Beverages,Furia Bacalhau e Frutos do Mar,3.6,10,0,36.00
+10352,Tourtière,Meat/Poultry,Furia Bacalhau e Frutos do Mar,5.9,20,0.15,100.30
+10353,Côte de Blaye,Beverages,Piccolo und mehr,210.8,50,0.2,8432.00
+10353,Queso Cabrales,Dairy Products,Piccolo und mehr,16.8,12,0.2,161.28
+10354,Chai,Beverages,Pericles Comidas clásicas,14.4,12,0,172.80
+10354,Thüringer Rostbratwurst,Meat/Poultry,Pericles Comidas clásicas,99,4,0,396.00
+10355,Guaraná Fantástica,Beverages,Around the Horn,3.6,25,0,90.00
+10355,Ravioli Angelo,Grains/Cereals,Around the Horn,15.6,25,0,390.00
+10356,Gorgonzola Telino,Dairy Products,Die Wandernde Kuh,10,30,0,300.00
+10356,Gudbrandsdalsost,Dairy Products,Die Wandernde Kuh,28.8,20,0,576.00
+10356,Pâté chinois,Meat/Poultry,Die Wandernde Kuh,19.2,12,0,230.40
+10357,Camembert Pierrot,Dairy Products,LILA-Supermercado,27.2,8,0.2,174.08
+10357,Gumbär Gummibärchen,Confections,LILA-Supermercado,24.9,16,0,398.40
+10357,Ikura,Seafood,LILA-Supermercado,24.8,30,0.2,595.20
+10358,Guaraná Fantástica,Beverages,La maison d'Asie,3.6,10,0.05,34.20
+10358,Inlagd Sill,Seafood,La maison d'Asie,15.2,20,0.05,288.80
+10358,Sasquatch Ale,Beverages,La maison d'Asie,11.2,10,0.05,106.40
+10359,Camembert Pierrot,Dairy Products,Seven Seas Imports,27.2,80,0.05,2067.20
+10359,Gorgonzola Telino,Dairy Products,Seven Seas Imports,10,70,0.05,665.00
+10359,Pavlova,Confections,Seven Seas Imports,13.9,56,0.05,739.48
+10360,Côte de Blaye,Beverages,Blondesddsl père et fils,210.8,10,0,2108.00
+10360,Maxilaku,Confections,Blondesddsl père et fils,16,35,0,560.00
+10360,Rössle Sauerkraut,Produce,Blondesddsl père et fils,36.4,30,0,1092.00
+10360,Thüringer Rostbratwurst,Meat/Poultry,Blondesddsl père et fils,99,35,0,3465.00
+10360,Tourtière,Meat/Poultry,Blondesddsl père et fils,5.9,28,0,165.20
+10361,Camembert Pierrot,Dairy Products,QUICK-Stop,27.2,55,0.1,1346.40
+10361,Chartreuse verte,Beverages,QUICK-Stop,14.4,54,0.1,699.84
+10362,Manjimup Dried Apples,Produce,Bon app',42.4,20,0,848.00
+10362,NuNuCa Nuß-Nougat-Creme,Confections,Bon app',11.2,50,0,560.00
+10362,Tourtière,Meat/Poultry,Bon app',5.9,24,0,141.60
+10363,Gorgonzola Telino,Dairy Products,Drachenblut Delikatessen,10,20,0,200.00
+10363,Lakkalikööri,Beverages,Drachenblut Delikatessen,14.4,12,0,172.80
+10363,Rhönbräu Klosterbier,Beverages,Drachenblut Delikatessen,6.2,12,0,74.40
+10364,Flotemysost,Dairy Products,Eastern Connection,17.2,5,0,86.00
+10364,Gudbrandsdalsost,Dairy Products,Eastern Connection,28.8,30,0,864.00
+10365,Queso Cabrales,Dairy Products,Antonio Moreno Taquería,16.8,24,0,403.20
+10366,Louisiana Fiery Hot Pepper Sauce,Condiments,Galería del gastrónomo,16.8,5,0,84.00
+10366,Original Frankfurter grüne Soße,Condiments,Galería del gastrónomo,10.4,5,0,52.00
+10367,Louisiana Fiery Hot Pepper Sauce,Condiments,Vaffeljernet,16.8,15,0,252.00
+10367,Original Frankfurter grüne Soße,Condiments,Vaffeljernet,10.4,7,0,72.80
+10367,Sasquatch Ale,Beverages,Vaffeljernet,11.2,36,0,403.20
+10367,Tourtière,Meat/Poultry,Vaffeljernet,5.9,18,0,106.20
+10368,Ravioli Angelo,Grains/Cereals,Ernst Handel,15.6,25,0,390.00
+10368,Rössle Sauerkraut,Produce,Ernst Handel,36.4,13,0.1,425.88
+10368,Sir Rodney's Scones,Confections,Ernst Handel,8,5,0.1,36.00
+10368,Wimmers gute Semmelknödel,Grains/Cereals,Ernst Handel,26.6,35,0.1,837.90
+10369,Gnocchi di nonna Alice,Grains/Cereals,Split Rail Beer & Ale,30.4,18,0.25,410.40
+10369,Thüringer Rostbratwurst,Meat/Poultry,Split Rail Beer & Ale,99,20,0,1980.00
+10370,Chai,Beverages,Chop-suey Chinese,14.4,15,0.15,183.60
+10370,Longlife Tofu,Produce,Chop-suey Chinese,8,20,0.15,136.00
+10370,Wimmers gute Semmelknödel,Grains/Cereals,Chop-suey Chinese,26.6,30,0,798.00
+10371,Inlagd Sill,Seafood,La maison d'Asie,15.2,6,0.2,72.96
+10372,Camembert Pierrot,Dairy Products,Queen Cozinha,27.2,70,0.25,1428.00
+10372,Côte de Blaye,Beverages,Queen Cozinha,210.8,40,0.25,6324.00
+10372,Mozzarella di Giovanni,Dairy Products,Queen Cozinha,27.8,42,0.25,875.70
+10372,Sir Rodney's Marmalade,Confections,Queen Cozinha,64.8,12,0.25,583.20
+10373,Escargots de Bourgogne,Seafood,Hungry Owl All-Night Grocers,10.6,80,0.2,678.40
+10373,Flotemysost,Dairy Products,Hungry Owl All-Night Grocers,17.2,50,0.2,688.00
+10374,Escargots de Bourgogne,Seafood,Wolski  Zajazd,10.6,15,0,159.00
+10374,Gorgonzola Telino,Dairy Products,Wolski  Zajazd,10,30,0,300.00
+10375,Tofu,Produce,Hungry Coyote Import Store,18.6,15,0,279.00
+10375,Tourtière,Meat/Poultry,Hungry Coyote Import Store,5.9,10,0,59.00
+10376,Gorgonzola Telino,Dairy Products,Mère Paillarde,10,42,0.05,399.00
+10377,Chartreuse verte,Beverages,Seven Seas Imports,14.4,20,0.15,244.80
+10377,Rössle Sauerkraut,Produce,Seven Seas Imports,36.4,20,0.15,618.80
+10378,Flotemysost,Dairy Products,Folk och fä HB,17.2,6,0,103.20
+10379,Jack's New England Clam Chowder,Seafood,Que Delícia,7.7,8,0.1,55.44
+10379,Louisiana Fiery Hot Pepper Sauce,Condiments,Que Delícia,16.8,20,0.1,302.40
+10379,Vegie-spread,Condiments,Que Delícia,35.1,16,0.1,505.44
+10380,Camembert Pierrot,Dairy Products,Hungry Owl All-Night Grocers,27.2,6,0.1,146.88
+10380,Nord-Ost Matjeshering,Seafood,Hungry Owl All-Night Grocers,20.7,18,0.1,335.34
+10380,Outback Lager,Beverages,Hungry Owl All-Night Grocers,12,30,0,360.00
+10380,Perth Pasties,Meat/Poultry,Hungry Owl All-Night Grocers,26.2,20,0.1,471.60
+10381,Longlife Tofu,Produce,LILA-Supermercado,8,14,0,112.00
+10382,Carnarvon Tigers,Seafood,Ernst Handel,50,9,0,450.00
+10382,Chef Anton's Gumbo Mix,Condiments,Ernst Handel,17,32,0,544.00
+10382,Geitost,Dairy Products,Ernst Handel,2,60,0,120.00
+10382,Longlife Tofu,Produce,Ernst Handel,8,50,0,400.00
+10382,Thüringer Rostbratwurst,Meat/Poultry,Ernst Handel,99,14,0,1386.00
+10383,Gnocchi di nonna Alice,Grains/Cereals,Around the Horn,30.4,20,0,608.00
+10383,Konbu,Seafood,Around the Horn,4.8,20,0,96.00
+10383,Valkoinen suklaa,Confections,Around the Horn,13,15,0,195.00
+10384,Camembert Pierrot,Dairy Products,Berglunds snabbköp,27.2,15,0,408.00
+10384,Sir Rodney's Marmalade,Confections,Berglunds snabbköp,64.8,28,0,1814.40
+10385,Camembert Pierrot,Dairy Products,Split Rail Beer & Ale,27.2,20,0.2,435.20
+10385,Scottish Longbreads,Confections,Split Rail Beer & Ale,10,8,0.2,64.00
+10385,Uncle Bob's Organic Dried Pears,Produce,Split Rail Beer & Ale,24,10,0.2,192.00
+10386,Guaraná Fantástica,Beverages,Familia Arquibaldo,3.6,15,0,54.00
+10386,Sasquatch Ale,Beverages,Familia Arquibaldo,11.2,10,0,112.00
+10387,Flotemysost,Dairy Products,Santé Gourmet,17.2,15,0,258.00
+10387,Guaraná Fantástica,Beverages,Santé Gourmet,3.6,15,0,54.00
+10387,Raclette Courdavault,Dairy Products,Santé Gourmet,44,12,0,528.00
+10387,Rössle Sauerkraut,Produce,Santé Gourmet,36.4,6,0,218.40
+10388,Filo Mix,Grains/Cereals,Seven Seas Imports,5.6,20,0.2,89.60
+10388,Perth Pasties,Meat/Poultry,Seven Seas Imports,26.2,40,0,1048.00
+10388,Rogede sild,Seafood,Seven Seas Imports,7.6,15,0.2,91.20
+10389,Ikura,Seafood,Bottom-Dollar Markets,24.8,16,0,396.80
+10389,Outback Lager,Beverages,Bottom-Dollar Markets,12,30,0,360.00
+10389,Pâté chinois,Meat/Poultry,Bottom-Dollar Markets,19.2,15,0,288.00
+10389,Tarte au sucre,Confections,Bottom-Dollar Markets,39.4,20,0,788.00
+10390,Gorgonzola Telino,Dairy Products,Ernst Handel,10,60,0.1,540.00
+10390,Mozzarella di Giovanni,Dairy Products,Ernst Handel,27.8,24,0.1,600.48
+10390,Spegesild,Seafood,Ernst Handel,9.6,45,0,432.00
+10390,Steeleye Stout,Beverages,Ernst Handel,14.4,40,0.1,518.40
+10391,Konbu,Seafood,Drachenblut Delikatessen,4.8,18,0,86.40
+10392,Gudbrandsdalsost,Dairy Products,Piccolo und mehr,28.8,50,0,1440.00
+10393,Chang,Beverages,Save-a-lot Markets,15.2,25,0.25,285.00
+10393,Gorgonzola Telino,Dairy Products,Save-a-lot Markets,10,32,0,320.00
+10393,Gumbär Gummibärchen,Confections,Save-a-lot Markets,24.9,70,0.25,1307.25
+10393,NuNuCa Nuß-Nougat-Creme,Confections,Save-a-lot Markets,11.2,7,0.25,58.80
+10393,Tofu,Produce,Save-a-lot Markets,18.6,42,0.25,585.90
+10394,Konbu,Seafood,Hungry Coyote Import Store,4.8,10,0,48.00
+10394,Tarte au sucre,Confections,Hungry Coyote Import Store,39.4,10,0,394.00
+10395,Gudbrandsdalsost,Dairy Products,HILARION-Abastos,28.8,8,0,230.40
+10395,Perth Pasties,Meat/Poultry,HILARION-Abastos,26.2,70,0.1,1650.60
+10395,Spegesild,Seafood,HILARION-Abastos,9.6,28,0.1,241.92
+10396,Flotemysost,Dairy Products,Frankenversand,17.2,60,0,1032.00
+10396,Mozzarella di Giovanni,Dairy Products,Frankenversand,27.8,21,0,583.80
+10396,Tunnbröd,Grains/Cereals,Frankenversand,7.2,40,0,288.00
+10397,Manjimup Dried Apples,Produce,Princesa Isabel Vinhos,42.4,18,0.15,648.72
+10397,Sir Rodney's Scones,Confections,Princesa Isabel Vinhos,8,10,0.15,68.00
+10398,Pâté chinois,Meat/Poultry,Save-a-lot Markets,19.2,120,0.1,2073.60
+10398,Steeleye Stout,Beverages,Save-a-lot Markets,14.4,30,0,432.00
+10399,Flotemysost,Dairy Products,Vaffeljernet,17.2,30,0,516.00
+10399,Lakkalikööri,Beverages,Vaffeljernet,14.4,35,0,504.00
+10399,Original Frankfurter grüne Soße,Condiments,Vaffeljernet,10.4,14,0,145.60
+10399,Scottish Longbreads,Confections,Vaffeljernet,10,60,0,600.00
+10400,Maxilaku,Confections,Eastern Connection,16,30,0,480.00
+10400,Steeleye Stout,Beverages,Eastern Connection,14.4,35,0,504.00
+10400,Thüringer Rostbratwurst,Meat/Poultry,Eastern Connection,99,21,0,2079.00
+10401,Flotemysost,Dairy Products,Rattlesnake Canyon Grocery,17.2,60,0,1032.00
+10401,Gnocchi di nonna Alice,Grains/Cereals,Rattlesnake Canyon Grocery,30.4,70,0,2128.00
+10401,Louisiana Fiery Hot Pepper Sauce,Condiments,Rattlesnake Canyon Grocery,16.8,20,0,336.00
+10401,Nord-Ost Matjeshering,Seafood,Rattlesnake Canyon Grocery,20.7,18,0,372.60
+10402,Tunnbröd,Grains/Cereals,Ernst Handel,7.2,60,0,432.00
+10402,Vegie-spread,Condiments,Ernst Handel,35.1,65,0,2281.50
+10403,Chocolade,Confections,Ernst Handel,10.2,70,0.15,606.90
+10403,Pavlova,Confections,Ernst Handel,13.9,21,0.15,248.11
+10404,Gumbär Gummibärchen,Confections,Magazzini Alimentari Riuniti,24.9,30,0.05,709.65
+10404,Maxilaku,Confections,Magazzini Alimentari Riuniti,16,30,0.05,456.00
+10404,Singaporean Hokkien Fried Mee,Grains/Cereals,Magazzini Alimentari Riuniti,11.2,40,0.05,425.60
+10405,Aniseed Syrup,Condiments,LINO-Delicateses,8,50,0,400.00
+10406,Boston Crab Meat,Seafood,Queen Cozinha,14.7,2,0.1,26.46
+10406,Chai,Beverages,Queen Cozinha,14.4,10,0,144.00
+10406,Inlagd Sill,Seafood,Queen Cozinha,15.2,5,0.1,68.40
+10406,Rössle Sauerkraut,Produce,Queen Cozinha,36.4,42,0.1,1375.92
+10406,Sir Rodney's Scones,Confections,Queen Cozinha,8,30,0.1,216.00
+10407,Flotemysost,Dairy Products,Ottilies Käseladen,17.2,15,0,258.00
+10407,Gudbrandsdalsost,Dairy Products,Ottilies Käseladen,28.8,15,0,432.00
+10407,Queso Cabrales,Dairy Products,Ottilies Käseladen,16.8,30,0,504.00
+10408,Gravad lax,Seafood,Folies gourmandes,20.8,10,0,208.00
+10408,Tarte au sucre,Confections,Folies gourmandes,39.4,35,0,1379.00
+10408,Tourtière,Meat/Poultry,Folies gourmandes,5.9,6,0,35.40
+10409,Sir Rodney's Scones,Confections,Océano Atlántico Ltda.,8,12,0,96.00
+10409,Tofu,Produce,Océano Atlántico Ltda.,18.6,12,0,223.20
+10410,Geitost,Dairy Products,Bottom-Dollar Markets,2,49,0,98.00
+10410,Raclette Courdavault,Dairy Products,Bottom-Dollar Markets,44,16,0,704.00
+10411,Gula Malacca,Condiments,Bottom-Dollar Markets,15.5,40,0.2,496.00
+10411,Jack's New England Clam Chowder,Seafood,Bottom-Dollar Markets,7.7,25,0.2,154.00
+10411,Raclette Courdavault,Dairy Products,Bottom-Dollar Markets,44,9,0.2,316.80
+10412,Tofu,Produce,Wartian Herkku,18.6,20,0.1,334.80
+10413,Chai,Beverages,La maison d'Asie,14.4,24,0,345.60
+10413,Lakkalikööri,Beverages,La maison d'Asie,14.4,14,0,201.60
+10413,Tarte au sucre,Confections,La maison d'Asie,39.4,40,0,1576.00
+10414,Geitost,Dairy Products,Familia Arquibaldo,2,50,0,100.00
+10414,Teatime Chocolate Biscuits,Confections,Familia Arquibaldo,7.3,18,0.05,124.83
+10415,Alice Mutton,Meat/Poultry,Hungry Coyote Import Store,31.2,2,0,62.40
+10415,Geitost,Dairy Products,Hungry Coyote Import Store,2,20,0,40.00
+10416,Perth Pasties,Meat/Poultry,Wartian Herkku,26.2,10,0,262.00
+10416,Ravioli Angelo,Grains/Cereals,Wartian Herkku,15.6,20,0,312.00
+10416,Teatime Chocolate Biscuits,Confections,Wartian Herkku,7.3,20,0,146.00
+10417,Côte de Blaye,Beverages,Simons bistro,210.8,50,0,10540.00
+10417,Original Frankfurter grüne Soße,Condiments,Simons bistro,10.4,35,0,364.00
+10417,Scottish Longbreads,Confections,Simons bistro,10,36,0.25,270.00
+10417,Spegesild,Seafood,Simons bistro,9.6,2,0.25,14.40
+10418,Chang,Beverages,QUICK-Stop,15.2,60,0,912.00
+10418,Longlife Tofu,Produce,QUICK-Stop,8,15,0,120.00
+10418,Sirop d'érable,Condiments,QUICK-Stop,22.8,16,0,364.80
+10418,Zaanse koeken,Confections,QUICK-Stop,7.6,55,0,418.00
+10419,Camembert Pierrot,Dairy Products,Richter Supermarkt,27.2,60,0.05,1550.40
+10419,Gudbrandsdalsost,Dairy Products,Richter Supermarkt,28.8,20,0.05,547.20
+10420,Konbu,Seafood,Wellington Importadora,4.8,2,0.1,8.64
+10420,Mishi Kobe Niku,Meat/Poultry,Wellington Importadora,77.6,20,0.1,1396.80
+10420,Outback Lager,Beverages,Wellington Importadora,12,8,0.1,86.40
+10420,Röd Kaviar,Seafood,Wellington Importadora,12,20,0.1,216.00
+10421,Gumbär Gummibärchen,Confections,Que Delícia,24.9,30,0,747.00
+10421,Original Frankfurter grüne Soße,Condiments,Que Delícia,10.4,10,0.15,88.40
+10421,Perth Pasties,Meat/Poultry,Que Delícia,26.2,15,0.15,334.05
+10421,Teatime Chocolate Biscuits,Confections,Que Delícia,7.3,4,0.15,24.82
+10422,Gumbär Gummibärchen,Confections,Franchi S.p.A.,24.9,2,0,49.80
+10423,Gorgonzola Telino,Dairy Products,Gourmet Lanchonetes,10,14,0,140.00
+10423,Raclette Courdavault,Dairy Products,Gourmet Lanchonetes,44,20,0,880.00
+10424,Côte de Blaye,Beverages,Mère Paillarde,210.8,49,0.2,8263.36
+10424,Scottish Longbreads,Confections,Mère Paillarde,10,30,0.2,240.00
+10424,Steeleye Stout,Beverages,Mère Paillarde,14.4,60,0.2,691.20
+10425,Lakkalikööri,Beverages,La maison d'Asie,14.4,20,0.25,216.00
+10425,Pâté chinois,Meat/Poultry,La maison d'Asie,19.2,10,0.25,144.00
+10426,Gnocchi di nonna Alice,Grains/Cereals,Galería del gastrónomo,30.4,5,0,152.00
+10426,Wimmers gute Semmelknödel,Grains/Cereals,Galería del gastrónomo,26.6,7,0,186.20
+10427,Tofu,Produce,Piccolo und mehr,18.6,35,0,651.00
+10428,Spegesild,Seafood,Reggiani Caseifici,9.6,20,0,192.00
+10429,Valkoinen suklaa,Confections,Hungry Owl All-Night Grocers,13,40,0,520.00
+10429,Vegie-spread,Condiments,Hungry Owl All-Night Grocers,35.1,35,0.25,921.38
+10430,Alice Mutton,Meat/Poultry,Ernst Handel,31.2,45,0.2,1123.20
+10430,Gnocchi di nonna Alice,Grains/Cereals,Ernst Handel,30.4,30,0,912.00
+10430,Raclette Courdavault,Dairy Products,Ernst Handel,44,70,0.2,2464.00
+10430,Sir Rodney's Scones,Confections,Ernst Handel,8,50,0,400.00
+10431,Alice Mutton,Meat/Poultry,Bottom-Dollar Markets,31.2,50,0.25,1170.00
+10431,Boston Crab Meat,Seafood,Bottom-Dollar Markets,14.7,50,0.25,551.25
+10431,Zaanse koeken,Confections,Bottom-Dollar Markets,7.6,30,0.25,171.00
+10432,Gumbär Gummibärchen,Confections,Split Rail Beer & Ale,24.9,10,0,249.00
+10432,Tourtière,Meat/Poultry,Split Rail Beer & Ale,5.9,40,0,236.00
+10433,Gnocchi di nonna Alice,Grains/Cereals,Princesa Isabel Vinhos,30.4,28,0,851.20
+10434,Lakkalikööri,Beverages,Folk och fä HB,14.4,18,0.15,220.32
+10434,Queso Cabrales,Dairy Products,Folk och fä HB,16.8,6,0,100.80
+10435,Chang,Beverages,Consolidated Holdings,15.2,10,0,152.00
+10435,Gustaf's Knäckebröd,Grains/Cereals,Consolidated Holdings,16.8,12,0,201.60
+10435,Mozzarella di Giovanni,Dairy Products,Consolidated Holdings,27.8,10,0,278.00
+10436,Gnocchi di nonna Alice,Grains/Cereals,Blondesddsl père et fils,30.4,40,0.1,1094.40
+10436,Rhönbräu Klosterbier,Beverages,Blondesddsl père et fils,6.2,24,0.1,133.92
+10436,Spegesild,Seafood,Blondesddsl père et fils,9.6,5,0,48.00
+10436,Wimmers gute Semmelknödel,Grains/Cereals,Blondesddsl père et fils,26.6,30,0.1,718.20
+10437,Perth Pasties,Meat/Poultry,Wartian Herkku,26.2,15,0,393.00
+10438,Ravioli Angelo,Grains/Cereals,Toms Spezialitäten,15.6,15,0.2,187.20
+10438,Sasquatch Ale,Beverages,Toms Spezialitäten,11.2,20,0.2,179.20
+10438,Teatime Chocolate Biscuits,Confections,Toms Spezialitäten,7.3,15,0.2,87.60
+10439,Longlife Tofu,Produce,Mère Paillarde,8,30,0,240.00
+10439,Pavlova,Confections,Mère Paillarde,13.9,16,0,222.40
+10439,Queso Manchego La Pastora,Dairy Products,Mère Paillarde,30.4,15,0,456.00
+10439,Wimmers gute Semmelknödel,Grains/Cereals,Mère Paillarde,26.6,6,0,159.60
+10440,Chang,Beverages,Save-a-lot Markets,15.2,45,0.15,581.40
+10440,Pavlova,Confections,Save-a-lot Markets,13.9,49,0.15,578.93
+10440,Sirop d'érable,Condiments,Save-a-lot Markets,22.8,90,0.15,1744.20
+10440,Thüringer Rostbratwurst,Meat/Poultry,Save-a-lot Markets,99,24,0.15,2019.60
+10441,Schoggi Schokolade,Confections,Old World Delicatessen,35.1,50,0,1755.00
+10442,Louisiana Hot Spiced Okra,Condiments,Ernst Handel,13.6,60,0,816.00
+10442,Queso Cabrales,Dairy Products,Ernst Handel,16.8,30,0,504.00
+10442,Tourtière,Meat/Poultry,Ernst Handel,5.9,80,0,472.00
+10443,Queso Cabrales,Dairy Products,Reggiani Caseifici,16.8,6,0.2,80.64
+10443,Rössle Sauerkraut,Produce,Reggiani Caseifici,36.4,12,0,436.80
+10444,Alice Mutton,Meat/Poultry,Berglunds snabbköp,31.2,10,0,312.00
+10444,Gumbär Gummibärchen,Confections,Berglunds snabbköp,24.9,15,0,373.50
+10444,Jack's New England Clam Chowder,Seafood,Berglunds snabbköp,7.7,30,0,231.00
+10444,Steeleye Stout,Beverages,Berglunds snabbköp,14.4,8,0,115.20
+10445,Chartreuse verte,Beverages,Berglunds snabbköp,14.4,6,0,86.40
+10445,Tourtière,Meat/Poultry,Berglunds snabbköp,5.9,15,0,88.50
+10446,Filo Mix,Grains/Cereals,Toms Spezialitäten,5.6,15,0.1,75.60
+10446,Gorgonzola Telino,Dairy Products,Toms Spezialitäten,10,3,0.1,27.00
+10446,Guaraná Fantástica,Beverages,Toms Spezialitäten,3.6,20,0.1,64.80
+10446,Teatime Chocolate Biscuits,Confections,Toms Spezialitäten,7.3,12,0.1,78.84
+10447,Flotemysost,Dairy Products,Ricardo Adocicados,17.2,2,0,34.40
+10447,Louisiana Fiery Hot Pepper Sauce,Condiments,Ricardo Adocicados,16.8,35,0,588.00
+10447,Teatime Chocolate Biscuits,Confections,Ricardo Adocicados,7.3,40,0,292.00
+10448,Boston Crab Meat,Seafood,Rancho grande,14.7,20,0,294.00
+10448,Gumbär Gummibärchen,Confections,Rancho grande,24.9,6,0,149.40
+10449,Filo Mix,Grains/Cereals,Blondesddsl père et fils,5.6,20,0,112.00
+10449,Ikura,Seafood,Blondesddsl père et fils,24.8,14,0,347.20
+10449,Tarte au sucre,Confections,Blondesddsl père et fils,39.4,35,0,1379.00
+10450,Ikura,Seafood,Victuailles en stock,24.8,20,0.2,396.80
+10450,Tourtière,Meat/Poultry,Victuailles en stock,5.9,6,0.2,28.32
+10451,Louisiana Fiery Hot Pepper Sauce,Condiments,QUICK-Stop,16.8,28,0.1,423.36
+10451,Original Frankfurter grüne Soße,Condiments,QUICK-Stop,10.4,55,0.1,514.80
+10451,Pâté chinois,Meat/Poultry,QUICK-Stop,19.2,120,0.1,2073.60
+10451,Wimmers gute Semmelknödel,Grains/Cereals,QUICK-Stop,26.6,35,0.1,837.90
+10452,Gula Malacca,Condiments,Save-a-lot Markets,15.5,100,0.05,1472.50
+10452,Rössle Sauerkraut,Produce,Save-a-lot Markets,36.4,15,0,546.00
+10453,Chocolade,Confections,Around the Horn,10.2,15,0.1,137.70
+10453,Outback Lager,Beverages,Around the Horn,12,25,0.1,270.00
+10454,Geitost,Dairy Products,La maison d'Asie,2,20,0.2,32.00
+10454,Pavlova,Confections,La maison d'Asie,13.9,20,0.2,222.40
+10454,Spegesild,Seafood,La maison d'Asie,9.6,10,0.2,76.80
+10455,Chartreuse verte,Beverages,Wartian Herkku,14.4,20,0,288.00
+10455,Flotemysost,Dairy Products,Wartian Herkku,17.2,30,0,516.00
+10455,Perth Pasties,Meat/Poultry,Wartian Herkku,26.2,50,0,1310.00
+10455,Sirop d'érable,Condiments,Wartian Herkku,22.8,25,0,570.00
+10456,Maxilaku,Confections,Königlich Essen,16,21,0.15,285.60
+10456,Sir Rodney's Scones,Confections,Königlich Essen,8,40,0.15,272.00
+10457,Raclette Courdavault,Dairy Products,Königlich Essen,44,36,0,1584.00
+10458,Flotemysost,Dairy Products,Suprêmes délices,17.2,50,0,860.00
+10458,Gnocchi di nonna Alice,Grains/Cereals,Suprêmes délices,30.4,15,0,456.00
+10458,Gumbär Gummibärchen,Confections,Suprêmes délices,24.9,30,0,747.00
+10458,Ipoh Coffee,Beverages,Suprêmes délices,36.8,20,0,736.00
+10458,Rössle Sauerkraut,Produce,Suprêmes délices,36.4,30,0,1092.00
+10459,Mozzarella di Giovanni,Dairy Products,Victuailles en stock,27.8,40,0,1112.00
+10459,Spegesild,Seafood,Victuailles en stock,9.6,20,0.05,182.40
+10459,Uncle Bob's Organic Dried Pears,Produce,Victuailles en stock,24,16,0.05,364.80
+10460,Rhönbräu Klosterbier,Beverages,Folk och fä HB,6.2,4,0.25,18.60
+10460,Scottish Longbreads,Confections,Folk och fä HB,10,21,0.25,157.50
+10461,Nord-Ost Matjeshering,Seafood,LILA-Supermercado,20.7,28,0.25,434.70
+10461,Pâté chinois,Meat/Poultry,LILA-Supermercado,19.2,60,0.25,864.00
+10461,Sir Rodney's Scones,Confections,LILA-Supermercado,8,40,0.25,240.00
+10462,Konbu,Seafood,Consolidated Holdings,4.8,1,0,4.80
+10462,Tunnbröd,Grains/Cereals,Consolidated Holdings,7.2,21,0,151.20
+10463,Singaporean Hokkien Fried Mee,Grains/Cereals,Suprêmes délices,11.2,50,0,560.00
+10463,Teatime Chocolate Biscuits,Confections,Suprêmes délices,7.3,21,0,153.30
+10464,Camembert Pierrot,Dairy Products,Furia Bacalhau e Frutos do Mar,27.2,20,0,544.00
+10464,Chef Anton's Cajun Seasoning,Condiments,Furia Bacalhau e Frutos do Mar,17.6,16,0.2,225.28
+10464,Gnocchi di nonna Alice,Grains/Cereals,Furia Bacalhau e Frutos do Mar,30.4,30,0.2,729.60
+10464,Ipoh Coffee,Beverages,Furia Bacalhau e Frutos do Mar,36.8,3,0,110.40
+10465,Boston Crab Meat,Seafood,Vaffeljernet,14.7,20,0,294.00
+10465,Guaraná Fantástica,Beverages,Vaffeljernet,3.6,25,0,90.00
+10465,Rogede sild,Seafood,Vaffeljernet,7.6,30,0.1,205.20
+10465,Thüringer Rostbratwurst,Meat/Poultry,Vaffeljernet,99,18,0.1,1603.80
+10465,Valkoinen suklaa,Confections,Vaffeljernet,13,25,0,325.00
+10466,Queso Cabrales,Dairy Products,Comércio Mineiro,16.8,10,0,168.00
+10466,Spegesild,Seafood,Comércio Mineiro,9.6,5,0,48.00
+10467,Guaraná Fantástica,Beverages,Magazzini Alimentari Riuniti,3.6,28,0,100.80
+10467,NuNuCa Nuß-Nougat-Creme,Confections,Magazzini Alimentari Riuniti,11.2,12,0,134.40
+10468,Ipoh Coffee,Beverages,Königlich Essen,36.8,15,0,552.00
+10468,Nord-Ost Matjeshering,Seafood,Königlich Essen,20.7,8,0,165.60
+10469,Chang,Beverages,White Clover Markets,15.2,40,0.15,516.80
+10469,Gula Malacca,Condiments,White Clover Markets,15.5,2,0.15,26.35
+10469,Pavlova,Confections,White Clover Markets,13.9,35,0.15,413.52
+10470,Carnarvon Tigers,Seafood,Bon app',50,30,0,1500.00
+10470,Tunnbröd,Grains/Cereals,Bon app',7.2,15,0,108.00
+10470,Wimmers gute Semmelknödel,Grains/Cereals,Bon app',26.6,8,0,212.80
+10471,Gnocchi di nonna Alice,Grains/Cereals,B's Beverages,30.4,20,0,608.00
+10471,Uncle Bob's Organic Dried Pears,Produce,B's Beverages,24,30,0,720.00
+10472,Guaraná Fantástica,Beverages,Seven Seas Imports,3.6,80,0.05,273.60
+10472,Manjimup Dried Apples,Produce,Seven Seas Imports,42.4,18,0,763.20
+10473,Flotemysost,Dairy Products,Island Trading,17.2,12,0,206.40
+10473,Geitost,Dairy Products,Island Trading,2,12,0,24.00
+10474,Boston Crab Meat,Seafood,Pericles Comidas clásicas,14.7,21,0,308.70
+10474,Rhönbräu Klosterbier,Beverages,Pericles Comidas clásicas,6.2,10,0,62.00
+10474,Rössle Sauerkraut,Produce,Pericles Comidas clásicas,36.4,18,0,655.20
+10474,Tofu,Produce,Pericles Comidas clásicas,18.6,12,0,223.20
+10475,Gorgonzola Telino,Dairy Products,Suprêmes délices,10,35,0.15,297.50
+10475,Lakkalikööri,Beverages,Suprêmes délices,14.4,42,0.15,514.08
+10475,Louisiana Hot Spiced Okra,Condiments,Suprêmes délices,13.6,60,0.15,693.60
+10476,Outback Lager,Beverages,HILARION-Abastos,12,12,0,144.00
+10476,Pâté chinois,Meat/Poultry,HILARION-Abastos,19.2,2,0.05,36.48
+10477,Chai,Beverages,Princesa Isabel Vinhos,14.4,15,0,216.00
+10477,Chartreuse verte,Beverages,Princesa Isabel Vinhos,14.4,20,0.25,216.00
+10477,Sir Rodney's Scones,Confections,Princesa Isabel Vinhos,8,21,0.25,126.00
+10478,Ikura,Seafood,Victuailles en stock,24.8,20,0.05,471.20
+10479,Côte de Blaye,Beverages,Rattlesnake Canyon Grocery,210.8,30,0,6324.00
+10479,Perth Pasties,Meat/Poultry,Rattlesnake Canyon Grocery,26.2,28,0,733.60
+10479,Raclette Courdavault,Dairy Products,Rattlesnake Canyon Grocery,44,60,0,2640.00
+10479,Wimmers gute Semmelknödel,Grains/Cereals,Rattlesnake Canyon Grocery,26.6,30,0,798.00
+10480,Raclette Courdavault,Dairy Products,Folies gourmandes,44,12,0,528.00
+10480,Zaanse koeken,Confections,Folies gourmandes,7.6,30,0,228.00
+10481,Camembert Pierrot,Dairy Products,Ricardo Adocicados,27.2,40,0,1088.00
+10481,Maxilaku,Confections,Ricardo Adocicados,16,24,0,384.00
+10482,Boston Crab Meat,Seafood,Lazy K Kountry Store,14.7,10,0,147.00
+10483,Original Frankfurter grüne Soße,Condiments,White Clover Markets,10.4,30,0.05,296.40
+10483,Sasquatch Ale,Beverages,White Clover Markets,11.2,35,0.05,372.40
+10484,Boston Crab Meat,Seafood,B's Beverages,14.7,10,0,147.00
+10484,Manjimup Dried Apples,Produce,B's Beverages,42.4,3,0,127.20
+10484,Sir Rodney's Scones,Confections,B's Beverages,8,14,0,112.00
+10485,Aniseed Syrup,Condiments,LINO-Delicateses,8,20,0.1,144.00
+10485,Chang,Beverages,LINO-Delicateses,15.2,20,0.1,273.60
+10485,Outback Lager,Beverages,LINO-Delicateses,12,60,0.1,648.00
+10485,Pâté chinois,Meat/Poultry,LINO-Delicateses,19.2,30,0.1,518.40
+10486,Longlife Tofu,Produce,HILARION-Abastos,8,16,0,128.00
+10486,Manjimup Dried Apples,Produce,HILARION-Abastos,42.4,25,0,1060.00
+10486,Queso Cabrales,Dairy Products,HILARION-Abastos,16.8,5,0,84.00
+10487,Gumbär Gummibärchen,Confections,Queen Cozinha,24.9,30,0,747.00
+10487,Teatime Chocolate Biscuits,Confections,Queen Cozinha,7.3,5,0,36.50
+10487,Tourtière,Meat/Poultry,Queen Cozinha,5.9,24,0.25,106.20
+10488,Raclette Courdavault,Dairy Products,Frankenversand,44,30,0,1320.00
+10488,Röd Kaviar,Seafood,Frankenversand,12,20,0.2,192.00
+10489,Pavlova,Confections,Piccolo und mehr,13.9,18,0,250.20
+10489,Queso Cabrales,Dairy Products,Piccolo und mehr,16.8,15,0.25,189.00
+10490,Raclette Courdavault,Dairy Products,HILARION-Abastos,44,60,0,2640.00
+10490,Rhönbräu Klosterbier,Beverages,HILARION-Abastos,6.2,36,0,223.20
+10490,Scottish Longbreads,Confections,HILARION-Abastos,10,30,0,300.00
+10491,Gula Malacca,Condiments,Furia Bacalhau e Frutos do Mar,15.5,15,0.15,197.63
+10491,Original Frankfurter grüne Soße,Condiments,Furia Bacalhau e Frutos do Mar,10.4,7,0.15,61.88
+10492,NuNuCa Nuß-Nougat-Creme,Confections,Bottom-Dollar Markets,11.2,60,0.05,638.40
+10492,Singaporean Hokkien Fried Mee,Grains/Cereals,Bottom-Dollar Markets,11.2,20,0.05,212.80
+10493,Gudbrandsdalsost,Dairy Products,La maison d'Asie,28.8,10,0.1,259.20
+10493,Louisiana Fiery Hot Pepper Sauce,Condiments,La maison d'Asie,16.8,15,0.1,226.80
+10493,Louisiana Hot Spiced Okra,Condiments,La maison d'Asie,13.6,10,0.1,122.40
+10494,Gnocchi di nonna Alice,Grains/Cereals,Comércio Mineiro,30.4,30,0,912.00
+10495,Jack's New England Clam Chowder,Seafood,Laughing Bacchus Wine Cellars,7.7,20,0,154.00
+10495,Original Frankfurter grüne Soße,Condiments,Laughing Bacchus Wine Cellars,10.4,5,0,52.00
+10495,Tunnbröd,Grains/Cereals,Laughing Bacchus Wine Cellars,7.2,10,0,72.00
+10496,Gorgonzola Telino,Dairy Products,Tradição Hipermercados,10,20,0.05,190.00
+10497,Gnocchi di nonna Alice,Grains/Cereals,Lehmanns Marktstand,30.4,14,0,425.60
+10497,Mozzarella di Giovanni,Dairy Products,Lehmanns Marktstand,27.8,25,0,695.00
+10497,Original Frankfurter grüne Soße,Condiments,Lehmanns Marktstand,10.4,25,0,260.00
+10498,Boston Crab Meat,Seafood,HILARION-Abastos,18.4,5,0,92.00
+10498,Guaraná Fantástica,Beverages,HILARION-Abastos,4.5,14,0,63.00
+10498,Singaporean Hokkien Fried Mee,Grains/Cereals,HILARION-Abastos,14,30,0,420.00
+10499,Maxilaku,Confections,LILA-Supermercado,20,25,0,500.00
+10499,Rössle Sauerkraut,Produce,LILA-Supermercado,45.6,20,0,912.00
+10500,Genen Shouyu,Condiments,La maison d'Asie,15.5,12,0.05,176.70
+10500,Rössle Sauerkraut,Produce,La maison d'Asie,45.6,8,0.05,346.56
+10501,Tourtière,Meat/Poultry,Blauer See Delikatessen,7.45,20,0,149.00
+10502,Laughing Lumberjack Lager,Beverages,Pericles Comidas clásicas,14,30,0,420.00
+10502,Perth Pasties,Meat/Poultry,Pericles Comidas clásicas,32.8,6,0,196.80
+10502,Rogede sild,Seafood,Pericles Comidas clásicas,9.5,21,0,199.50
+10503,Louisiana Fiery Hot Pepper Sauce,Condiments,Hungry Owl All-Night Grocers,21.05,20,0,421.00
+10503,Tofu,Produce,Hungry Owl All-Night Grocers,23.25,70,0,1627.50
+10504,Chang,Beverages,White Clover Markets,19,12,0,228.00
+10504,Perth Pasties,Meat/Poultry,White Clover Markets,32.8,10,0,328.00
+10504,Sir Rodney's Scones,Confections,White Clover Markets,10,12,0,120.00
+10504,Sirop d'érable,Condiments,White Clover Markets,28.5,25,0,712.50
+10505,Tarte au sucre,Confections,Mère Paillarde,49.3,3,0,147.90
+10506,NuNuCa Nuß-Nougat-Creme,Confections,Königlich Essen,14,18,0.1,226.80
+10506,Outback Lager,Beverages,Königlich Essen,15,14,0.1,189.00
+10507,Chocolade,Confections,Antonio Moreno Taquería,12.75,15,0.15,162.56
+10507,Ipoh Coffee,Beverages,Antonio Moreno Taquería,46,15,0.15,586.50
+10508,Chartreuse verte,Beverages,Ottilies Käseladen,18,10,0,180.00
+10508,Konbu,Seafood,Ottilies Käseladen,6,10,0,60.00
+10509,Rössle Sauerkraut,Produce,Blauer See Delikatessen,45.6,3,0,136.80
+10510,Rhönbräu Klosterbier,Beverages,Save-a-lot Markets,7.75,36,0.1,251.10
+10510,Thüringer Rostbratwurst,Meat/Poultry,Save-a-lot Markets,123.79,36,0,4456.44
+10511,Chef Anton's Cajun Seasoning,Condiments,Bon app',22,50,0.15,935.00
+10511,Northwoods Cranberry Sauce,Condiments,Bon app',40,10,0.15,340.00
+10511,Uncle Bob's Organic Dried Pears,Produce,Bon app',30,50,0.15,1275.00
+10512,Camembert Pierrot,Dairy Products,Familia Arquibaldo,34,12,0.15,346.80
+10512,Guaraná Fantástica,Beverages,Familia Arquibaldo,4.5,10,0.15,38.25
+10512,Spegesild,Seafood,Familia Arquibaldo,12,9,0.15,91.80
+10512,Zaanse koeken,Confections,Familia Arquibaldo,9.5,6,0.15,48.45
+10513,Mascarpone Fabioli,Dairy Products,Die Wandernde Kuh,32,50,0.2,1280.00
+10513,Sir Rodney's Scones,Confections,Die Wandernde Kuh,10,40,0.2,320.00
+10513,Sirop d'érable,Condiments,Die Wandernde Kuh,28.5,15,0.2,342.00
+10514,Gnocchi di nonna Alice,Grains/Cereals,Ernst Handel,38,70,0,2660.00
+10514,Louisiana Fiery Hot Pepper Sauce,Condiments,Ernst Handel,21.05,39,0,820.95
+10514,Rhönbräu Klosterbier,Beverages,Ernst Handel,7.75,50,0,387.50
+10514,Rössle Sauerkraut,Produce,Ernst Handel,45.6,35,0,1596.00
+10514,Sir Rodney's Marmalade,Confections,Ernst Handel,81,39,0,3159.00
+10515,Camembert Pierrot,Dairy Products,QUICK-Stop,34,84,0.15,2427.60
+10515,Geitost,Dairy Products,QUICK-Stop,2.5,16,0.15,34.00
+10515,Mishi Kobe Niku,Meat/Poultry,QUICK-Stop,97,16,0.15,1319.20
+10515,Pavlova,Confections,QUICK-Stop,17.45,50,0,872.50
+10515,Schoggi Schokolade,Confections,QUICK-Stop,43.9,120,0,5268.00
+10516,Carnarvon Tigers,Seafood,Hungry Owl All-Night Grocers,62.5,25,0.1,1406.25
+10516,Jack's New England Clam Chowder,Seafood,Hungry Owl All-Night Grocers,9.65,80,0.1,694.80
+10516,Singaporean Hokkien Fried Mee,Grains/Cereals,Hungry Owl All-Night Grocers,14,20,0,280.00
+10517,Filo Mix,Grains/Cereals,North/South,7,6,0,42.00
+10517,Outback Lager,Beverages,North/South,15,6,0,90.00
+10517,Raclette Courdavault,Dairy Products,North/South,55,4,0,220.00
+10518,Côte de Blaye,Beverages,Tortuga Restaurante,263.5,15,0,3952.50
+10518,Guaraná Fantástica,Beverages,Tortuga Restaurante,4.5,5,0,22.50
+10518,Gula Malacca,Condiments,Tortuga Restaurante,19.45,9,0,175.05
+10519,Camembert Pierrot,Dairy Products,Chop-suey Chinese,34,10,0.05,323.00
+10519,Gnocchi di nonna Alice,Grains/Cereals,Chop-suey Chinese,38,40,0,1520.00
+10519,Ikura,Seafood,Chop-suey Chinese,31,16,0.05,471.20
+10520,Guaraná Fantástica,Beverages,Santé Gourmet,4.5,8,0,36.00
+10520,Perth Pasties,Meat/Poultry,Santé Gourmet,32.8,5,0,164.00
+10521,Jack's New England Clam Chowder,Seafood,Cactus Comidas para llevar,9.65,10,0,96.50
+10521,Scottish Longbreads,Confections,Cactus Comidas para llevar,12.5,6,0,75.00
+10521,Steeleye Stout,Beverages,Cactus Comidas para llevar,18,3,0,54.00
+10522,Boston Crab Meat,Seafood,Lehmanns Marktstand,18.4,25,0.2,368.00
+10522,Chai,Beverages,Lehmanns Marktstand,18,40,0.2,576.00
+10522,Nord-Ost Matjeshering,Seafood,Lehmanns Marktstand,25.89,20,0.2,414.24
+10522,Northwoods Cranberry Sauce,Condiments,Lehmanns Marktstand,40,24,0,960.00
+10523,Alice Mutton,Meat/Poultry,Seven Seas Imports,39,25,0.1,877.50
+10523,Gravad lax,Seafood,Seven Seas Imports,26,18,0.1,421.20
+10523,Jack's New England Clam Chowder,Seafood,Seven Seas Imports,9.65,6,0.1,52.11
+10523,Sir Rodney's Marmalade,Confections,Seven Seas Imports,81,15,0.1,1093.50
+10524,Ikura,Seafood,Berglunds snabbköp,31,2,0,62.00
+10524,Ipoh Coffee,Beverages,Berglunds snabbköp,46,60,0,2760.00
+10524,Nord-Ost Matjeshering,Seafood,Berglunds snabbköp,25.89,10,0,258.90
+10524,Tourtière,Meat/Poultry,Berglunds snabbköp,7.45,15,0,111.75
+10525,Boston Crab Meat,Seafood,Bon app',18.4,15,0.1,248.40
+10525,Inlagd Sill,Seafood,Bon app',19,30,0,570.00
+10526,Chai,Beverages,Wartian Herkku,18,8,0.15,122.40
+10526,Gnocchi di nonna Alice,Grains/Cereals,Wartian Herkku,38,30,0.15,969.00
+10526,Konbu,Seafood,Wartian Herkku,6,10,0,60.00
+10527,Chef Anton's Cajun Seasoning,Condiments,QUICK-Stop,22,50,0.1,990.00
+10527,Inlagd Sill,Seafood,QUICK-Stop,19,30,0.1,513.00
+10528,Geitost,Dairy Products,Great Lakes Food Market,2.5,8,0.2,16.00
+10528,Mozzarella di Giovanni,Dairy Products,Great Lakes Food Market,34.8,9,0,313.20
+10528,Queso Cabrales,Dairy Products,Great Lakes Food Market,21,3,0,63.00
+10529,Gudbrandsdalsost,Dairy Products,Maison Dewey,36,10,0,360.00
+10529,Pâté chinois,Meat/Poultry,Maison Dewey,24,14,0,336.00
+10529,Scottish Longbreads,Confections,Maison Dewey,12.5,20,0,250.00
+10530,Alice Mutton,Meat/Poultry,Piccolo und mehr,39,40,0,1560.00
+10530,Ipoh Coffee,Beverages,Piccolo und mehr,46,25,0,1150.00
+10530,Lakkalikööri,Beverages,Piccolo und mehr,18,50,0,900.00
+10530,Sirop d'érable,Condiments,Piccolo und mehr,28.5,20,0,570.00
+10531,Raclette Courdavault,Dairy Products,Océano Atlántico Ltda.,55,2,0,110.00
+10532,Louisiana Hot Spiced Okra,Condiments,Eastern Connection,17,24,0,408.00
+10532,Nord-Ost Matjeshering,Seafood,Eastern Connection,25.89,15,0,388.35
+10533,Chef Anton's Cajun Seasoning,Condiments,Folk och fä HB,22,50,0.05,1045.00
+10533,Mozzarella di Giovanni,Dairy Products,Folk och fä HB,34.8,24,0,835.20
+10533,Röd Kaviar,Seafood,Folk och fä HB,15,24,0.05,342.00
+10534,Boston Crab Meat,Seafood,Lehmanns Marktstand,18.4,10,0.2,147.20
+10534,Nord-Ost Matjeshering,Seafood,Lehmanns Marktstand,25.89,10,0,258.90
+10534,Tourtière,Meat/Poultry,Lehmanns Marktstand,7.45,10,0.2,59.60
+10535,Boston Crab Meat,Seafood,Antonio Moreno Taquería,18.4,10,0.1,165.60
+10535,Queso Cabrales,Dairy Products,Antonio Moreno Taquería,21,50,0.1,945.00
+10535,Raclette Courdavault,Dairy Products,Antonio Moreno Taquería,55,15,0.1,742.50
+10535,Ravioli Angelo,Grains/Cereals,Antonio Moreno Taquería,19.5,5,0.1,87.75
+10536,Camembert Pierrot,Dairy Products,Lehmanns Marktstand,34,35,0.25,892.50
+10536,Geitost,Dairy Products,Lehmanns Marktstand,2.5,30,0,75.00
+10536,Gorgonzola Telino,Dairy Products,Lehmanns Marktstand,12.5,20,0,250.00
+10536,Queso Manchego La Pastora,Dairy Products,Lehmanns Marktstand,38,15,0.25,427.50
+10537,Escargots de Bourgogne,Seafood,Richter Supermarkt,13.25,20,0,265.00
+10537,Gorgonzola Telino,Dairy Products,Richter Supermarkt,12.5,30,0,375.00
+10537,Manjimup Dried Apples,Produce,Richter Supermarkt,53,6,0,318.00
+10537,Mozzarella di Giovanni,Dairy Products,Richter Supermarkt,34.8,21,0,730.80
+10537,Röd Kaviar,Seafood,Richter Supermarkt,15,9,0,135.00
+10538,Mozzarella di Giovanni,Dairy Products,B's Beverages,34.8,1,0,34.80
+10538,Outback Lager,Beverages,B's Beverages,15,7,0,105.00
+10539,Geitost,Dairy Products,B's Beverages,2.5,15,0,37.50
+10539,Konbu,Seafood,B's Beverages,6,8,0,48.00
+10539,Maxilaku,Confections,B's Beverages,20,6,0,120.00
+10539,Sir Rodney's Scones,Confections,B's Beverages,10,15,0,150.00
+10540,Aniseed Syrup,Condiments,QUICK-Stop,10,60,0,600.00
+10540,Côte de Blaye,Beverages,QUICK-Stop,263.5,30,0,7905.00
+10540,Gumbär Gummibärchen,Confections,QUICK-Stop,31.23,40,0,1249.20
+10540,Scottish Longbreads,Confections,QUICK-Stop,12.5,35,0,437.50
+10541,Côte de Blaye,Beverages,Hanari Carnes,263.5,4,0.1,948.60
+10541,Flotemysost,Dairy Products,Hanari Carnes,21.5,9,0.1,174.15
+10541,Guaraná Fantástica,Beverages,Hanari Carnes,4.5,35,0.1,141.75
+10541,Louisiana Fiery Hot Pepper Sauce,Condiments,Hanari Carnes,21.05,36,0.1,682.02
+10542,Queso Cabrales,Dairy Products,Königlich Essen,21,15,0.05,299.25
+10542,Tourtière,Meat/Poultry,Königlich Essen,7.45,24,0.05,169.86
+10543,Queso Manchego La Pastora,Dairy Products,LILA-Supermercado,38,30,0.15,969.00
+10543,Tunnbröd,Grains/Cereals,LILA-Supermercado,9,70,0.15,535.50
+10544,Laughing Lumberjack Lager,Beverages,Lonesome Pine Restaurant,14,7,0,98.00
+10544,Rössle Sauerkraut,Produce,Lonesome Pine Restaurant,45.6,7,0,319.20
+10545,Queso Cabrales,Dairy Products,Lazy K Kountry Store,21,10,0,210.00
+10546,Steeleye Stout,Beverages,Victuailles en stock,18,30,0,540.00
+10546,Tarte au sucre,Confections,Victuailles en stock,49.3,40,0,1972.00
+10546,Uncle Bob's Organic Dried Pears,Produce,Victuailles en stock,30,10,0,300.00
+10547,Inlagd Sill,Seafood,Seven Seas Imports,19,60,0,1140.00
+10547,Mascarpone Fabioli,Dairy Products,Seven Seas Imports,32,24,0.15,652.80
+10548,Jack's New England Clam Chowder,Seafood,Toms Spezialitäten,9.65,14,0,135.10
+10548,Sasquatch Ale,Beverages,Toms Spezialitäten,14,10,0.25,105.00
+10549,Gorgonzola Telino,Dairy Products,QUICK-Stop,12.5,55,0.15,584.38
+10549,Manjimup Dried Apples,Produce,QUICK-Stop,53,48,0.15,2162.40
+10549,Rogede sild,Seafood,QUICK-Stop,9.5,100,0.15,807.50
+10550,Alice Mutton,Meat/Poultry,Godos Cocina Típica,39,8,0.1,280.80
+10550,Sir Rodney's Scones,Confections,Godos Cocina Típica,10,6,0.1,54.00
+10550,Sirop d'érable,Condiments,Godos Cocina Típica,28.5,10,0.1,256.50
+10550,Teatime Chocolate Biscuits,Confections,Godos Cocina Típica,9.2,10,0,92.00
+10551,Gula Malacca,Condiments,Furia Bacalhau e Frutos do Mar,19.45,40,0,778.00
+10551,Pavlova,Confections,Furia Bacalhau e Frutos do Mar,17.45,40,0.15,593.30
+10551,Steeleye Stout,Beverages,Furia Bacalhau e Frutos do Mar,18,20,0.15,306.00
+10552,Gudbrandsdalsost,Dairy Products,HILARION-Abastos,36,18,0,648.00
+10552,Rhönbräu Klosterbier,Beverages,HILARION-Abastos,7.75,30,0,232.50
+10553,Gorgonzola Telino,Dairy Products,Wartian Herkku,12.5,30,0,375.00
+10553,Gustaf's Knäckebröd,Grains/Cereals,Wartian Herkku,21,24,0,504.00
+10553,Pavlova,Confections,Wartian Herkku,17.45,14,0,244.30
+10553,Queso Cabrales,Dairy Products,Wartian Herkku,21,15,0,315.00
+10553,Steeleye Stout,Beverages,Wartian Herkku,18,6,0,108.00
+10554,Original Frankfurter grüne Soße,Condiments,Ottilies Käseladen,13,10,0.05,123.50
+10554,Pavlova,Confections,Ottilies Käseladen,17.45,30,0.05,497.33
+10554,Tarte au sucre,Confections,Ottilies Käseladen,49.3,20,0.05,936.70
+10554,Tunnbröd,Grains/Cereals,Ottilies Käseladen,9,20,0.05,171.00
+10555,Gnocchi di nonna Alice,Grains/Cereals,Save-a-lot Markets,38,40,0.2,1216.00
+10555,Guaraná Fantástica,Beverages,Save-a-lot Markets,4.5,18,0.2,64.80
+10555,Manjimup Dried Apples,Produce,Save-a-lot Markets,53,20,0.2,848.00
+10555,Teatime Chocolate Biscuits,Confections,Save-a-lot Markets,9.2,35,0.2,257.60
+10555,Tofu,Produce,Save-a-lot Markets,23.25,30,0.2,558.00
+10556,Mozzarella di Giovanni,Dairy Products,Simons bistro,34.8,24,0,835.20
+10557,Rhönbräu Klosterbier,Beverages,Lehmanns Marktstand,7.75,20,0,155.00
+10557,Wimmers gute Semmelknödel,Grains/Cereals,Lehmanns Marktstand,33.25,30,0,997.50
+10558,Filo Mix,Grains/Cereals,Around the Horn,7,30,0,210.00
+10558,Manjimup Dried Apples,Produce,Around the Horn,53,20,0,1060.00
+10558,Perth Pasties,Meat/Poultry,Around the Horn,32.8,18,0,590.40
+10558,Röd Kaviar,Seafood,Around the Horn,15,3,0,45.00
+10558,Zaanse koeken,Confections,Around the Horn,9.5,25,0,237.50
+10559,Jack's New England Clam Chowder,Seafood,Blondesddsl père et fils,9.65,12,0.05,110.01
+10559,Pâté chinois,Meat/Poultry,Blondesddsl père et fils,24,18,0.05,410.40
+10560,Nord-Ost Matjeshering,Seafood,Frankenversand,25.89,20,0,517.80
+10560,Tarte au sucre,Confections,Frankenversand,49.3,15,0.25,554.63
+10561,Gula Malacca,Condiments,Folk och fä HB,19.45,10,0,194.50
+10561,Manjimup Dried Apples,Produce,Folk och fä HB,53,50,0,2650.00
+10562,Geitost,Dairy Products,Reggiani Caseifici,2.5,20,0.1,45.00
+10562,Tarte au sucre,Confections,Reggiani Caseifici,49.3,10,0.1,443.70
+10563,Filo Mix,Grains/Cereals,Ricardo Adocicados,7,70,0,490.00
+10563,Inlagd Sill,Seafood,Ricardo Adocicados,19,25,0,475.00
+10564,Alice Mutton,Meat/Poultry,Rattlesnake Canyon Grocery,39,16,0.05,592.80
+10564,Gorgonzola Telino,Dairy Products,Rattlesnake Canyon Grocery,12.5,6,0.05,71.25
+10564,Pâté chinois,Meat/Poultry,Rattlesnake Canyon Grocery,24,25,0.05,570.00
+10565,Guaraná Fantástica,Beverages,Mère Paillarde,4.5,25,0.1,101.25
+10565,Wimmers gute Semmelknödel,Grains/Cereals,Mère Paillarde,33.25,18,0.1,538.65
+10566,Carnarvon Tigers,Seafood,Blondesddsl père et fils,62.5,18,0.15,956.25
+10566,Lakkalikööri,Beverages,Blondesddsl père et fils,18,10,0,180.00
+10566,Queso Cabrales,Dairy Products,Blondesddsl père et fils,21,35,0.15,624.75
+10567,Gorgonzola Telino,Dairy Products,Hungry Owl All-Night Grocers,12.5,60,0.2,600.00
+10567,Manjimup Dried Apples,Produce,Hungry Owl All-Night Grocers,53,3,0,159.00
+10567,Raclette Courdavault,Dairy Products,Hungry Owl All-Night Grocers,55,40,0.2,1760.00
+10568,Ikura,Seafood,Galería del gastrónomo,31,5,0,155.00
+10569,Gorgonzola Telino,Dairy Products,Rattlesnake Canyon Grocery,12.5,35,0.2,350.00
+10569,Lakkalikööri,Beverages,Rattlesnake Canyon Grocery,18,30,0,540.00
+10570,Gnocchi di nonna Alice,Grains/Cereals,Mère Paillarde,38,60,0.05,2166.00
+10570,Queso Cabrales,Dairy Products,Mère Paillarde,21,15,0.05,299.25
+10571,Singaporean Hokkien Fried Mee,Grains/Cereals,Ernst Handel,14,28,0.15,333.20
+10571,Tofu,Produce,Ernst Handel,23.25,11,0.15,217.39
+10572,Boston Crab Meat,Seafood,Berglunds snabbköp,18.4,50,0,920.00
+10572,Mascarpone Fabioli,Dairy Products,Berglunds snabbköp,32,10,0.1,288.00
+10572,Pavlova,Confections,Berglunds snabbköp,17.45,12,0.1,188.46
+10572,Rhönbräu Klosterbier,Beverages,Berglunds snabbköp,7.75,15,0.1,104.63
+10573,Alice Mutton,Meat/Poultry,Antonio Moreno Taquería,39,18,0,702.00
+10573,Perth Pasties,Meat/Poultry,Antonio Moreno Taquería,32.8,25,0,820.00
+10573,Sasquatch Ale,Beverages,Antonio Moreno Taquería,14,40,0,560.00
+10574,Boston Crab Meat,Seafood,Trail's Head Gourmet Provisioners,18.4,2,0,36.80
+10574,Geitost,Dairy Products,Trail's Head Gourmet Provisioners,2.5,14,0,35.00
+10574,Tarte au sucre,Confections,Trail's Head Gourmet Provisioners,49.3,10,0,493.00
+10574,Wimmers gute Semmelknödel,Grains/Cereals,Trail's Head Gourmet Provisioners,33.25,6,0,199.50
+10575,Lakkalikööri,Beverages,Morgenstern Gesundkost,18,10,0,180.00
+10575,Mozzarella di Giovanni,Dairy Products,Morgenstern Gesundkost,34.8,30,0,1044.00
+10575,Raclette Courdavault,Dairy Products,Morgenstern Gesundkost,55,12,0,660.00
+10575,Vegie-spread,Condiments,Morgenstern Gesundkost,43.9,6,0,263.40
+10576,Chai,Beverages,Tortuga Restaurante,18,10,0,180.00
+10576,Gorgonzola Telino,Dairy Products,Tortuga Restaurante,12.5,20,0,250.00
+10576,Gula Malacca,Condiments,Tortuga Restaurante,19.45,21,0,408.45
+10577,Chartreuse verte,Beverages,Trail's Head Gourmet Provisioners,18,10,0,180.00
+10577,Original Frankfurter grüne Soße,Condiments,Trail's Head Gourmet Provisioners,13,18,0,234.00
+10577,Rhönbräu Klosterbier,Beverages,Trail's Head Gourmet Provisioners,7.75,20,0,155.00
+10578,Ravioli Angelo,Grains/Cereals,B's Beverages,19.5,6,0,117.00
+10578,Steeleye Stout,Beverages,B's Beverages,18,20,0,360.00
+10579,Genen Shouyu,Condiments,Let's Stop N Shop,15.5,10,0,155.00
+10579,Rhönbräu Klosterbier,Beverages,Let's Stop N Shop,7.75,21,0,162.75
+10580,Jack's New England Clam Chowder,Seafood,Ottilies Käseladen,9.65,9,0.05,82.51
+10580,Louisiana Fiery Hot Pepper Sauce,Condiments,Ottilies Käseladen,21.05,30,0.05,599.92
+10580,Tofu,Produce,Ottilies Käseladen,23.25,15,0.05,331.31
+10581,Rhönbräu Klosterbier,Beverages,Familia Arquibaldo,7.75,50,0.2,310.00
+10582,Lakkalikööri,Beverages,Blauer See Delikatessen,18,14,0,252.00
+10582,Ravioli Angelo,Grains/Cereals,Blauer See Delikatessen,19.5,4,0,78.00
+10583,Camembert Pierrot,Dairy Products,Wartian Herkku,34,24,0.15,693.60
+10583,Gudbrandsdalsost,Dairy Products,Wartian Herkku,36,10,0.15,306.00
+10583,Thüringer Rostbratwurst,Meat/Poultry,Wartian Herkku,123.79,10,0,1237.90
+10584,Gorgonzola Telino,Dairy Products,Blondesddsl père et fils,12.5,50,0.05,593.75
+10585,Zaanse koeken,Confections,Wellington Importadora,9.5,15,0,142.50
+10586,Filo Mix,Grains/Cereals,Reggiani Caseifici,7,4,0.15,23.80
+10587,Gumbär Gummibärchen,Confections,Que Delícia,31.23,6,0,187.38
+10587,Original Frankfurter grüne Soße,Condiments,Que Delícia,13,20,0,260.00
+10587,Steeleye Stout,Beverages,Que Delícia,18,20,0,360.00
+10588,Carnarvon Tigers,Seafood,QUICK-Stop,62.5,40,0.2,2000.00
+10588,Singaporean Hokkien Fried Mee,Grains/Cereals,QUICK-Stop,14,100,0.2,1120.00
+10589,Steeleye Stout,Beverages,Great Lakes Food Market,18,4,0,72.00
+10590,Chai,Beverages,Mère Paillarde,18,20,0,360.00
+10590,Original Frankfurter grüne Soße,Condiments,Mère Paillarde,13,60,0.05,741.00
+10591,Aniseed Syrup,Condiments,Vaffeljernet,10,14,0,140.00
+10591,Tourtière,Meat/Poultry,Vaffeljernet,7.45,50,0,372.50
+10591,Uncle Bob's Organic Dried Pears,Produce,Vaffeljernet,30,10,0,300.00
+10592,Genen Shouyu,Condiments,Lehmanns Marktstand,15.5,25,0.05,368.13
+10592,Gumbär Gummibärchen,Confections,Lehmanns Marktstand,31.23,5,0.05,148.34
+10593,Gudbrandsdalsost,Dairy Products,Lehmanns Marktstand,36,20,0.2,576.00
+10593,Lakkalikööri,Beverages,Lehmanns Marktstand,18,4,0.2,57.60
+10593,Sir Rodney's Marmalade,Confections,Lehmanns Marktstand,81,21,0.2,1360.80
+10594,Escargots de Bourgogne,Seafood,Old World Delicatessen,13.25,30,0,397.50
+10594,Filo Mix,Grains/Cereals,Old World Delicatessen,7,24,0,168.00
+10595,Gudbrandsdalsost,Dairy Products,Ernst Handel,36,65,0.25,1755.00
+10595,Sirop d'érable,Condiments,Ernst Handel,28.5,120,0.25,2565.00
+10595,Steeleye Stout,Beverages,Ernst Handel,18,30,0.25,405.00
+10596,Gnocchi di nonna Alice,Grains/Cereals,White Clover Markets,38,5,0.2,152.00
+10596,Rhönbräu Klosterbier,Beverages,White Clover Markets,7.75,30,0.2,186.00
+10596,Vegie-spread,Condiments,White Clover Markets,43.9,24,0.2,842.88
+10597,Guaraná Fantástica,Beverages,Piccolo und mehr,4.5,35,0.2,126.00
+10597,Louisiana Fiery Hot Pepper Sauce,Condiments,Piccolo und mehr,21.05,12,0.2,202.08
+10597,Ravioli Angelo,Grains/Cereals,Piccolo und mehr,19.5,20,0,390.00
+10598,Flotemysost,Dairy Products,Rattlesnake Canyon Grocery,21.5,9,0,193.50
+10598,Schoggi Schokolade,Confections,Rattlesnake Canyon Grocery,43.9,50,0,2195.00
+10599,Tarte au sucre,Confections,B's Beverages,49.3,10,0,493.00
+10600,Röd Kaviar,Seafood,Hungry Coyote Import Store,15,30,0,450.00
+10600,Tourtière,Meat/Poultry,Hungry Coyote Import Store,7.45,4,0,29.80
+10601,Konbu,Seafood,HILARION-Abastos,6,60,0,360.00
+10601,Raclette Courdavault,Dairy Products,HILARION-Abastos,55,35,0,1925.00
+10602,Original Frankfurter grüne Soße,Condiments,Vaffeljernet,13,5,0.25,48.75
+10603,Gustaf's Knäckebröd,Grains/Cereals,Save-a-lot Markets,21,48,0,1008.00
+10603,Maxilaku,Confections,Save-a-lot Markets,20,25,0.05,475.00
+10604,Chocolade,Confections,Furia Bacalhau e Frutos do Mar,12.75,6,0.1,68.85
+10604,Lakkalikööri,Beverages,Furia Bacalhau e Frutos do Mar,18,10,0.1,162.00
+10605,Camembert Pierrot,Dairy Products,Mère Paillarde,34,70,0.05,2261.00
+10605,Flotemysost,Dairy Products,Mère Paillarde,21.5,15,0.05,306.38
+10605,Pavlova,Confections,Mère Paillarde,17.45,30,0.05,497.33
+10605,Raclette Courdavault,Dairy Products,Mère Paillarde,55,20,0.05,1045.00
+10606,Chef Anton's Cajun Seasoning,Condiments,Tradição Hipermercados,22,20,0.2,352.00
+10606,Pâté chinois,Meat/Poultry,Tradição Hipermercados,24,20,0.2,384.00
+10606,Tarte au sucre,Confections,Tradição Hipermercados,49.3,10,0.2,394.40
+10607,Alice Mutton,Meat/Poultry,Save-a-lot Markets,39,100,0,3900.00
+10607,Boston Crab Meat,Seafood,Save-a-lot Markets,18.4,42,0,772.80
+10607,Geitost,Dairy Products,Save-a-lot Markets,2.5,14,0,35.00
+10607,Mozzarella di Giovanni,Dairy Products,Save-a-lot Markets,34.8,12,0,417.60
+10607,Uncle Bob's Organic Dried Pears,Produce,Save-a-lot Markets,30,45,0,1350.00
+10608,Gnocchi di nonna Alice,Grains/Cereals,Toms Spezialitäten,38,28,0,1064.00
+10609,Chai,Beverages,Du monde entier,18,3,0,54.00
+10609,Ikura,Seafood,Du monde entier,31,10,0,310.00
+10609,Sir Rodney's Scones,Confections,Du monde entier,10,6,0,60.00
+10610,Inlagd Sill,Seafood,La maison d'Asie,19,21,0.25,299.25
+10611,Camembert Pierrot,Dairy Products,Wolski  Zajazd,34,15,0,510.00
+10611,Chai,Beverages,Wolski  Zajazd,18,6,0,108.00
+10611,Chang,Beverages,Wolski  Zajazd,19,10,0,190.00
+10612,Camembert Pierrot,Dairy Products,Save-a-lot Markets,34,40,0,1360.00
+10612,Ikura,Seafood,Save-a-lot Markets,31,70,0,2170.00
+10612,Inlagd Sill,Seafood,Save-a-lot Markets,19,55,0,1045.00
+10612,Lakkalikööri,Beverages,Save-a-lot Markets,18,80,0,1440.00
+10612,Maxilaku,Confections,Save-a-lot Markets,20,18,0,360.00
+10613,Konbu,Seafood,HILARION-Abastos,6,8,0.1,43.20
+10613,Rhönbräu Klosterbier,Beverages,HILARION-Abastos,7.75,40,0,310.00
+10614,Chartreuse verte,Beverages,Blauer See Delikatessen,18,5,0,90.00
+10614,Queso Cabrales,Dairy Products,Blauer See Delikatessen,21,14,0,294.00
+10614,Sir Rodney's Scones,Confections,Blauer See Delikatessen,10,8,0,80.00
+10615,Pâté chinois,Meat/Poultry,Wilman Kala,24,5,0,120.00
+10616,Côte de Blaye,Beverages,Great Lakes Food Market,263.5,15,0.05,3754.88
+10616,Flotemysost,Dairy Products,Great Lakes Food Market,21.5,15,0.05,306.38
+10616,Gnocchi di nonna Alice,Grains/Cereals,Great Lakes Food Market,38,14,0,532.00
+10616,Outback Lager,Beverages,Great Lakes Food Market,15,15,0.05,213.75
+10617,Raclette Courdavault,Dairy Products,Great Lakes Food Market,55,30,0.15,1402.50
+10618,Gnocchi di nonna Alice,Grains/Cereals,Mère Paillarde,38,20,0,760.00
+10618,Grandma's Boysenberry Spread,Condiments,Mère Paillarde,25,70,0,1750.00
+10618,Scottish Longbreads,Confections,Mère Paillarde,12.5,15,0,187.50
+10619,Gustaf's Knäckebröd,Grains/Cereals,Mère Paillarde,21,40,0,840.00
+10619,Sir Rodney's Scones,Confections,Mère Paillarde,10,42,0,420.00
+10620,Filo Mix,Grains/Cereals,Laughing Bacchus Wine Cellars,7,5,0,35.00
+10620,Guaraná Fantástica,Beverages,Laughing Bacchus Wine Cellars,4.5,5,0,22.50
+10621,Flotemysost,Dairy Products,Island Trading,21.5,15,0,322.50
+10621,Outback Lager,Beverages,Island Trading,15,20,0,300.00
+10621,Teatime Chocolate Biscuits,Confections,Island Trading,9.2,5,0,46.00
+10621,Tunnbröd,Grains/Cereals,Island Trading,9,10,0,90.00
+10622,Chang,Beverages,Ricardo Adocicados,19,20,0,380.00
+10622,Scottish Longbreads,Confections,Ricardo Adocicados,12.5,18,0.2,180.00
+10623,Guaraná Fantástica,Beverages,Frankenversand,4.5,3,0,13.50
+10623,Sir Rodney's Scones,Confections,Frankenversand,10,25,0.1,225.00
+10623,Steeleye Stout,Beverages,Frankenversand,18,30,0.1,486.00
+10623,Teatime Chocolate Biscuits,Confections,Frankenversand,9.2,15,0.1,124.20
+10623,Tofu,Produce,Frankenversand,23.25,21,0,488.25
+10624,Gula Malacca,Condiments,The Cracker Box,19.45,10,0,194.50
+10624,Rössle Sauerkraut,Produce,The Cracker Box,45.6,10,0,456.00
+10624,Thüringer Rostbratwurst,Meat/Poultry,The Cracker Box,123.79,6,0,742.74
+10625,Camembert Pierrot,Dairy Products,Ana Trujillo Emparedados y helados,34,10,0,340.00
+10625,Singaporean Hokkien Fried Mee,Grains/Cereals,Ana Trujillo Emparedados y helados,14,5,0,70.00
+10625,Tofu,Produce,Ana Trujillo Emparedados y helados,23.25,3,0,69.75
+10626,Camembert Pierrot,Dairy Products,Berglunds snabbköp,34,20,0,680.00
+10626,Flotemysost,Dairy Products,Berglunds snabbköp,21.5,20,0,430.00
+10626,Perth Pasties,Meat/Poultry,Berglunds snabbköp,32.8,12,0,393.60
+10627,Röd Kaviar,Seafood,Save-a-lot Markets,15,35,0.15,446.25
+10627,Tarte au sucre,Confections,Save-a-lot Markets,49.3,15,0,739.50
+10628,Chai,Beverages,Blondesddsl père et fils,18,25,0,450.00
+10629,Thüringer Rostbratwurst,Meat/Poultry,Godos Cocina Típica,123.79,20,0,2475.80
+10629,Wimmers gute Semmelknödel,Grains/Cereals,Godos Cocina Típica,33.25,9,0,299.25
+10630,Lakkalikööri,Beverages,Königlich Essen,18,35,0,630.00
+10630,Pâté chinois,Meat/Poultry,Königlich Essen,24,12,0.05,273.60
+10631,Rhönbräu Klosterbier,Beverages,La maison d'Asie,7.75,8,0.1,55.80
+10632,Chang,Beverages,Die Wandernde Kuh,19,30,0.05,541.50
+10632,Geitost,Dairy Products,Die Wandernde Kuh,2.5,20,0.05,47.50
+10633,Gumbär Gummibärchen,Confections,Ernst Handel,31.23,35,0.15,929.09
+10633,Konbu,Seafood,Ernst Handel,6,13,0.15,66.30
+10633,Queso Manchego La Pastora,Dairy Products,Ernst Handel,38,36,0.15,1162.80
+10633,Tarte au sucre,Confections,Ernst Handel,49.3,80,0.15,3352.40
+10634,Carnarvon Tigers,Seafood,Folies gourmandes,62.5,50,0,3125.00
+10634,Manjimup Dried Apples,Produce,Folies gourmandes,53,15,0,795.00
+10634,Rhönbräu Klosterbier,Beverages,Folies gourmandes,7.75,2,0,15.50
+10634,Uncle Bob's Organic Dried Pears,Produce,Folies gourmandes,30,35,0,1050.00
+10635,Chef Anton's Cajun Seasoning,Condiments,Magazzini Alimentari Riuniti,22,10,0.1,198.00
+10635,Chef Anton's Gumbo Mix,Condiments,Magazzini Alimentari Riuniti,21.35,15,0.1,288.23
+10635,Gustaf's Knäckebröd,Grains/Cereals,Magazzini Alimentari Riuniti,21,40,0,840.00
+10636,Chef Anton's Cajun Seasoning,Condiments,Wartian Herkku,22,25,0,550.00
+10636,Escargots de Bourgogne,Seafood,Wartian Herkku,13.25,6,0,79.50
+10637,Gnocchi di nonna Alice,Grains/Cereals,Queen Cozinha,38,60,0.05,2166.00
+10637,Queso Cabrales,Dairy Products,Queen Cozinha,21,10,0,210.00
+10637,Valkoinen suklaa,Confections,Queen Cozinha,16.25,25,0.05,385.94
+10638,Louisiana Fiery Hot Pepper Sauce,Condiments,LINO-Delicateses,21.05,21,0,442.05
+10638,Mozzarella di Giovanni,Dairy Products,LINO-Delicateses,34.8,60,0,2088.00
+10638,Rogede sild,Seafood,LINO-Delicateses,9.5,20,0,190.00
+10639,Carnarvon Tigers,Seafood,Santé Gourmet,62.5,8,0,500.00
+10640,Gudbrandsdalsost,Dairy Products,Die Wandernde Kuh,36,20,0.25,540.00
+10640,Outback Lager,Beverages,Die Wandernde Kuh,15,15,0.25,168.75
+10641,Boston Crab Meat,Seafood,HILARION-Abastos,18.4,60,0,1104.00
+10641,Chang,Beverages,HILARION-Abastos,19,50,0,950.00
+10642,Sir Rodney's Scones,Confections,Simons bistro,10,30,0.2,240.00
+10642,Sirop d'érable,Condiments,Simons bistro,28.5,20,0.2,456.00
+10643,Chartreuse verte,Beverages,Alfreds Futterkiste,18,21,0.25,283.50
+10643,Rössle Sauerkraut,Produce,Alfreds Futterkiste,45.6,15,0.25,513.00
+10643,Spegesild,Seafood,Alfreds Futterkiste,12,2,0.25,18.00
+10644,Carnarvon Tigers,Seafood,Wellington Importadora,62.5,4,0.1,225.00
+10644,Ipoh Coffee,Beverages,Wellington Importadora,46,20,0,920.00
+10644,Spegesild,Seafood,Wellington Importadora,12,21,0.1,226.80
+10645,Carnarvon Tigers,Seafood,Hanari Carnes,62.5,20,0,1250.00
+10645,Inlagd Sill,Seafood,Hanari Carnes,19,15,0,285.00
+10646,Chai,Beverages,Hungry Owl All-Night Grocers,18,15,0.25,202.50
+10646,Flotemysost,Dairy Products,Hungry Owl All-Night Grocers,21.5,30,0.25,483.75
+10646,Ikura,Seafood,Hungry Owl All-Night Grocers,31,18,0.25,418.50
+10646,Original Frankfurter grüne Soße,Condiments,Hungry Owl All-Night Grocers,13,35,0.25,341.25
+10647,Chartreuse verte,Beverages,Que Delícia,18,20,0,360.00
+10647,Teatime Chocolate Biscuits,Confections,Que Delícia,9.2,30,0,276.00
+10648,Guaraná Fantástica,Beverages,Ricardo Adocicados,4.5,15,0.15,57.38
+10648,Gustaf's Knäckebröd,Grains/Cereals,Ricardo Adocicados,21,15,0,315.00
+10649,Mozzarella di Giovanni,Dairy Products,Maison Dewey,34.8,15,0,522.00
+10649,Rössle Sauerkraut,Produce,Maison Dewey,45.6,20,0,912.00
+10650,Nord-Ost Matjeshering,Seafood,Familia Arquibaldo,25.89,30,0,776.70
+10650,Perth Pasties,Meat/Poultry,Familia Arquibaldo,32.8,25,0.05,779.00
+10650,Tourtière,Meat/Poultry,Familia Arquibaldo,7.45,30,0,223.50
+10651,Gustaf's Knäckebröd,Grains/Cereals,Die Wandernde Kuh,21,20,0.25,315.00
+10651,Teatime Chocolate Biscuits,Confections,Die Wandernde Kuh,9.2,12,0.25,82.80
+10652,Nord-Ost Matjeshering,Seafood,Gourmet Lanchonetes,25.89,2,0.25,38.83
+10652,Singaporean Hokkien Fried Mee,Grains/Cereals,Gourmet Lanchonetes,14,20,0,280.00
+10653,Camembert Pierrot,Dairy Products,Frankenversand,34,20,0.1,612.00
+10653,Pavlova,Confections,Frankenversand,17.45,30,0.1,471.15
+10654,Chartreuse verte,Beverages,Berglunds snabbköp,18,20,0.1,324.00
+10654,Chef Anton's Cajun Seasoning,Condiments,Berglunds snabbköp,22,12,0.1,237.60
+10654,Tourtière,Meat/Poultry,Berglunds snabbköp,7.45,6,0.1,40.23
+10655,Jack's New England Clam Chowder,Seafood,Reggiani Caseifici,9.65,20,0.2,154.40
+10656,Gula Malacca,Condiments,Great Lakes Food Market,19.45,28,0.1,490.14
+10656,Tofu,Produce,Great Lakes Food Market,23.25,3,0.1,62.78
+10656,Zaanse koeken,Confections,Great Lakes Food Market,9.5,6,0.1,51.30
+10657,Camembert Pierrot,Dairy Products,Save-a-lot Markets,34,30,0,1020.00
+10657,Genen Shouyu,Condiments,Save-a-lot Markets,15.5,50,0,775.00
+10657,Gnocchi di nonna Alice,Grains/Cereals,Save-a-lot Markets,38,45,0,1710.00
+10657,Jack's New England Clam Chowder,Seafood,Save-a-lot Markets,9.65,24,0,231.60
+10657,Spegesild,Seafood,Save-a-lot Markets,12,45,0,540.00
+10657,Zaanse koeken,Confections,Save-a-lot Markets,9.5,10,0,95.00
+10658,Boston Crab Meat,Seafood,QUICK-Stop,18.4,70,0.05,1223.60
+10658,Camembert Pierrot,Dairy Products,QUICK-Stop,34,55,0.05,1776.50
+10658,Original Frankfurter grüne Soße,Condiments,QUICK-Stop,13,70,0.05,864.50
+10658,Sir Rodney's Scones,Confections,QUICK-Stop,10,60,0,600.00
+10659,Boston Crab Meat,Seafood,Queen Cozinha,18.4,24,0.05,419.52
+10659,Gorgonzola Telino,Dairy Products,Queen Cozinha,12.5,20,0.05,237.50
+10659,Outback Lager,Beverages,Queen Cozinha,15,40,0.05,570.00
+10660,Sir Rodney's Marmalade,Confections,Hungry Coyote Import Store,81,21,0,1701.00
+10661,Chartreuse verte,Beverages,Hungry Owl All-Night Grocers,18,3,0.2,43.20
+10661,Escargots de Bourgogne,Seafood,Hungry Owl All-Night Grocers,13.25,49,0.2,519.40
+10662,Scottish Longbreads,Confections,Lonesome Pine Restaurant,12.5,10,0,125.00
+10663,Boston Crab Meat,Seafood,Bon app',18.4,30,0.05,524.40
+10663,Manjimup Dried Apples,Produce,Bon app',53,20,0.05,1007.00
+10663,Singaporean Hokkien Fried Mee,Grains/Cereals,Bon app',14,30,0.05,399.00
+10664,Gnocchi di nonna Alice,Grains/Cereals,Furia Bacalhau e Frutos do Mar,38,12,0.15,387.60
+10664,Ikura,Seafood,Furia Bacalhau e Frutos do Mar,31,24,0.15,632.40
+10664,Louisiana Fiery Hot Pepper Sauce,Condiments,Furia Bacalhau e Frutos do Mar,21.05,15,0.15,268.39
+10665,Lakkalikööri,Beverages,Lonesome Pine Restaurant,18,10,0,180.00
+10665,Manjimup Dried Apples,Produce,Lonesome Pine Restaurant,53,20,0,1060.00
+10665,Raclette Courdavault,Dairy Products,Lonesome Pine Restaurant,55,1,0,55.00
+10666,Louisiana Fiery Hot Pepper Sauce,Condiments,Richter Supermarkt,21.05,10,0,210.50
+10666,Thüringer Rostbratwurst,Meat/Poultry,Richter Supermarkt,123.79,36,0,4456.44
+10667,Flotemysost,Dairy Products,Ernst Handel,21.5,14,0.2,240.80
+10667,Gudbrandsdalsost,Dairy Products,Ernst Handel,36,45,0.2,1296.00
+10668,Gorgonzola Telino,Dairy Products,Die Wandernde Kuh,12.5,8,0.1,90.00
+10668,Pâté chinois,Meat/Poultry,Die Wandernde Kuh,24,4,0.1,86.40
+10668,Wimmers gute Semmelknödel,Grains/Cereals,Die Wandernde Kuh,33.25,15,0.1,448.88
+10669,Inlagd Sill,Seafood,Simons bistro,19,30,0,570.00
+10670,Laughing Lumberjack Lager,Beverages,Frankenversand,14,25,0,350.00
+10670,Rhönbräu Klosterbier,Beverages,Frankenversand,7.75,25,0,193.75
+10670,Röd Kaviar,Seafood,Frankenversand,15,50,0,750.00
+10670,Spegesild,Seafood,Frankenversand,12,60,0,720.00
+10670,Tunnbröd,Grains/Cereals,Frankenversand,9,32,0,288.00
+10671,Louisiana Fiery Hot Pepper Sauce,Condiments,France restauration,21.05,12,0,252.60
+10671,Pavlova,Confections,France restauration,17.45,10,0,174.50
+10671,Tarte au sucre,Confections,France restauration,49.3,10,0,493.00
+10672,Côte de Blaye,Beverages,Berglunds snabbköp,263.5,15,0.1,3557.25
+10672,Flotemysost,Dairy Products,Berglunds snabbköp,21.5,12,0,258.00
+10673,Ipoh Coffee,Beverages,Wilman Kala,46,6,0,276.00
+10673,Pavlova,Confections,Wilman Kala,17.45,3,0,52.35
+10673,Singaporean Hokkien Fried Mee,Grains/Cereals,Wilman Kala,14,6,0,84.00
+10674,Tunnbröd,Grains/Cereals,Island Trading,9,5,0,45.00
+10675,Escargots de Bourgogne,Seafood,Frankenversand,13.25,30,0,397.50
+10675,Perth Pasties,Meat/Poultry,Frankenversand,32.8,10,0,328.00
+10675,Tofu,Produce,Frankenversand,23.25,30,0,697.50
+10676,Gula Malacca,Condiments,Tortuga Restaurante,19.45,21,0,408.45
+10676,Ikura,Seafood,Tortuga Restaurante,31,2,0,62.00
+10676,Teatime Chocolate Biscuits,Confections,Tortuga Restaurante,9.2,7,0,64.40
+10677,Geitost,Dairy Products,Antonio Moreno Taquería,2.5,8,0.15,17.00
+10677,Gumbär Gummibärchen,Confections,Antonio Moreno Taquería,31.23,30,0.15,796.36
+10678,Geitost,Dairy Products,Save-a-lot Markets,2.5,30,0,75.00
+10678,Jack's New England Clam Chowder,Seafood,Save-a-lot Markets,9.65,120,0,1158.00
+10678,Queso Manchego La Pastora,Dairy Products,Save-a-lot Markets,38,100,0,3800.00
+10678,Tourtière,Meat/Poultry,Save-a-lot Markets,7.45,30,0,223.50
+10679,Raclette Courdavault,Dairy Products,Blondesddsl père et fils,55,12,0,660.00
+10680,Gorgonzola Telino,Dairy Products,Old World Delicatessen,12.5,20,0.25,187.50
+10680,Pavlova,Confections,Old World Delicatessen,17.45,50,0.25,654.38
+10680,Singaporean Hokkien Fried Mee,Grains/Cereals,Old World Delicatessen,14,40,0.25,420.00
+10681,Sir Rodney's Scones,Confections,Great Lakes Food Market,10,12,0.1,108.00
+10681,Teatime Chocolate Biscuits,Confections,Great Lakes Food Market,9.2,30,0.1,248.40
+10681,Wimmers gute Semmelknödel,Grains/Cereals,Great Lakes Food Market,33.25,28,0,931.00
+10682,Geitost,Dairy Products,Antonio Moreno Taquería,2.5,30,0,75.00
+10682,Louisiana Hot Spiced Okra,Condiments,Antonio Moreno Taquería,17,4,0,68.00
+10682,Rhönbräu Klosterbier,Beverages,Antonio Moreno Taquería,7.75,30,0,232.50
+10683,Filo Mix,Grains/Cereals,Du monde entier,7,9,0,63.00
+10684,Boston Crab Meat,Seafood,Ottilies Käseladen,18.4,20,0,368.00
+10684,Camembert Pierrot,Dairy Products,Ottilies Käseladen,34,30,0,1020.00
+10684,Zaanse koeken,Confections,Ottilies Käseladen,9.5,40,0,380.00
+10685,Ikura,Seafood,Gourmet Lanchonetes,31,20,0,620.00
+10685,Jack's New England Clam Chowder,Seafood,Gourmet Lanchonetes,9.65,4,0,38.60
+10685,Zaanse koeken,Confections,Gourmet Lanchonetes,9.5,15,0,142.50
+10686,Alice Mutton,Meat/Poultry,Piccolo und mehr,39,30,0.2,936.00
+10686,Gumbär Gummibärchen,Confections,Piccolo und mehr,31.23,15,0,468.45
+10687,Inlagd Sill,Seafood,Hungry Owl All-Night Grocers,19,6,0.25,85.50
+10687,Mishi Kobe Niku,Meat/Poultry,Hungry Owl All-Night Grocers,97,50,0.25,3637.50
+10687,Thüringer Rostbratwurst,Meat/Poultry,Hungry Owl All-Night Grocers,123.79,10,0,1237.90
+10688,Ikura,Seafood,Vaffeljernet,31,18,0.1,502.20
+10688,Rössle Sauerkraut,Produce,Vaffeljernet,45.6,60,0.1,2462.40
+10688,Sasquatch Ale,Beverages,Vaffeljernet,14,14,0,196.00
+10689,Chai,Beverages,Berglunds snabbköp,18,35,0.25,472.50
+10690,Gnocchi di nonna Alice,Grains/Cereals,Hanari Carnes,38,20,0.25,570.00
+10690,Original Frankfurter grüne Soße,Condiments,Hanari Carnes,13,30,0.25,292.50
+10691,Chai,Beverages,QUICK-Stop,18,30,0,540.00
+10691,Gula Malacca,Condiments,QUICK-Stop,19.45,24,0,466.80
+10691,Ipoh Coffee,Beverages,QUICK-Stop,46,40,0,1840.00
+10691,Tarte au sucre,Confections,QUICK-Stop,49.3,48,0,2366.40
+10691,Thüringer Rostbratwurst,Meat/Poultry,QUICK-Stop,123.79,40,0,4951.60
+10692,Vegie-spread,Condiments,Alfreds Futterkiste,43.9,20,0,878.00
+10693,Gudbrandsdalsost,Dairy Products,White Clover Markets,36,30,0.15,918.00
+10693,Mishi Kobe Niku,Meat/Poultry,White Clover Markets,97,6,0,582.00
+10693,Röd Kaviar,Seafood,White Clover Markets,15,15,0.15,191.25
+10693,Tourtière,Meat/Poultry,White Clover Markets,7.45,60,0.15,379.95
+10694,Outback Lager,Beverages,QUICK-Stop,15,50,0,750.00
+10694,Raclette Courdavault,Dairy Products,QUICK-Stop,55,25,0,1375.00
+10694,Uncle Bob's Organic Dried Pears,Produce,QUICK-Stop,30,90,0,2700.00
+10695,Guaraná Fantástica,Beverages,Wilman Kala,4.5,20,0,90.00
+10695,Northwoods Cranberry Sauce,Condiments,Wilman Kala,40,10,0,400.00
+10695,Queso Manchego La Pastora,Dairy Products,Wilman Kala,38,4,0,152.00
+10696,Alice Mutton,Meat/Poultry,White Clover Markets,39,20,0,780.00
+10696,Spegesild,Seafood,White Clover Markets,12,18,0,216.00
+10697,Escargots de Bourgogne,Seafood,LINO-Delicateses,13.25,30,0.25,298.13
+10697,Outback Lager,Beverages,LINO-Delicateses,15,30,0.25,337.50
+10697,Steeleye Stout,Beverages,LINO-Delicateses,18,9,0.25,121.50
+10697,Teatime Chocolate Biscuits,Confections,LINO-Delicateses,9.2,7,0.25,48.30
+10698,Alice Mutton,Meat/Poultry,Ernst Handel,39,8,0.05,296.40
+10698,Louisiana Fiery Hot Pepper Sauce,Condiments,Ernst Handel,21.05,65,0.05,1299.84
+10698,Outback Lager,Beverages,Ernst Handel,15,8,0.05,114.00
+10698,Queso Cabrales,Dairy Products,Ernst Handel,21,15,0,315.00
+10698,Thüringer Rostbratwurst,Meat/Poultry,Ernst Handel,123.79,12,0.05,1411.21
+10699,Zaanse koeken,Confections,Morgenstern Gesundkost,9.5,12,0,114.00
+10700,Chai,Beverages,Save-a-lot Markets,18,5,0.2,72.00
+10700,Flotemysost,Dairy Products,Save-a-lot Markets,21.5,60,0.2,1032.00
+10700,Sasquatch Ale,Beverages,Save-a-lot Markets,14,12,0.2,134.40
+10700,Scottish Longbreads,Confections,Save-a-lot Markets,12.5,40,0.2,400.00
+10701,Flotemysost,Dairy Products,Hungry Owl All-Night Grocers,21.5,20,0.15,365.50
+10701,Lakkalikööri,Beverages,Hungry Owl All-Night Grocers,18,35,0.15,535.50
+10701,Raclette Courdavault,Dairy Products,Hungry Owl All-Night Grocers,55,42,0.15,1963.50
+10702,Aniseed Syrup,Condiments,Alfreds Futterkiste,10,6,0,60.00
+10702,Lakkalikööri,Beverages,Alfreds Futterkiste,18,15,0,270.00
+10703,Chang,Beverages,Folk och fä HB,19,5,0,95.00
+10703,Raclette Courdavault,Dairy Products,Folk och fä HB,55,35,0,1925.00
+10703,Röd Kaviar,Seafood,Folk och fä HB,15,35,0,525.00
+10704,Chef Anton's Cajun Seasoning,Condiments,Queen Cozinha,22,6,0,132.00
+10704,Chocolade,Confections,Queen Cozinha,12.75,24,0,306.00
+10704,Guaraná Fantástica,Beverages,Queen Cozinha,4.5,35,0,157.50
+10705,Gorgonzola Telino,Dairy Products,HILARION-Abastos,12.5,20,0,250.00
+10705,Mascarpone Fabioli,Dairy Products,HILARION-Abastos,32,4,0,128.00
+10706,Ipoh Coffee,Beverages,Old World Delicatessen,46,24,0,1104.00
+10706,Pavlova,Confections,Old World Delicatessen,17.45,20,0,349.00
+10706,Raclette Courdavault,Dairy Products,Old World Delicatessen,55,8,0,440.00
+10707,Outback Lager,Beverages,Around the Horn,15,28,0.15,357.00
+10707,Pâté chinois,Meat/Poultry,Around the Horn,24,21,0,504.00
+10707,Ravioli Angelo,Grains/Cereals,Around the Horn,19.5,40,0,780.00
+10708,Chef Anton's Gumbo Mix,Condiments,The Big Cheese,21.35,4,0,85.40
+10708,Inlagd Sill,Seafood,The Big Cheese,19,5,0,95.00
+10709,Camembert Pierrot,Dairy Products,Gourmet Lanchonetes,34,10,0,340.00
+10709,Manjimup Dried Apples,Produce,Gourmet Lanchonetes,53,28,0,1484.00
+10709,Northwoods Cranberry Sauce,Condiments,Gourmet Lanchonetes,40,40,0,1600.00
+10710,Teatime Chocolate Biscuits,Confections,Franchi S.p.A.,9.2,5,0,46.00
+10710,Zaanse koeken,Confections,Franchi S.p.A.,9.5,5,0,47.50
+10711,Jack's New England Clam Chowder,Seafood,Save-a-lot Markets,9.65,42,0,405.30
+10711,Perth Pasties,Meat/Poultry,Save-a-lot Markets,32.8,120,0,3936.00
+10711,Teatime Chocolate Biscuits,Confections,Save-a-lot Markets,9.2,12,0,110.40
+10712,Gnocchi di nonna Alice,Grains/Cereals,Hungry Owl All-Night Grocers,38,30,0,1140.00
+10712,Perth Pasties,Meat/Poultry,Hungry Owl All-Night Grocers,32.8,3,0.05,93.48
+10713,Gumbär Gummibärchen,Confections,Save-a-lot Markets,31.23,30,0,936.90
+10713,Ikura,Seafood,Save-a-lot Markets,31,18,0,558.00
+10713,Rogede sild,Seafood,Save-a-lot Markets,9.5,110,0,1045.00
+10713,Spegesild,Seafood,Save-a-lot Markets,12,24,0,288.00
+10714,Alice Mutton,Meat/Poultry,Save-a-lot Markets,39,27,0.25,789.75
+10714,Chang,Beverages,Save-a-lot Markets,19,30,0.25,427.50
+10714,Escargots de Bourgogne,Seafood,Save-a-lot Markets,13.25,12,0.25,119.25
+10714,Gnocchi di nonna Alice,Grains/Cereals,Save-a-lot Markets,38,18,0.25,513.00
+10714,Zaanse koeken,Confections,Save-a-lot Markets,9.5,50,0.25,356.25
+10715,Flotemysost,Dairy Products,Bon app',21.5,30,0,645.00
+10715,Ikura,Seafood,Bon app',31,21,0,651.00
+10716,Manjimup Dried Apples,Produce,Rancho grande,53,7,0,371.00
+10716,Sir Rodney's Scones,Confections,Rancho grande,10,5,0,50.00
+10716,Sirop d'érable,Condiments,Rancho grande,28.5,10,0,285.00
+10717,Gudbrandsdalsost,Dairy Products,Frankenversand,36,25,0.05,855.00
+10717,Sir Rodney's Scones,Confections,Frankenversand,10,32,0.05,304.00
+10717,Tourtière,Meat/Poultry,Frankenversand,7.45,15,0,111.75
+10718,Inlagd Sill,Seafood,Königlich Essen,19,40,0,760.00
+10718,Pavlova,Confections,Königlich Essen,17.45,20,0,349.00
+10718,Queso Manchego La Pastora,Dairy Products,Königlich Essen,38,36,0,1368.00
+10718,Tarte au sucre,Confections,Königlich Essen,49.3,20,0,986.00
+10719,Carnarvon Tigers,Seafood,Let's Stop N Shop,62.5,12,0.25,562.50
+10719,Nord-Ost Matjeshering,Seafood,Let's Stop N Shop,25.89,3,0.25,58.25
+10719,Tourtière,Meat/Poultry,Let's Stop N Shop,7.45,40,0.25,223.50
+10720,Flotemysost,Dairy Products,Que Delícia,21.5,8,0,172.00
+10720,Steeleye Stout,Beverages,Que Delícia,18,21,0,378.00
+10721,Gula Malacca,Condiments,QUICK-Stop,19.45,50,0.05,923.88
+10722,Chang,Beverages,Save-a-lot Markets,19,3,0,57.00
+10722,Gorgonzola Telino,Dairy Products,Save-a-lot Markets,12.5,50,0,625.00
+10722,Rhönbräu Klosterbier,Beverages,Save-a-lot Markets,7.75,42,0,325.50
+10722,Scottish Longbreads,Confections,Save-a-lot Markets,12.5,45,0,562.50
+10723,Gumbär Gummibärchen,Confections,White Clover Markets,31.23,15,0,468.45
+10724,Ikura,Seafood,Mère Paillarde,31,16,0,496.00
+10724,Sirop d'érable,Condiments,Mère Paillarde,28.5,5,0,142.50
+10725,Filo Mix,Grains/Cereals,Familia Arquibaldo,7,4,0,28.00
+10725,Jack's New England Clam Chowder,Seafood,Familia Arquibaldo,9.65,12,0,115.80
+10725,Pâté chinois,Meat/Poultry,Familia Arquibaldo,24,6,0,144.00
+10726,Chef Anton's Cajun Seasoning,Condiments,Eastern Connection,22,25,0,550.00
+10726,Queso Cabrales,Dairy Products,Eastern Connection,21,5,0,105.00
+10727,Alice Mutton,Meat/Poultry,Reggiani Caseifici,39,20,0.05,741.00
+10727,Gnocchi di nonna Alice,Grains/Cereals,Reggiani Caseifici,38,10,0.05,361.00
+10727,Raclette Courdavault,Dairy Products,Reggiani Caseifici,55,10,0.05,522.50
+10728,Boston Crab Meat,Seafood,Queen Cozinha,18.4,6,0,110.40
+10728,Camembert Pierrot,Dairy Products,Queen Cozinha,34,15,0,510.00
+10728,Nord-Ost Matjeshering,Seafood,Queen Cozinha,25.89,15,0,388.35
+10728,Pâté chinois,Meat/Poultry,Queen Cozinha,24,12,0,288.00
+10729,Chai,Beverages,LINO-Delicateses,18,50,0,900.00
+10729,Sir Rodney's Scones,Confections,LINO-Delicateses,10,30,0,300.00
+10729,Valkoinen suklaa,Confections,LINO-Delicateses,16.25,40,0,650.00
+10730,Gorgonzola Telino,Dairy Products,Bon app',12.5,3,0.05,35.63
+10730,Louisiana Fiery Hot Pepper Sauce,Condiments,Bon app',21.05,10,0.05,199.98
+10730,Pavlova,Confections,Bon app',17.45,15,0.05,248.66
+10731,Manjimup Dried Apples,Produce,Chop-suey Chinese,53,30,0.05,1510.50
+10731,Sir Rodney's Scones,Confections,Chop-suey Chinese,10,40,0.05,380.00
+10732,Lakkalikööri,Beverages,Bon app',18,20,0,360.00
+10733,Filo Mix,Grains/Cereals,Berglunds snabbköp,7,25,0,175.00
+10733,Rössle Sauerkraut,Produce,Berglunds snabbköp,45.6,20,0,912.00
+10733,Tofu,Produce,Berglunds snabbköp,23.25,16,0,372.00
+10734,Grandma's Boysenberry Spread,Condiments,Gourmet Lanchonetes,25,30,0,750.00
+10734,Lakkalikööri,Beverages,Gourmet Lanchonetes,18,20,0,360.00
+10734,Nord-Ost Matjeshering,Seafood,Gourmet Lanchonetes,25.89,15,0,388.35
+10735,Original Frankfurter grüne Soße,Condiments,Let's Stop N Shop,13,2,0.1,23.40
+10735,Sirop d'érable,Condiments,Let's Stop N Shop,28.5,20,0.1,513.00
+10736,Louisiana Fiery Hot Pepper Sauce,Condiments,Hungry Owl All-Night Grocers,21.05,40,0,842.00
+10736,Rhönbräu Klosterbier,Beverages,Hungry Owl All-Night Grocers,7.75,20,0,155.00
+10737,Jack's New England Clam Chowder,Seafood,Vins et alcools Chevalier,9.65,12,0,115.80
+10737,Konbu,Seafood,Vins et alcools Chevalier,6,4,0,24.00
+10738,Pavlova,Confections,Spécialités du monde,17.45,3,0,52.35
+10739,Filo Mix,Grains/Cereals,Vins et alcools Chevalier,7,18,0,126.00
+10739,Inlagd Sill,Seafood,Vins et alcools Chevalier,19,6,0,114.00
+10740,Gnocchi di nonna Alice,Grains/Cereals,White Clover Markets,38,14,0.2,425.60
+10740,Rogede sild,Seafood,White Clover Markets,9.5,40,0.2,304.00
+10740,Rössle Sauerkraut,Produce,White Clover Markets,45.6,5,0.2,182.40
+10740,Steeleye Stout,Beverages,White Clover Markets,18,35,0.2,504.00
+10741,Chang,Beverages,Around the Horn,19,15,0.2,228.00
+10742,Aniseed Syrup,Condiments,Bottom-Dollar Markets,10,20,0,200.00
+10742,Camembert Pierrot,Dairy Products,Bottom-Dollar Markets,34,50,0,1700.00
+10742,Mozzarella di Giovanni,Dairy Products,Bottom-Dollar Markets,34.8,35,0,1218.00
+10743,Spegesild,Seafood,Around the Horn,12,28,0.05,319.20
+10744,Boston Crab Meat,Seafood,Vaffeljernet,18.4,50,0.2,736.00
+10745,Carnarvon Tigers,Seafood,QUICK-Stop,62.5,24,0,1500.00
+10745,Gula Malacca,Condiments,QUICK-Stop,19.45,16,0,311.20
+10745,Mozzarella di Giovanni,Dairy Products,QUICK-Stop,34.8,7,0,243.60
+10745,Raclette Courdavault,Dairy Products,QUICK-Stop,55,45,0,2475.00
+10746,Gudbrandsdalsost,Dairy Products,Chop-suey Chinese,36,40,0,1440.00
+10746,Konbu,Seafood,Chop-suey Chinese,6,6,0,36.00
+10746,Singaporean Hokkien Fried Mee,Grains/Cereals,Chop-suey Chinese,14,28,0,392.00
+10746,Tarte au sucre,Confections,Chop-suey Chinese,49.3,9,0,443.70
+10747,Gorgonzola Telino,Dairy Products,Piccolo und mehr,12.5,8,0,100.00
+10747,Gudbrandsdalsost,Dairy Products,Piccolo und mehr,36,30,0,1080.00
+10747,Jack's New England Clam Chowder,Seafood,Piccolo und mehr,9.65,35,0,337.75
+10747,Vegie-spread,Condiments,Piccolo und mehr,43.9,9,0,395.10
+10748,Boston Crab Meat,Seafood,Save-a-lot Markets,18.4,40,0,736.00
+10748,Gnocchi di nonna Alice,Grains/Cereals,Save-a-lot Markets,38,28,0,1064.00
+10748,Tunnbröd,Grains/Cereals,Save-a-lot Markets,9,44,0,396.00
+10749,Gnocchi di nonna Alice,Grains/Cereals,Island Trading,38,15,0,570.00
+10749,Lakkalikööri,Beverages,Island Trading,18,10,0,180.00
+10749,Raclette Courdavault,Dairy Products,Island Trading,55,6,0,330.00
+10750,Raclette Courdavault,Dairy Products,Wartian Herkku,55,25,0.15,1168.75
+10750,Rogede sild,Seafood,Wartian Herkku,9.5,40,0.15,323.00
+10750,Tofu,Produce,Wartian Herkku,23.25,5,0.15,98.81
+10751,Gumbär Gummibärchen,Confections,Richter Supermarkt,31.23,12,0.1,337.28
+10751,Nord-Ost Matjeshering,Seafood,Richter Supermarkt,25.89,30,0,776.70
+10751,Röd Kaviar,Seafood,Richter Supermarkt,15,15,0,225.00
+10751,Valkoinen suklaa,Confections,Richter Supermarkt,16.25,20,0.1,292.50
+10752,Chai,Beverages,North/South,18,8,0,144.00
+10752,Gudbrandsdalsost,Dairy Products,North/South,36,3,0,108.00
+10753,Longlife Tofu,Produce,Franchi S.p.A.,10,5,0,50.00
+10753,Rogede sild,Seafood,Franchi S.p.A.,9.5,4,0,38.00
+10754,Boston Crab Meat,Seafood,Magazzini Alimentari Riuniti,18.4,3,0,55.20
+10755,Gnocchi di nonna Alice,Grains/Cereals,Bon app',38,30,0.25,855.00
+10755,Gudbrandsdalsost,Dairy Products,Bon app',36,25,0.25,675.00
+10755,Ravioli Angelo,Grains/Cereals,Bon app',19.5,14,0.25,204.75
+10755,Zaanse koeken,Confections,Bon app',9.5,30,0.25,213.75
+10756,Carnarvon Tigers,Seafood,Split Rail Beer & Ale,62.5,21,0.2,1050.00
+10756,Gudbrandsdalsost,Dairy Products,Split Rail Beer & Ale,36,20,0.2,576.00
+10756,Inlagd Sill,Seafood,Split Rail Beer & Ale,19,20,0.2,304.00
+10756,Scottish Longbreads,Confections,Split Rail Beer & Ale,12.5,6,0.2,60.00
+10757,Raclette Courdavault,Dairy Products,Save-a-lot Markets,55,7,0,385.00
+10757,Sasquatch Ale,Beverages,Save-a-lot Markets,14,30,0,420.00
+10757,Tarte au sucre,Confections,Save-a-lot Markets,49.3,30,0,1479.00
+10757,Wimmers gute Semmelknödel,Grains/Cereals,Save-a-lot Markets,33.25,24,0,798.00
+10758,Filo Mix,Grains/Cereals,Richter Supermarkt,7,60,0,420.00
+10758,Gumbär Gummibärchen,Confections,Richter Supermarkt,31.23,20,0,624.60
+10758,Outback Lager,Beverages,Richter Supermarkt,15,40,0,600.00
+10759,Mascarpone Fabioli,Dairy Products,Ana Trujillo Emparedados y helados,32,10,0,320.00
+10760,Ipoh Coffee,Beverages,Maison Dewey,46,30,0.25,1035.00
+10760,NuNuCa Nuß-Nougat-Creme,Confections,Maison Dewey,14,12,0.25,126.00
+10760,Schoggi Schokolade,Confections,Maison Dewey,43.9,40,0,1756.00
+10761,NuNuCa Nuß-Nougat-Creme,Confections,Rattlesnake Canyon Grocery,14,35,0.25,367.50
+10761,Rhönbräu Klosterbier,Beverages,Rattlesnake Canyon Grocery,7.75,18,0,139.50
+10762,Chartreuse verte,Beverages,Folk och fä HB,18,16,0,288.00
+10762,Gnocchi di nonna Alice,Grains/Cereals,Folk och fä HB,38,60,0,2280.00
+10762,Manjimup Dried Apples,Produce,Folk och fä HB,53,28,0,1484.00
+10762,Zaanse koeken,Confections,Folk och fä HB,9.5,30,0,285.00
+10763,Guaraná Fantástica,Beverages,Folies gourmandes,4.5,20,0,90.00
+10763,Gustaf's Knäckebröd,Grains/Cereals,Folies gourmandes,21,6,0,126.00
+10763,Sir Rodney's Scones,Confections,Folies gourmandes,10,40,0,400.00
+10764,Aniseed Syrup,Condiments,Ernst Handel,10,20,0.1,180.00
+10764,Chartreuse verte,Beverages,Ernst Handel,18,130,0.1,2106.00
+10765,Louisiana Fiery Hot Pepper Sauce,Condiments,QUICK-Stop,21.05,80,0.1,1515.60
+10766,Chang,Beverages,Ottilies Käseladen,19,40,0,760.00
+10766,Scottish Longbreads,Confections,Ottilies Käseladen,12.5,40,0,500.00
+10766,Uncle Bob's Organic Dried Pears,Produce,Ottilies Käseladen,30,35,0,1050.00
+10767,Singaporean Hokkien Fried Mee,Grains/Cereals,Suprêmes délices,14,2,0,28.00
+10768,Camembert Pierrot,Dairy Products,Around the Horn,34,15,0,510.00
+10768,Flotemysost,Dairy Products,Around the Horn,21.5,12,0,258.00
+10768,Gorgonzola Telino,Dairy Products,Around the Horn,12.5,50,0,625.00
+10768,Gustaf's Knäckebröd,Grains/Cereals,Around the Horn,21,4,0,84.00
+10769,Filo Mix,Grains/Cereals,Vaffeljernet,7,15,0.05,99.75
+10769,Jack's New England Clam Chowder,Seafood,Vaffeljernet,9.65,30,0.05,275.02
+10769,Sirop d'érable,Condiments,Vaffeljernet,28.5,20,0,570.00
+10769,Tarte au sucre,Confections,Vaffeljernet,49.3,15,0,739.50
+10770,Queso Cabrales,Dairy Products,Hanari Carnes,21,15,0.25,236.25
+10771,Flotemysost,Dairy Products,Ernst Handel,21.5,16,0,344.00
+10772,Raclette Courdavault,Dairy Products,Lehmanns Marktstand,55,25,0,1375.00
+10772,Thüringer Rostbratwurst,Meat/Poultry,Lehmanns Marktstand,123.79,18,0,2228.22
+10773,Alice Mutton,Meat/Poultry,Ernst Handel,39,33,0,1287.00
+10773,Gorgonzola Telino,Dairy Products,Ernst Handel,12.5,70,0.2,700.00
+10773,Rhönbräu Klosterbier,Beverages,Ernst Handel,7.75,7,0.2,43.40
+10774,Gorgonzola Telino,Dairy Products,Folk och fä HB,12.5,2,0.25,18.75
+10774,Louisiana Hot Spiced Okra,Condiments,Folk och fä HB,17,50,0,850.00
+10775,Ikura,Seafood,The Cracker Box,31,6,0,186.00
+10775,Laughing Lumberjack Lager,Beverages,The Cracker Box,14,3,0,42.00
+10776,Gorgonzola Telino,Dairy Products,Ernst Handel,12.5,16,0.05,190.00
+10776,Manjimup Dried Apples,Produce,Ernst Handel,53,120,0.05,6042.00
+10776,Rogede sild,Seafood,Ernst Handel,9.5,27,0.05,243.68
+10776,Singaporean Hokkien Fried Mee,Grains/Cereals,Ernst Handel,14,12,0.05,159.60
+10777,Singaporean Hokkien Fried Mee,Grains/Cereals,Gourmet Lanchonetes,14,20,0.2,224.00
+10778,Jack's New England Clam Chowder,Seafood,Berglunds snabbköp,9.65,10,0,96.50
+10779,Pavlova,Confections,Morgenstern Gesundkost,17.45,20,0,349.00
+10779,Tarte au sucre,Confections,Morgenstern Gesundkost,49.3,20,0,986.00
+10780,Original Frankfurter grüne Soße,Condiments,LILA-Supermercado,13,15,0,195.00
+10780,Outback Lager,Beverages,LILA-Supermercado,15,35,0,525.00
+10781,Gnocchi di nonna Alice,Grains/Cereals,Wartian Herkku,38,20,0.2,608.00
+10781,Longlife Tofu,Produce,Wartian Herkku,10,35,0,350.00
+10781,Tourtière,Meat/Poultry,Wartian Herkku,7.45,3,0.2,17.88
+10782,Gorgonzola Telino,Dairy Products,Cactus Comidas para llevar,12.5,1,0,12.50
+10783,Côte de Blaye,Beverages,Hanari Carnes,263.5,5,0,1317.50
+10783,Gorgonzola Telino,Dairy Products,Hanari Carnes,12.5,10,0,125.00
+10784,Chartreuse verte,Beverages,Magazzini Alimentari Riuniti,18,2,0.15,30.60
+10784,Inlagd Sill,Seafood,Magazzini Alimentari Riuniti,19,30,0,570.00
+10784,Mozzarella di Giovanni,Dairy Products,Magazzini Alimentari Riuniti,34.8,30,0.15,887.40
+10785,Ikura,Seafood,GROSELLA-Restaurante,31,10,0,310.00
+10785,Rhönbräu Klosterbier,Beverages,GROSELLA-Restaurante,7.75,10,0,77.50
+10786,Nord-Ost Matjeshering,Seafood,Queen Cozinha,25.89,15,0.2,310.68
+10786,Northwoods Cranberry Sauce,Condiments,Queen Cozinha,40,30,0.2,960.00
+10786,Rhönbräu Klosterbier,Beverages,Queen Cozinha,7.75,42,0.2,260.40
+10787,Chang,Beverages,La maison d'Asie,19,15,0.05,270.75
+10787,Thüringer Rostbratwurst,Meat/Poultry,La maison d'Asie,123.79,20,0.05,2352.01
+10788,Rhönbräu Klosterbier,Beverages,QUICK-Stop,7.75,40,0.05,294.50
+10788,Teatime Chocolate Biscuits,Confections,QUICK-Stop,9.2,50,0.05,437.00
+10789,Carnarvon Tigers,Seafood,Folies gourmandes,62.5,30,0,1875.00
+10789,Scottish Longbreads,Confections,Folies gourmandes,12.5,18,0,225.00
+10789,Steeleye Stout,Beverages,Folies gourmandes,18,15,0,270.00
+10789,Vegie-spread,Condiments,Folies gourmandes,43.9,30,0,1317.00
+10790,Gnocchi di nonna Alice,Grains/Cereals,Gourmet Lanchonetes,38,20,0.15,646.00
+10790,Uncle Bob's Organic Dried Pears,Produce,Gourmet Lanchonetes,30,3,0.15,76.50
+10791,Jack's New England Clam Chowder,Seafood,Frankenversand,9.65,20,0.05,183.35
+10791,Thüringer Rostbratwurst,Meat/Poultry,Frankenversand,123.79,14,0.05,1646.41
+10792,Chang,Beverages,Wolski  Zajazd,19,10,0,190.00
+10792,Scottish Longbreads,Confections,Wolski  Zajazd,12.5,15,0,187.50
+10792,Tourtière,Meat/Poultry,Wolski  Zajazd,7.45,3,0,22.35
+10793,Filo Mix,Grains/Cereals,Around the Horn,7,8,0,56.00
+10793,Jack's New England Clam Chowder,Seafood,Around the Horn,9.65,14,0,135.10
+10794,Tofu,Produce,Que Delícia,23.25,15,0.2,279.00
+10794,Tourtière,Meat/Poultry,Que Delícia,7.45,6,0.2,35.76
+10795,Alice Mutton,Meat/Poultry,Ernst Handel,39,35,0.25,1023.75
+10795,Pavlova,Confections,Ernst Handel,17.45,65,0,1134.25
+10796,Gudbrandsdalsost,Dairy Products,HILARION-Abastos,36,24,0.2,691.20
+10796,Gula Malacca,Condiments,HILARION-Abastos,19.45,10,0,194.50
+10796,Gumbär Gummibärchen,Confections,HILARION-Abastos,31.23,21,0.2,524.66
+10796,Wimmers gute Semmelknödel,Grains/Cereals,HILARION-Abastos,33.25,35,0.2,931.00
+10797,Queso Cabrales,Dairy Products,Drachenblut Delikatessen,21,20,0,420.00
+10798,Mozzarella di Giovanni,Dairy Products,Island Trading,34.8,10,0,348.00
+10798,Tarte au sucre,Confections,Island Trading,49.3,2,0,98.60
+10799,Guaraná Fantástica,Beverages,Königlich Essen,4.5,20,0.15,76.50
+10799,Konbu,Seafood,Königlich Essen,6,20,0.15,102.00
+10799,Raclette Courdavault,Dairy Products,Königlich Essen,55,25,0,1375.00
+10800,Manjimup Dried Apples,Produce,Seven Seas Imports,53,10,0.1,477.00
+10800,Queso Cabrales,Dairy Products,Seven Seas Imports,21,50,0.1,945.00
+10800,Tourtière,Meat/Poultry,Seven Seas Imports,7.45,7,0.1,46.94
+10801,Alice Mutton,Meat/Poultry,Bólido Comidas preparadas,39,40,0.25,1170.00
+10801,Thüringer Rostbratwurst,Meat/Poultry,Bólido Comidas preparadas,123.79,20,0.25,1856.85
+10802,Manjimup Dried Apples,Produce,Simons bistro,53,30,0.25,1192.50
+10802,Nord-Ost Matjeshering,Seafood,Simons bistro,25.89,25,0.25,485.44
+10802,Pâté chinois,Meat/Poultry,Simons bistro,24,60,0.25,1080.00
+10802,Tarte au sucre,Confections,Simons bistro,49.3,5,0.25,184.88
+10803,NuNuCa Nuß-Nougat-Creme,Confections,Wellington Importadora,14,15,0.05,199.50
+10803,Raclette Courdavault,Dairy Products,Wellington Importadora,55,15,0.05,783.75
+10803,Teatime Chocolate Biscuits,Confections,Wellington Importadora,9.2,24,0.05,209.76
+10804,Ikura,Seafood,Seven Seas Imports,31,36,0,1116.00
+10804,Maxilaku,Confections,Seven Seas Imports,20,4,0.15,68.00
+10804,Rössle Sauerkraut,Produce,Seven Seas Imports,45.6,24,0,1094.40
+10805,Côte de Blaye,Beverages,The Big Cheese,263.5,10,0,2635.00
+10805,Sasquatch Ale,Beverages,The Big Cheese,14,10,0,140.00
+10806,Chang,Beverages,Victuailles en stock,19,20,0.25,285.00
+10806,Longlife Tofu,Produce,Victuailles en stock,10,15,0.25,112.50
+10806,Louisiana Fiery Hot Pepper Sauce,Condiments,Victuailles en stock,21.05,2,0,42.10
+10807,Boston Crab Meat,Seafood,Franchi S.p.A.,18.4,1,0,18.40
+10808,Gnocchi di nonna Alice,Grains/Cereals,Old World Delicatessen,38,20,0.15,646.00
+10808,Lakkalikööri,Beverages,Old World Delicatessen,18,50,0.15,765.00
+10809,Filo Mix,Grains/Cereals,Wellington Importadora,7,20,0,140.00
+10810,Konbu,Seafood,Laughing Bacchus Wine Cellars,6,7,0,42.00
+10810,NuNuCa Nuß-Nougat-Creme,Confections,Laughing Bacchus Wine Cellars,14,5,0,70.00
+10810,Outback Lager,Beverages,Laughing Bacchus Wine Cellars,15,5,0,75.00
+10811,Boston Crab Meat,Seafood,LINO-Delicateses,18.4,30,0,552.00
+10811,Teatime Chocolate Biscuits,Confections,LINO-Delicateses,9.2,15,0,138.00
+10811,Tunnbröd,Grains/Cereals,LINO-Delicateses,9,18,0,162.00
+10812,Gorgonzola Telino,Dairy Products,Reggiani Caseifici,12.5,16,0.1,180.00
+10812,Mozzarella di Giovanni,Dairy Products,Reggiani Caseifici,34.8,40,0.1,1252.80
+10812,Original Frankfurter grüne Soße,Condiments,Reggiani Caseifici,13,20,0,260.00
+10813,Chang,Beverages,Ricardo Adocicados,19,12,0.2,182.40
+10813,Spegesild,Seafood,Ricardo Adocicados,12,35,0,420.00
+10814,Chocolade,Confections,Victuailles en stock,12.75,8,0.15,86.70
+10814,Ipoh Coffee,Beverages,Victuailles en stock,46,20,0.15,782.00
+10814,Jack's New England Clam Chowder,Seafood,Victuailles en stock,9.65,20,0,193.00
+10814,Sirop d'érable,Condiments,Victuailles en stock,28.5,30,0.15,726.75
+10815,Geitost,Dairy Products,Save-a-lot Markets,2.5,16,0,40.00
+10816,Côte de Blaye,Beverages,Great Lakes Food Market,263.5,30,0.05,7509.75
+10816,Tarte au sucre,Confections,Great Lakes Food Market,49.3,20,0.05,936.70
+10817,Boston Crab Meat,Seafood,Königlich Essen,18.4,60,0.15,938.40
+10817,Côte de Blaye,Beverages,Königlich Essen,263.5,30,0,7905.00
+10817,Gumbär Gummibärchen,Confections,Königlich Essen,31.23,40,0.15,1061.82
+10817,Tarte au sucre,Confections,Königlich Essen,49.3,25,0.15,1047.63
+10818,Jack's New England Clam Chowder,Seafood,Magazzini Alimentari Riuniti,9.65,20,0,193.00
+10818,Mascarpone Fabioli,Dairy Products,Magazzini Alimentari Riuniti,32,20,0,640.00
+10819,Ipoh Coffee,Beverages,Cactus Comidas para llevar,46,7,0,322.00
+10819,Rhönbräu Klosterbier,Beverages,Cactus Comidas para llevar,7.75,20,0,155.00
+10820,Gnocchi di nonna Alice,Grains/Cereals,Rattlesnake Canyon Grocery,38,30,0,1140.00
+10821,Manjimup Dried Apples,Produce,Split Rail Beer & Ale,53,6,0,318.00
+10821,Steeleye Stout,Beverages,Split Rail Beer & Ale,18,20,0,360.00
+10822,Outback Lager,Beverages,Trail's Head Gourmet Provisioners,15,6,0,90.00
+10822,Tarte au sucre,Confections,Trail's Head Gourmet Provisioners,49.3,3,0,147.90
+10823,Original Frankfurter grüne Soße,Condiments,LILA-Supermercado,13,15,0.1,175.50
+10823,Queso Cabrales,Dairy Products,LILA-Supermercado,21,20,0.1,378.00
+10823,Raclette Courdavault,Dairy Products,LILA-Supermercado,55,40,0.1,1980.00
+10823,Ravioli Angelo,Grains/Cereals,LILA-Supermercado,19.5,15,0,292.50
+10824,Jack's New England Clam Chowder,Seafood,Folk och fä HB,9.65,12,0,115.80
+10824,Outback Lager,Beverages,Folk och fä HB,15,9,0,135.00
+10825,Gumbär Gummibärchen,Confections,Drachenblut Delikatessen,31.23,12,0,374.76
+10825,Perth Pasties,Meat/Poultry,Drachenblut Delikatessen,32.8,20,0,656.00
+10826,Gorgonzola Telino,Dairy Products,Blondesddsl père et fils,12.5,35,0,437.50
+10826,Ravioli Angelo,Grains/Cereals,Blondesddsl père et fils,19.5,15,0,292.50
+10827,Chartreuse verte,Beverages,Bon app',18,21,0,378.00
+10827,Ikura,Seafood,Bon app',31,15,0,465.00
+10828,Côte de Blaye,Beverages,Rancho grande,263.5,2,0,527.00
+10828,Sir Rodney's Marmalade,Confections,Rancho grande,81,5,0,405.00
+10829,Camembert Pierrot,Dairy Products,Island Trading,34,21,0,714.00
+10829,Chang,Beverages,Island Trading,19,10,0,190.00
+10829,Konbu,Seafood,Island Trading,6,10,0,60.00
+10829,Northwoods Cranberry Sauce,Condiments,Island Trading,40,20,0,800.00
+10830,Camembert Pierrot,Dairy Products,Tradição Hipermercados,34,30,0,1020.00
+10830,Chartreuse verte,Beverages,Tradição Hipermercados,18,28,0,504.00
+10830,Grandma's Boysenberry Spread,Condiments,Tradição Hipermercados,25,6,0,150.00
+10830,Scottish Longbreads,Confections,Tradição Hipermercados,12.5,24,0,300.00
+10831,Côte de Blaye,Beverages,Santé Gourmet,263.5,8,0,2108.00
+10831,Ipoh Coffee,Beverages,Santé Gourmet,46,9,0,414.00
+10831,Steeleye Stout,Beverages,Santé Gourmet,18,8,0,144.00
+10831,Teatime Chocolate Biscuits,Confections,Santé Gourmet,9.2,2,0,18.40
+10832,Gula Malacca,Condiments,La maison d'Asie,19.45,16,0.2,248.96
+10832,Konbu,Seafood,La maison d'Asie,6,3,0.2,14.40
+10832,NuNuCa Nuß-Nougat-Creme,Confections,La maison d'Asie,14,10,0.2,112.00
+10832,Wimmers gute Semmelknödel,Grains/Cereals,La maison d'Asie,33.25,3,0,99.75
+10833,Gorgonzola Telino,Dairy Products,Ottilies Käseladen,12.5,9,0.1,101.25
+10833,Perth Pasties,Meat/Poultry,Ottilies Käseladen,32.8,9,0.1,265.68
+10833,Uncle Bob's Organic Dried Pears,Produce,Ottilies Käseladen,30,20,0.1,540.00
+10834,Nord-Ost Matjeshering,Seafood,Tradição Hipermercados,25.89,20,0.05,491.91
+10834,Thüringer Rostbratwurst,Meat/Poultry,Tradição Hipermercados,123.79,8,0.05,940.80
+10835,Original Frankfurter grüne Soße,Condiments,Alfreds Futterkiste,13,2,0.2,20.80
+10835,Raclette Courdavault,Dairy Products,Alfreds Futterkiste,55,15,0,825.00
+10836,Camembert Pierrot,Dairy Products,Ernst Handel,34,60,0,2040.00
+10836,Gustaf's Knäckebröd,Grains/Cereals,Ernst Handel,21,52,0,1092.00
+10836,Ravioli Angelo,Grains/Cereals,Ernst Handel,19.5,24,0,468.00
+10836,Steeleye Stout,Beverages,Ernst Handel,18,6,0,108.00
+10836,Wimmers gute Semmelknödel,Grains/Cereals,Ernst Handel,33.25,30,0,997.50
+10837,Boston Crab Meat,Seafood,Berglunds snabbköp,18.4,25,0,460.00
+10837,Konbu,Seafood,Berglunds snabbköp,6,6,0,36.00
+10837,Lakkalikööri,Beverages,Berglunds snabbköp,18,21,0.25,283.50
+10837,Zaanse koeken,Confections,Berglunds snabbköp,9.5,40,0.25,285.00
+10838,Carnarvon Tigers,Seafood,LINO-Delicateses,62.5,25,0.25,1171.88
+10838,Chai,Beverages,LINO-Delicateses,18,4,0.25,54.00
+10838,Inlagd Sill,Seafood,LINO-Delicateses,19,50,0.25,712.50
+10839,Escargots de Bourgogne,Seafood,Tradição Hipermercados,13.25,30,0.1,357.75
+10839,Mozzarella di Giovanni,Dairy Products,Tradição Hipermercados,34.8,15,0.1,469.80
+10840,Chartreuse verte,Beverages,LINO-Delicateses,18,10,0.2,144.00
+10840,NuNuCa Nuß-Nougat-Creme,Confections,LINO-Delicateses,14,6,0.2,67.20
+10841,Gnocchi di nonna Alice,Grains/Cereals,Suprêmes délices,38,30,0,1140.00
+10841,Ikura,Seafood,Suprêmes délices,31,16,0,496.00
+10841,Original Frankfurter grüne Soße,Condiments,Suprêmes délices,13,15,0,195.00
+10841,Raclette Courdavault,Dairy Products,Suprêmes délices,55,50,0,2750.00
+10842,Ipoh Coffee,Beverages,Tortuga Restaurante,46,5,0,230.00
+10842,Outback Lager,Beverages,Tortuga Restaurante,15,12,0,180.00
+10842,Queso Cabrales,Dairy Products,Tortuga Restaurante,21,15,0,315.00
+10842,Scottish Longbreads,Confections,Tortuga Restaurante,12.5,20,0,250.00
+10843,Manjimup Dried Apples,Produce,Victuailles en stock,53,4,0.25,159.00
+10844,Gustaf's Knäckebröd,Grains/Cereals,Piccolo und mehr,21,35,0,735.00
+10845,Escargots de Bourgogne,Seafood,QUICK-Stop,13.25,60,0.1,715.50
+10845,Singaporean Hokkien Fried Mee,Grains/Cereals,QUICK-Stop,14,42,0.1,529.20
+10845,Steeleye Stout,Beverages,QUICK-Stop,18,25,0.1,405.00
+10845,Tunnbröd,Grains/Cereals,QUICK-Stop,9,70,0.1,567.00
+10845,Wimmers gute Semmelknödel,Grains/Cereals,QUICK-Stop,33.25,48,0,1596.00
+10846,Chef Anton's Cajun Seasoning,Condiments,Suprêmes délices,22,21,0,462.00
+10846,Longlife Tofu,Produce,Suprêmes délices,10,20,0,200.00
+10846,Outback Lager,Beverages,Suprêmes délices,15,30,0,450.00
+10847,Camembert Pierrot,Dairy Products,Save-a-lot Markets,34,45,0.2,1224.00
+10847,Chai,Beverages,Save-a-lot Markets,18,80,0.2,1152.00
+10847,Flotemysost,Dairy Products,Save-a-lot Markets,21.5,55,0.2,946.00
+10847,Gravad lax,Seafood,Save-a-lot Markets,26,60,0.2,1248.00
+10847,Rogede sild,Seafood,Save-a-lot Markets,9.5,36,0.2,273.60
+10847,Teatime Chocolate Biscuits,Confections,Save-a-lot Markets,9.2,12,0.2,88.32
+10848,Chef Anton's Gumbo Mix,Condiments,Consolidated Holdings,21.35,30,0,640.50
+10848,Mishi Kobe Niku,Meat/Poultry,Consolidated Holdings,97,3,0,291.00
+10849,Aniseed Syrup,Condiments,Königlich Essen,10,49,0,490.00
+10849,Gumbär Gummibärchen,Confections,Königlich Essen,31.23,18,0.15,477.82
+10850,Geitost,Dairy Products,Victuailles en stock,2.5,4,0.15,8.50
+10850,NuNuCa Nuß-Nougat-Creme,Confections,Victuailles en stock,14,20,0.15,238.00
+10850,Outback Lager,Beverages,Victuailles en stock,15,30,0.15,382.50
+10851,Chang,Beverages,Ricardo Adocicados,19,5,0.05,90.25
+10851,NuNuCa Nuß-Nougat-Creme,Confections,Ricardo Adocicados,14,10,0.05,133.00
+10851,Raclette Courdavault,Dairy Products,Ricardo Adocicados,55,42,0.05,2194.50
+10851,Ravioli Angelo,Grains/Cereals,Ricardo Adocicados,19.5,10,0.05,185.25
+10852,Alice Mutton,Meat/Poultry,Rattlesnake Canyon Grocery,39,6,0,234.00
+10852,Chang,Beverages,Rattlesnake Canyon Grocery,19,15,0,285.00
+10852,Tarte au sucre,Confections,Rattlesnake Canyon Grocery,49.3,50,0,2465.00
+10853,Carnarvon Tigers,Seafood,Blauer See Delikatessen,62.5,10,0,625.00
+10854,Ikura,Seafood,Ernst Handel,31,100,0.15,2635.00
+10854,Konbu,Seafood,Ernst Handel,6,65,0.15,331.50
+10855,Gnocchi di nonna Alice,Grains/Cereals,Old World Delicatessen,38,24,0,912.00
+10855,Gorgonzola Telino,Dairy Products,Old World Delicatessen,12.5,14,0,175.00
+10855,Louisiana Fiery Hot Pepper Sauce,Condiments,Old World Delicatessen,21.05,15,0.15,268.39
+10855,Pavlova,Confections,Old World Delicatessen,17.45,50,0,872.50
+10856,Chang,Beverages,Antonio Moreno Taquería,19,20,0,380.00
+10856,Singaporean Hokkien Fried Mee,Grains/Cereals,Antonio Moreno Taquería,14,20,0,280.00
+10857,Aniseed Syrup,Condiments,Berglunds snabbköp,10,30,0,300.00
+10857,Gumbär Gummibärchen,Confections,Berglunds snabbköp,31.23,35,0.25,819.79
+10857,Thüringer Rostbratwurst,Meat/Poultry,Berglunds snabbköp,123.79,10,0.25,928.43
+10858,Outback Lager,Beverages,La corne d'abondance,15,4,0,60.00
+10858,Schoggi Schokolade,Confections,La corne d'abondance,43.9,10,0,439.00
+10858,Uncle Bob's Organic Dried Pears,Produce,La corne d'abondance,30,5,0,150.00
+10859,Guaraná Fantástica,Beverages,Frankenversand,4.5,40,0.25,135.00
+10859,Tourtière,Meat/Poultry,Frankenversand,7.45,35,0.25,195.56
+10859,Wimmers gute Semmelknödel,Grains/Cereals,Frankenversand,33.25,30,0.25,748.13
+10860,Lakkalikööri,Beverages,France restauration,18,20,0,360.00
+10860,Manjimup Dried Apples,Produce,France restauration,53,3,0,159.00
+10861,Alice Mutton,Meat/Poultry,White Clover Markets,39,42,0,1638.00
+10861,Carnarvon Tigers,Seafood,White Clover Markets,62.5,20,0,1250.00
+10861,Geitost,Dairy Products,White Clover Markets,2.5,35,0,87.50
+10861,Sir Rodney's Scones,Confections,White Clover Markets,10,40,0,400.00
+10861,Tarte au sucre,Confections,White Clover Markets,49.3,3,0,147.90
+10862,Filo Mix,Grains/Cereals,Lehmanns Marktstand,7,8,0,56.00
+10862,Queso Cabrales,Dairy Products,Lehmanns Marktstand,21,25,0,525.00
+10863,Chai,Beverages,HILARION-Abastos,18,20,0.15,306.00
+10863,Escargots de Bourgogne,Seafood,HILARION-Abastos,13.25,12,0.15,135.15
+10864,Laughing Lumberjack Lager,Beverages,Around the Horn,14,15,0,210.00
+10864,Steeleye Stout,Beverages,Around the Horn,18,4,0,72.00
+10865,Chartreuse verte,Beverages,QUICK-Stop,18,80,0.05,1368.00
+10865,Côte de Blaye,Beverages,QUICK-Stop,263.5,60,0.05,15019.50
+10866,Chang,Beverages,Berglunds snabbköp,19,21,0.25,299.25
+10866,Guaraná Fantástica,Beverages,Berglunds snabbköp,4.5,6,0.25,20.25
+10866,Nord-Ost Matjeshering,Seafood,Berglunds snabbköp,25.89,40,0.25,776.70
+10867,Perth Pasties,Meat/Poultry,Lonesome Pine Restaurant,32.8,3,0,98.40
+10868,Gumbär Gummibärchen,Confections,Queen Cozinha,31.23,20,0,624.60
+10868,Maxilaku,Confections,Queen Cozinha,20,42,0.1,756.00
+10868,Steeleye Stout,Beverages,Queen Cozinha,18,30,0,540.00
+10869,Chai,Beverages,Seven Seas Imports,18,40,0,720.00
+10869,Queso Cabrales,Dairy Products,Seven Seas Imports,21,10,0,210.00
+10869,Scottish Longbreads,Confections,Seven Seas Imports,12.5,20,0,250.00
+10869,Tunnbröd,Grains/Cereals,Seven Seas Imports,9,50,0,450.00
+10870,Manjimup Dried Apples,Produce,Wolski  Zajazd,53,2,0,106.00
+10870,Steeleye Stout,Beverages,Wolski  Zajazd,18,3,0,54.00
+10871,Alice Mutton,Meat/Poultry,Bon app',39,16,0.05,592.80
+10871,Grandma's Boysenberry Spread,Condiments,Bon app',25,50,0.05,1187.50
+10871,Pavlova,Confections,Bon app',17.45,12,0.05,198.93
+10872,Louisiana Fiery Hot Pepper Sauce,Condiments,Godos Cocina Típica,21.05,21,0.05,419.95
+10872,Pâté chinois,Meat/Poultry,Godos Cocina Típica,24,10,0.05,228.00
+10872,Tarte au sucre,Confections,Godos Cocina Típica,49.3,20,0.05,936.70
+10872,Wimmers gute Semmelknödel,Grains/Cereals,Godos Cocina Típica,33.25,15,0.05,473.81
+10873,Rössle Sauerkraut,Produce,Wilman Kala,45.6,3,0,136.80
+10873,Sir Rodney's Scones,Confections,Wilman Kala,10,20,0,200.00
+10874,Ikura,Seafood,Godos Cocina Típica,31,10,0,310.00
+10875,Maxilaku,Confections,Berglunds snabbköp,20,15,0,300.00
+10875,Teatime Chocolate Biscuits,Confections,Berglunds snabbköp,9.2,25,0,230.00
+10875,Zaanse koeken,Confections,Berglunds snabbköp,9.5,21,0.1,179.55
+10876,Spegesild,Seafood,Bon app',12,21,0,252.00
+10876,Wimmers gute Semmelknödel,Grains/Cereals,Bon app',33.25,20,0,665.00
+10877,Carnarvon Tigers,Seafood,Ricardo Adocicados,62.5,25,0,1562.50
+10877,Pavlova,Confections,Ricardo Adocicados,17.45,30,0.25,392.63
+10878,Sir Rodney's Marmalade,Confections,QUICK-Stop,81,20,0.05,1539.00
+10879,Boston Crab Meat,Seafood,Wilman Kala,18.4,12,0,220.80
+10879,Lakkalikööri,Beverages,Wilman Kala,18,10,0,180.00
+10879,Louisiana Fiery Hot Pepper Sauce,Condiments,Wilman Kala,21.05,10,0,210.50
+10880,Outback Lager,Beverages,Folk och fä HB,15,50,0.2,600.00
+10880,Sirop d'érable,Condiments,Folk och fä HB,28.5,30,0.2,684.00
+10880,Tunnbröd,Grains/Cereals,Folk och fä HB,9,30,0.2,216.00
+10881,Röd Kaviar,Seafood,Cactus Comidas para llevar,15,10,0,150.00
+10882,Maxilaku,Confections,Save-a-lot Markets,20,20,0.15,340.00
+10882,Singaporean Hokkien Fried Mee,Grains/Cereals,Save-a-lot Markets,14,25,0,350.00
+10882,Tourtière,Meat/Poultry,Save-a-lot Markets,7.45,32,0.15,202.64
+10883,Guaraná Fantástica,Beverages,Lonesome Pine Restaurant,4.5,8,0,36.00
+10884,Gnocchi di nonna Alice,Grains/Cereals,Let's Stop N Shop,38,21,0.05,758.10
+10884,Louisiana Fiery Hot Pepper Sauce,Condiments,Let's Stop N Shop,21.05,12,0.05,239.97
+10884,Sir Rodney's Scones,Confections,Let's Stop N Shop,10,40,0.05,380.00
+10885,Chang,Beverages,Suprêmes délices,19,20,0,380.00
+10885,Guaraná Fantástica,Beverages,Suprêmes délices,4.5,12,0,54.00
+10885,Original Frankfurter grüne Soße,Condiments,Suprêmes délices,13,25,0,325.00
+10885,Outback Lager,Beverages,Suprêmes délices,15,30,0,450.00
+10886,Gorgonzola Telino,Dairy Products,Hanari Carnes,12.5,35,0,437.50
+10886,Ikura,Seafood,Hanari Carnes,31,70,0,2170.00
+10886,Original Frankfurter grüne Soße,Condiments,Hanari Carnes,13,40,0,520.00
+10887,NuNuCa Nuß-Nougat-Creme,Confections,Galería del gastrónomo,14,5,0,70.00
+10888,Chang,Beverages,Godos Cocina Típica,19,20,0,380.00
+10888,Scottish Longbreads,Confections,Godos Cocina Típica,12.5,18,0,225.00
+10889,Côte de Blaye,Beverages,Rattlesnake Canyon Grocery,263.5,40,0,10540.00
+10889,Queso Cabrales,Dairy Products,Rattlesnake Canyon Grocery,21,40,0,840.00
+10890,Alice Mutton,Meat/Poultry,Du monde entier,39,15,0,585.00
+10890,Jack's New England Clam Chowder,Seafood,Du monde entier,9.65,14,0,135.10
+10890,Sasquatch Ale,Beverages,Du monde entier,14,10,0,140.00
+10891,Nord-Ost Matjeshering,Seafood,Lehmanns Marktstand,25.89,15,0.05,368.93
+10892,Raclette Courdavault,Dairy Products,Maison Dewey,55,40,0.05,2090.00
+10893,Guaraná Fantástica,Beverages,Königlich Essen,4.5,10,0,45.00
+10893,Inlagd Sill,Seafood,Königlich Essen,19,20,0,380.00
+10893,Nord-Ost Matjeshering,Seafood,Königlich Essen,25.89,35,0,906.15
+10893,Northwoods Cranberry Sauce,Condiments,Königlich Essen,40,30,0,1200.00
+10893,Thüringer Rostbratwurst,Meat/Poultry,Königlich Essen,123.79,24,0,2970.96
+10894,Gudbrandsdalsost,Dairy Products,Save-a-lot Markets,36,50,0.05,1710.00
+10894,Konbu,Seafood,Save-a-lot Markets,6,28,0.05,159.60
+10894,Rhönbräu Klosterbier,Beverages,Save-a-lot Markets,7.75,120,0.05,883.50
+10895,Boston Crab Meat,Seafood,Ernst Handel,18.4,91,0,1674.40
+10895,Camembert Pierrot,Dairy Products,Ernst Handel,34,100,0,3400.00
+10895,Chartreuse verte,Beverages,Ernst Handel,18,45,0,810.00
+10895,Guaraná Fantástica,Beverages,Ernst Handel,4.5,110,0,495.00
+10896,Gnocchi di nonna Alice,Grains/Cereals,Maison Dewey,38,16,0,608.00
+10896,Rogede sild,Seafood,Maison Dewey,9.5,15,0,142.50
+10897,Nord-Ost Matjeshering,Seafood,Hungry Owl All-Night Grocers,25.89,36,0,932.04
+10897,Thüringer Rostbratwurst,Meat/Poultry,Hungry Owl All-Night Grocers,123.79,80,0,9903.20
+10898,Konbu,Seafood,Océano Atlántico Ltda.,6,5,0,30.00
+10899,Chartreuse verte,Beverages,LILA-Supermercado,18,8,0.15,122.40
+10900,Outback Lager,Beverages,Wellington Importadora,15,3,0.25,33.75
+10901,Flotemysost,Dairy Products,HILARION-Abastos,21.5,30,0,645.00
+10901,Jack's New England Clam Chowder,Seafood,HILARION-Abastos,9.65,30,0,289.50
+10902,Pâté chinois,Meat/Poultry,Folk och fä HB,24,30,0.15,612.00
+10902,Tarte au sucre,Confections,Folk och fä HB,49.3,6,0.15,251.43
+10903,Konbu,Seafood,Hanari Carnes,6,40,0,240.00
+10903,Louisiana Fiery Hot Pepper Sauce,Condiments,Hanari Carnes,21.05,21,0,442.05
+10903,Scottish Longbreads,Confections,Hanari Carnes,12.5,20,0,250.00
+10904,Escargots de Bourgogne,Seafood,White Clover Markets,13.25,15,0,198.75
+10904,Tarte au sucre,Confections,White Clover Markets,49.3,35,0,1725.50
+10905,Chai,Beverages,Wellington Importadora,18,20,0.05,342.00
+10906,Sirop d'érable,Condiments,Wolski  Zajazd,28.5,15,0,427.50
+10907,Rhönbräu Klosterbier,Beverages,Spécialités du monde,7.75,14,0,108.50
+10908,Filo Mix,Grains/Cereals,Reggiani Caseifici,7,14,0.05,93.10
+10908,Uncle Bob's Organic Dried Pears,Produce,Reggiani Caseifici,30,20,0.05,570.00
+10909,Jack's New England Clam Chowder,Seafood,Santé Gourmet,9.65,5,0,48.25
+10909,Pavlova,Confections,Santé Gourmet,17.45,15,0,261.75
+10909,Uncle Bob's Organic Dried Pears,Produce,Santé Gourmet,30,12,0,360.00
+10910,Maxilaku,Confections,Wilman Kala,20,10,0,200.00
+10910,Sirop d'érable,Condiments,Wilman Kala,28.5,5,0,142.50
+10910,Teatime Chocolate Biscuits,Confections,Wilman Kala,9.2,12,0,110.40
+10911,Alice Mutton,Meat/Poultry,Godos Cocina Típica,39,12,0,468.00
+10911,Chai,Beverages,Godos Cocina Típica,18,10,0,180.00
+10911,Laughing Lumberjack Lager,Beverages,Godos Cocina Típica,14,15,0,210.00
+10912,Queso Cabrales,Dairy Products,Hungry Owl All-Night Grocers,21,40,0.25,630.00
+10912,Thüringer Rostbratwurst,Meat/Poultry,Hungry Owl All-Night Grocers,123.79,60,0.25,5570.55
+10913,Chef Anton's Cajun Seasoning,Condiments,Queen Cozinha,22,30,0.25,495.00
+10913,Escargots de Bourgogne,Seafood,Queen Cozinha,13.25,15,0,198.75
+10913,Geitost,Dairy Products,Queen Cozinha,2.5,40,0.25,75.00
+10914,Flotemysost,Dairy Products,Queen Cozinha,21.5,25,0,537.50
+10915,Alice Mutton,Meat/Poultry,Tortuga Restaurante,39,10,0,390.00
+10915,Geitost,Dairy Products,Tortuga Restaurante,2.5,30,0,75.00
+10915,Tourtière,Meat/Poultry,Tortuga Restaurante,7.45,10,0,74.50
+10916,Mascarpone Fabioli,Dairy Products,Rancho grande,32,6,0,192.00
+10916,Pavlova,Confections,Rancho grande,17.45,6,0,104.70
+10916,Ravioli Angelo,Grains/Cereals,Rancho grande,19.5,20,0,390.00
+10917,Camembert Pierrot,Dairy Products,Romero y tomillo,34,10,0,340.00
+10917,Nord-Ost Matjeshering,Seafood,Romero y tomillo,25.89,1,0,25.89
+10918,Camembert Pierrot,Dairy Products,Bottom-Dollar Markets,34,25,0.25,637.50
+10918,Chai,Beverages,Bottom-Dollar Markets,18,60,0.25,810.00
+10919,Boston Crab Meat,Seafood,LINO-Delicateses,18.4,20,0,368.00
+10919,NuNuCa Nuß-Nougat-Creme,Confections,LINO-Delicateses,14,24,0,336.00
+10919,Pavlova,Confections,LINO-Delicateses,17.45,24,0,418.80
+10920,Valkoinen suklaa,Confections,Around the Horn,16.25,24,0,390.00
+10921,Steeleye Stout,Beverages,Vaffeljernet,18,10,0,180.00
+10921,Vegie-spread,Condiments,Vaffeljernet,43.9,40,0,1756.00
+10922,Alice Mutton,Meat/Poultry,Hanari Carnes,39,15,0,585.00
+10922,Guaraná Fantástica,Beverages,Hanari Carnes,4.5,35,0,157.50
+10923,Ipoh Coffee,Beverages,La maison d'Asie,46,10,0.2,368.00
+10923,Laughing Lumberjack Lager,Beverages,La maison d'Asie,14,24,0.2,268.80
+10923,Singaporean Hokkien Fried Mee,Grains/Cereals,La maison d'Asie,14,10,0.2,112.00
+10924,Ikura,Seafood,Berglunds snabbköp,31,20,0.1,558.00
+10924,Rhönbräu Klosterbier,Beverages,Berglunds snabbköp,7.75,6,0,46.50
+10924,Rössle Sauerkraut,Produce,Berglunds snabbköp,45.6,30,0.1,1231.20
+10925,Filo Mix,Grains/Cereals,Hanari Carnes,7,12,0.15,71.40
+10925,Inlagd Sill,Seafood,Hanari Carnes,19,25,0.15,403.75
+10926,Konbu,Seafood,Ana Trujillo Emparedados y helados,6,10,0,60.00
+10926,Mozzarella di Giovanni,Dairy Products,Ana Trujillo Emparedados y helados,34.8,10,0,348.00
+10926,Queso Cabrales,Dairy Products,Ana Trujillo Emparedados y helados,21,2,0,42.00
+10926,Teatime Chocolate Biscuits,Confections,Ana Trujillo Emparedados y helados,9.2,7,0,64.40
+10927,Filo Mix,Grains/Cereals,La corne d'abondance,7,5,0,35.00
+10927,Lakkalikööri,Beverages,La corne d'abondance,18,20,0,360.00
+10927,Sir Rodney's Marmalade,Confections,La corne d'abondance,81,5,0,405.00
+10928,Lakkalikööri,Beverages,Galería del gastrónomo,18,5,0,90.00
+10928,Zaanse koeken,Confections,Galería del gastrónomo,9.5,5,0,47.50
+10929,Original Frankfurter grüne Soße,Condiments,Frankenversand,13,15,0,195.00
+10929,Rhönbräu Klosterbier,Beverages,Frankenversand,7.75,49,0,379.75
+10929,Sir Rodney's Scones,Confections,Frankenversand,10,60,0,600.00
+10930,Escargots de Bourgogne,Seafood,Suprêmes délices,13.25,30,0.2,318.00
+10930,Pâté chinois,Meat/Poultry,Suprêmes délices,24,25,0.2,480.00
+10930,Schoggi Schokolade,Confections,Suprêmes délices,43.9,25,0,1097.50
+10930,Sir Rodney's Scones,Confections,Suprêmes délices,10,36,0,360.00
+10931,Konbu,Seafood,Richter Supermarkt,6,42,0.15,214.20
+10931,Ravioli Angelo,Grains/Cereals,Richter Supermarkt,19.5,30,0,585.00
+10932,Mozzarella di Giovanni,Dairy Products,Bon app',34.8,16,0,556.80
+10932,Pavlova,Confections,Bon app',17.45,30,0.1,471.15
+10932,Rhönbräu Klosterbier,Beverages,Bon app',7.75,20,0.1,139.50
+10932,Tarte au sucre,Confections,Bon app',49.3,14,0.1,621.18
+10933,Perth Pasties,Meat/Poultry,Island Trading,32.8,2,0,65.60
+10933,Sirop d'érable,Condiments,Island Trading,28.5,30,0,855.00
+10934,Grandma's Boysenberry Spread,Condiments,Lehmanns Marktstand,25,20,0,500.00
+10935,Carnarvon Tigers,Seafood,Wellington Importadora,62.5,4,0.25,187.50
+10935,Chai,Beverages,Wellington Importadora,18,21,0,378.00
+10935,Tunnbröd,Grains/Cereals,Wellington Importadora,9,8,0.25,54.00
+10936,Inlagd Sill,Seafood,Great Lakes Food Market,19,30,0.2,456.00
+10937,Rössle Sauerkraut,Produce,Cactus Comidas para llevar,45.6,8,0,364.80
+10937,Sasquatch Ale,Beverages,Cactus Comidas para llevar,14,20,0,280.00
+10938,Camembert Pierrot,Dairy Products,QUICK-Stop,34,49,0.25,1249.50
+10938,Flotemysost,Dairy Products,QUICK-Stop,21.5,35,0.25,564.38
+10938,Ipoh Coffee,Beverages,QUICK-Stop,46,24,0.25,828.00
+10938,Konbu,Seafood,QUICK-Stop,6,20,0.25,90.00
+10939,Chang,Beverages,Magazzini Alimentari Riuniti,19,10,0.15,161.50
+10939,Laughing Lumberjack Lager,Beverages,Magazzini Alimentari Riuniti,14,40,0.15,476.00
+10940,Konbu,Seafood,Bon app',6,20,0,120.00
+10940,Uncle Bob's Organic Dried Pears,Produce,Bon app',30,8,0,240.00
+10941,Gorgonzola Telino,Dairy Products,Save-a-lot Markets,12.5,44,0.25,412.50
+10941,Mozzarella di Giovanni,Dairy Products,Save-a-lot Markets,34.8,50,0,1740.00
+10941,Scottish Longbreads,Confections,Save-a-lot Markets,12.5,80,0.25,750.00
+10941,Tarte au sucre,Confections,Save-a-lot Markets,49.3,30,0.25,1109.25
+10942,Maxilaku,Confections,Reggiani Caseifici,20,28,0,560.00
+10943,Gustaf's Knäckebröd,Grains/Cereals,B's Beverages,21,21,0,441.00
+10943,Konbu,Seafood,B's Beverages,6,15,0,90.00
+10943,Spegesild,Seafood,B's Beverages,12,15,0,180.00
+10944,Gnocchi di nonna Alice,Grains/Cereals,Bottom-Dollar Markets,38,18,0,684.00
+10944,Gula Malacca,Condiments,Bottom-Dollar Markets,19.45,18,0.25,262.58
+10944,Queso Cabrales,Dairy Products,Bottom-Dollar Markets,21,5,0.25,78.75
+10945,Gorgonzola Telino,Dairy Products,Morgenstern Gesundkost,12.5,10,0,125.00
+10945,Konbu,Seafood,Morgenstern Gesundkost,6,20,0,120.00
+10946,Guaraná Fantástica,Beverages,Vaffeljernet,4.5,25,0,112.50
+10946,Ikura,Seafood,Vaffeljernet,31,25,0,775.00
+10946,Original Frankfurter grüne Soße,Condiments,Vaffeljernet,13,40,0,520.00
+10947,Raclette Courdavault,Dairy Products,B's Beverages,55,4,0,220.00
+10948,Manjimup Dried Apples,Produce,Godos Cocina Típica,53,40,0,2120.00
+10948,Pâté chinois,Meat/Poultry,Godos Cocina Típica,24,4,0,96.00
+10948,Valkoinen suklaa,Confections,Godos Cocina Típica,16.25,9,0,146.25
+10949,Alice Mutton,Meat/Poultry,Bottom-Dollar Markets,39,6,0,234.00
+10949,Grandma's Boysenberry Spread,Condiments,Bottom-Dollar Markets,25,12,0,300.00
+10949,Ikura,Seafood,Bottom-Dollar Markets,31,30,0,930.00
+10949,Tarte au sucre,Confections,Bottom-Dollar Markets,49.3,60,0,2958.00
+10950,Chef Anton's Cajun Seasoning,Condiments,Magazzini Alimentari Riuniti,22,5,0,110.00
+10951,Geitost,Dairy Products,Richter Supermarkt,2.5,15,0.05,35.63
+10951,Jack's New England Clam Chowder,Seafood,Richter Supermarkt,9.65,6,0.05,55.01
+10951,Rhönbräu Klosterbier,Beverages,Richter Supermarkt,7.75,50,0.05,368.13
+10952,Grandma's Boysenberry Spread,Condiments,Alfreds Futterkiste,25,16,0.05,380.00
+10952,Rössle Sauerkraut,Produce,Alfreds Futterkiste,45.6,2,0,91.20
+10953,Gorgonzola Telino,Dairy Products,Around the Horn,12.5,50,0.05,593.75
+10953,Sir Rodney's Marmalade,Confections,Around the Horn,81,50,0.05,3847.50
+10954,Camembert Pierrot,Dairy Products,LINO-Delicateses,34,24,0.15,693.60
+10954,Gorgonzola Telino,Dairy Products,LINO-Delicateses,12.5,25,0.15,265.63
+10954,Pavlova,Confections,LINO-Delicateses,17.45,28,0.15,415.31
+10954,Rogede sild,Seafood,LINO-Delicateses,9.5,30,0,285.00
+10955,Rhönbräu Klosterbier,Beverages,Folk och fä HB,7.75,12,0.2,74.40
+10956,Manjimup Dried Apples,Produce,Blauer See Delikatessen,53,8,0,424.00
+10956,Sir Rodney's Scones,Confections,Blauer See Delikatessen,10,12,0,120.00
+10956,Zaanse koeken,Confections,Blauer See Delikatessen,9.5,14,0,133.00
+10957,Nord-Ost Matjeshering,Seafood,HILARION-Abastos,25.89,30,0,776.70
+10957,Steeleye Stout,Beverages,HILARION-Abastos,18,40,0,720.00
+10957,Wimmers gute Semmelknödel,Grains/Cereals,HILARION-Abastos,33.25,8,0,266.00
+10958,Chef Anton's Gumbo Mix,Condiments,Océano Atlántico Ltda.,21.35,20,0,427.00
+10958,Mozzarella di Giovanni,Dairy Products,Océano Atlántico Ltda.,34.8,5,0,174.00
+10958,Uncle Bob's Organic Dried Pears,Produce,Océano Atlántico Ltda.,30,6,0,180.00
+10959,Rhönbräu Klosterbier,Beverages,Gourmet Lanchonetes,7.75,20,0.15,131.75
+10960,Guaraná Fantástica,Beverages,HILARION-Abastos,4.5,10,0.25,33.75
+10960,Jack's New England Clam Chowder,Seafood,HILARION-Abastos,9.65,24,0,231.60
+10961,Filo Mix,Grains/Cereals,Queen Cozinha,7,6,0.05,39.90
+10961,Lakkalikööri,Beverages,Queen Cozinha,18,60,0,1080.00
+10962,Gudbrandsdalsost,Dairy Products,QUICK-Stop,36,9,0,324.00
+10962,Konbu,Seafood,QUICK-Stop,6,77,0,462.00
+10962,Lakkalikööri,Beverages,QUICK-Stop,18,44,0,792.00
+10962,Perth Pasties,Meat/Poultry,QUICK-Stop,32.8,20,0,656.00
+10962,Uncle Bob's Organic Dried Pears,Produce,QUICK-Stop,30,45,0,1350.00
+10963,Camembert Pierrot,Dairy Products,Furia Bacalhau e Frutos do Mar,34,2,0.15,57.80
+10964,Carnarvon Tigers,Seafood,Spécialités du monde,62.5,6,0,375.00
+10964,Côte de Blaye,Beverages,Spécialités du monde,263.5,5,0,1317.50
+10964,Gudbrandsdalsost,Dairy Products,Spécialités du monde,36,10,0,360.00
+10965,Manjimup Dried Apples,Produce,Old World Delicatessen,53,16,0,848.00
+10966,Gnocchi di nonna Alice,Grains/Cereals,Chop-suey Chinese,38,12,0.15,387.60
+10966,Gravad lax,Seafood,Chop-suey Chinese,26,8,0,208.00
+10966,Tarte au sucre,Confections,Chop-suey Chinese,49.3,12,0.15,502.86
+10967,Maxilaku,Confections,Toms Spezialitäten,20,40,0,800.00
+10967,Teatime Chocolate Biscuits,Confections,Toms Spezialitäten,9.2,12,0,110.40
+10968,Guaraná Fantástica,Beverages,Ernst Handel,4.5,30,0,135.00
+10968,Queso Manchego La Pastora,Dairy Products,Ernst Handel,38,30,0,1140.00
+10968,Wimmers gute Semmelknödel,Grains/Cereals,Ernst Handel,33.25,4,0,133.00
+10969,Spegesild,Seafood,Comércio Mineiro,12,9,0,108.00
+10970,Filo Mix,Grains/Cereals,Bólido Comidas preparadas,7,40,0.2,224.00
+10971,Thüringer Rostbratwurst,Meat/Poultry,France restauration,123.79,14,0,1733.06
+10972,Alice Mutton,Meat/Poultry,La corne d'abondance,39,6,0,234.00
+10972,Geitost,Dairy Products,La corne d'abondance,2.5,7,0,17.50
+10973,Gumbär Gummibärchen,Confections,La corne d'abondance,31.23,5,0,156.15
+10973,Jack's New England Clam Chowder,Seafood,La corne d'abondance,9.65,6,0,57.90
+10973,Rhönbräu Klosterbier,Beverages,La corne d'abondance,7.75,10,0,77.50
+10974,Vegie-spread,Condiments,Split Rail Beer & Ale,43.9,10,0,439.00
+10975,Northwoods Cranberry Sauce,Condiments,Bottom-Dollar Markets,40,16,0,640.00
+10975,Rhönbräu Klosterbier,Beverages,Bottom-Dollar Markets,7.75,10,0,77.50
+10976,Rössle Sauerkraut,Produce,HILARION-Abastos,45.6,20,0,912.00
+10977,Chartreuse verte,Beverages,Folk och fä HB,18,30,0,540.00
+10977,Manjimup Dried Apples,Produce,Folk och fä HB,53,10,0,530.00
+10977,Vegie-spread,Condiments,Folk och fä HB,43.9,20,0,878.00
+10977,Zaanse koeken,Confections,Folk och fä HB,9.5,30,0,285.00
+10978,Boston Crab Meat,Seafood,Maison Dewey,18.4,10,0,184.00
+10978,Gula Malacca,Condiments,Maison Dewey,19.45,6,0.15,99.19
+10978,Northwoods Cranberry Sauce,Condiments,Maison Dewey,40,20,0.15,680.00
+10978,Sir Rodney's Scones,Confections,Maison Dewey,10,40,0.15,340.00
+10979,Gorgonzola Telino,Dairy Products,Ernst Handel,12.5,24,0,300.00
+10979,Guaraná Fantástica,Beverages,Ernst Handel,4.5,80,0,360.00
+10979,Queso Manchego La Pastora,Dairy Products,Ernst Handel,38,20,0,760.00
+10979,Schoggi Schokolade,Confections,Ernst Handel,43.9,30,0,1317.00
+10979,Uncle Bob's Organic Dried Pears,Produce,Ernst Handel,30,18,0,540.00
+10979,Vegie-spread,Condiments,Ernst Handel,43.9,35,0,1536.50
+10980,Rhönbräu Klosterbier,Beverages,Folk och fä HB,7.75,40,0.2,248.00
+10981,Côte de Blaye,Beverages,Hanari Carnes,263.5,60,0,15810.00
+10982,Ipoh Coffee,Beverages,Bottom-Dollar Markets,46,9,0,414.00
+10982,Uncle Bob's Organic Dried Pears,Produce,Bottom-Dollar Markets,30,20,0,600.00
+10983,Konbu,Seafood,Save-a-lot Markets,6,84,0.15,428.40
+10983,Ravioli Angelo,Grains/Cereals,Save-a-lot Markets,19.5,15,0,292.50
+10984,Guaraná Fantástica,Beverages,Save-a-lot Markets,4.5,20,0,90.00
+10984,Inlagd Sill,Seafood,Save-a-lot Markets,19,40,0,760.00
+10984,Pavlova,Confections,Save-a-lot Markets,17.45,55,0,959.75
+10985,Carnarvon Tigers,Seafood,Hungry Owl All-Night Grocers,62.5,8,0.1,450.00
+10985,Mascarpone Fabioli,Dairy Products,Hungry Owl All-Night Grocers,32,35,0.1,1008.00
+10985,Pavlova,Confections,Hungry Owl All-Night Grocers,17.45,36,0.1,565.38
+10986,Lakkalikööri,Beverages,Océano Atlántico Ltda.,18,10,0,180.00
+10986,Original Frankfurter grüne Soße,Condiments,Océano Atlántico Ltda.,13,15,0,195.00
+10986,Queso Cabrales,Dairy Products,Océano Atlántico Ltda.,21,30,0,630.00
+10986,Sir Rodney's Marmalade,Confections,Océano Atlántico Ltda.,81,15,0,1215.00
+10987,Ipoh Coffee,Beverages,Eastern Connection,46,6,0,276.00
+10987,Mozzarella di Giovanni,Dairy Products,Eastern Connection,34.8,20,0,696.00
+10987,Uncle Bob's Organic Dried Pears,Produce,Eastern Connection,30,60,0,1800.00
+10988,Tarte au sucre,Confections,Rattlesnake Canyon Grocery,49.3,40,0.1,1774.80
+10988,Uncle Bob's Organic Dried Pears,Produce,Rattlesnake Canyon Grocery,30,60,0,1800.00
+10989,Grandma's Boysenberry Spread,Condiments,Que Delícia,25,40,0,1000.00
+10989,Jack's New England Clam Chowder,Seafood,Que Delícia,9.65,4,0,38.60
+10989,Queso Cabrales,Dairy Products,Que Delícia,21,15,0,315.00
+10990,Pâté chinois,Meat/Poultry,Ernst Handel,24,65,0.15,1326.00
+10990,Sasquatch Ale,Beverages,Ernst Handel,14,60,0.15,714.00
+10990,Sir Rodney's Scones,Confections,Ernst Handel,10,65,0,650.00
+10990,Sirop d'érable,Condiments,Ernst Handel,28.5,66,0.15,1598.85
+10991,Chang,Beverages,QUICK-Stop,19,50,0.2,760.00
+10991,Lakkalikööri,Beverages,QUICK-Stop,18,90,0.2,1296.00
+10991,Outback Lager,Beverages,QUICK-Stop,15,20,0.2,240.00
+10992,Mozzarella di Giovanni,Dairy Products,The Big Cheese,34.8,2,0,69.60
+10993,Jack's New England Clam Chowder,Seafood,Folk och fä HB,9.65,35,0.25,253.31
+10993,Thüringer Rostbratwurst,Meat/Poultry,Folk och fä HB,123.79,50,0.25,4642.13
+10994,Raclette Courdavault,Dairy Products,Vaffeljernet,55,18,0.05,940.50
+10995,Camembert Pierrot,Dairy Products,Pericles Comidas clásicas,34,4,0,136.00
+10995,Manjimup Dried Apples,Produce,Pericles Comidas clásicas,53,20,0,1060.00
+10996,Singaporean Hokkien Fried Mee,Grains/Cereals,QUICK-Stop,14,40,0,560.00
+10997,Filo Mix,Grains/Cereals,LILA-Supermercado,7,20,0.25,105.00
+10997,Mascarpone Fabioli,Dairy Products,LILA-Supermercado,32,50,0,1600.00
+10997,Spegesild,Seafood,LILA-Supermercado,12,20,0.25,180.00
+10998,Guaraná Fantástica,Beverages,Wolski  Zajazd,4.5,12,0,54.00
+10998,Longlife Tofu,Produce,Wolski  Zajazd,10,20,0,200.00
+10998,Rhönbräu Klosterbier,Beverages,Wolski  Zajazd,7.75,30,0,232.50
+10998,Sirop d'érable,Condiments,Wolski  Zajazd,28.5,7,0,199.50
+10999,Jack's New England Clam Chowder,Seafood,Ottilies Käseladen,9.65,20,0.05,183.35
+10999,Manjimup Dried Apples,Produce,Ottilies Käseladen,53,15,0.05,755.25
+10999,Original Frankfurter grüne Soße,Condiments,Ottilies Käseladen,13,21,0.05,259.35
+11000,Chef Anton's Cajun Seasoning,Condiments,Rattlesnake Canyon Grocery,22,25,0.25,412.50
+11000,Guaraná Fantástica,Beverages,Rattlesnake Canyon Grocery,4.5,30,0.25,101.25
+11000,Original Frankfurter grüne Soße,Condiments,Rattlesnake Canyon Grocery,13,30,0,390.00
+11001,Gustaf's Knäckebröd,Grains/Cereals,Folk och fä HB,21,25,0,525.00
+11001,Pâté chinois,Meat/Poultry,Folk och fä HB,24,6,0,144.00
+11001,Spegesild,Seafood,Folk och fä HB,12,25,0,300.00
+11001,Uncle Bob's Organic Dried Pears,Produce,Folk och fä HB,30,60,0,1800.00
+11002,Konbu,Seafood,Save-a-lot Markets,6,56,0,336.00
+11002,Pâté chinois,Meat/Poultry,Save-a-lot Markets,24,40,0,960.00
+11002,Singaporean Hokkien Fried Mee,Grains/Cereals,Save-a-lot Markets,14,24,0.15,285.60
+11002,Steeleye Stout,Beverages,Save-a-lot Markets,18,15,0.15,229.50
+11003,Boston Crab Meat,Seafood,The Cracker Box,18.4,10,0,184.00
+11003,Chai,Beverages,The Cracker Box,18,4,0,72.00
+11003,Filo Mix,Grains/Cereals,The Cracker Box,7,10,0,70.00
+11004,Gumbär Gummibärchen,Confections,Maison Dewey,31.23,6,0,187.38
+11004,Lakkalikööri,Beverages,Maison Dewey,18,6,0,108.00
+11005,Chai,Beverages,Wilman Kala,18,2,0,36.00
+11005,Raclette Courdavault,Dairy Products,Wilman Kala,55,10,0,550.00
+11006,Chai,Beverages,Great Lakes Food Market,18,8,0,144.00
+11006,Thüringer Rostbratwurst,Meat/Poultry,Great Lakes Food Market,123.79,2,0.25,185.68
+11007,Northwoods Cranberry Sauce,Condiments,Princesa Isabel Vinhos,40,30,0,1200.00
+11007,Singaporean Hokkien Fried Mee,Grains/Cereals,Princesa Isabel Vinhos,14,14,0,196.00
+11007,Thüringer Rostbratwurst,Meat/Poultry,Princesa Isabel Vinhos,123.79,10,0,1237.90
+11008,Flotemysost,Dairy Products,Ernst Handel,21.5,21,0,451.50
+11008,Rössle Sauerkraut,Produce,Ernst Handel,45.6,70,0.05,3032.40
+11008,Sasquatch Ale,Beverages,Ernst Handel,14,90,0.05,1197.00
+11009,Camembert Pierrot,Dairy Products,Godos Cocina Típica,34,9,0,306.00
+11009,Guaraná Fantástica,Beverages,Godos Cocina Típica,4.5,12,0,54.00
+11009,Inlagd Sill,Seafood,Godos Cocina Típica,19,18,0.25,256.50
+11010,Guaraná Fantástica,Beverages,Reggiani Caseifici,4.5,10,0,45.00
+11010,Uncle Bob's Organic Dried Pears,Produce,Reggiani Caseifici,30,20,0,600.00
+11011,Escargots de Bourgogne,Seafood,Alfreds Futterkiste,13.25,40,0.05,503.50
+11011,Flotemysost,Dairy Products,Alfreds Futterkiste,21.5,20,0,430.00
+11012,Camembert Pierrot,Dairy Products,Frankenversand,34,36,0.05,1162.80
+11012,Flotemysost,Dairy Products,Frankenversand,21.5,60,0.05,1225.50
+11012,Teatime Chocolate Biscuits,Confections,Frankenversand,9.2,50,0.05,437.00
+11013,Rogede sild,Seafood,Romero y tomillo,9.5,20,0,190.00
+11013,Scottish Longbreads,Confections,Romero y tomillo,12.5,2,0,25.00
+11013,Singaporean Hokkien Fried Mee,Grains/Cereals,Romero y tomillo,14,4,0,56.00
+11013,Tunnbröd,Grains/Cereals,Romero y tomillo,9,10,0,90.00
+11014,Jack's New England Clam Chowder,Seafood,LINO-Delicateses,9.65,28,0.1,243.18
+11015,Nord-Ost Matjeshering,Seafood,Santé Gourmet,25.89,15,0,388.35
+11015,Original Frankfurter grüne Soße,Condiments,Santé Gourmet,13,18,0,234.00
+11016,Gorgonzola Telino,Dairy Products,Around the Horn,12.5,15,0,187.50
+11016,Inlagd Sill,Seafood,Around the Horn,19,16,0,304.00
+11017,Aniseed Syrup,Condiments,Ernst Handel,10,25,0,250.00
+11017,Outback Lager,Beverages,Ernst Handel,15,30,0,450.00
+11017,Raclette Courdavault,Dairy Products,Ernst Handel,55,110,0,6050.00
+11018,Carnarvon Tigers,Seafood,Lonesome Pine Restaurant,62.5,10,0,625.00
+11018,Gnocchi di nonna Alice,Grains/Cereals,Lonesome Pine Restaurant,38,5,0,190.00
+11018,Queso Manchego La Pastora,Dairy Products,Lonesome Pine Restaurant,38,20,0,760.00
+11019,Maxilaku,Confections,Rancho grande,20,2,0,40.00
+11019,Spegesild,Seafood,Rancho grande,12,3,0,36.00
+11020,Ikura,Seafood,Ottilies Käseladen,31,24,0.15,632.40
+11021,Chang,Beverages,QUICK-Stop,19,11,0.25,156.75
+11021,Gumbär Gummibärchen,Confections,QUICK-Stop,31.23,63,0,1967.49
+11021,Manjimup Dried Apples,Produce,QUICK-Stop,53,44,0.25,1749.00
+11021,Mozzarella di Giovanni,Dairy Products,QUICK-Stop,34.8,35,0,1218.00
+11021,Sir Rodney's Marmalade,Confections,QUICK-Stop,81,15,0,1215.00
+11022,Gudbrandsdalsost,Dairy Products,Hanari Carnes,36,30,0,1080.00
+11022,Teatime Chocolate Biscuits,Confections,Hanari Carnes,9.2,35,0,322.00
+11023,Ipoh Coffee,Beverages,B's Beverages,46,30,0,1380.00
+11023,Uncle Bob's Organic Dried Pears,Produce,B's Beverages,30,4,0,120.00
+11024,Flotemysost,Dairy Products,Eastern Connection,21.5,50,0,1075.00
+11024,Geitost,Dairy Products,Eastern Connection,2.5,30,0,75.00
+11024,Gumbär Gummibärchen,Confections,Eastern Connection,31.23,12,0,374.76
+11024,Louisiana Fiery Hot Pepper Sauce,Condiments,Eastern Connection,21.05,21,0,442.05
+11025,Chai,Beverages,Wartian Herkku,18,10,0.1,162.00
+11025,Konbu,Seafood,Wartian Herkku,6,20,0.1,108.00
+11026,Carnarvon Tigers,Seafood,Franchi S.p.A.,62.5,8,0,500.00
+11026,Manjimup Dried Apples,Produce,Franchi S.p.A.,53,10,0,530.00
+11027,Guaraná Fantástica,Beverages,Bottom-Dollar Markets,4.5,30,0.25,101.25
+11027,Tarte au sucre,Confections,Bottom-Dollar Markets,49.3,21,0.25,776.48
+11028,Pâté chinois,Meat/Poultry,Königlich Essen,24,35,0,840.00
+11028,Raclette Courdavault,Dairy Products,Königlich Essen,55,24,0,1320.00
+11029,Gnocchi di nonna Alice,Grains/Cereals,Chop-suey Chinese,38,20,0,760.00
+11029,Vegie-spread,Condiments,Chop-suey Chinese,43.9,12,0,526.80
+11030,Chang,Beverages,Save-a-lot Markets,19,100,0.25,1425.00
+11030,Chef Anton's Gumbo Mix,Condiments,Save-a-lot Markets,21.35,70,0,1494.50
+11030,Raclette Courdavault,Dairy Products,Save-a-lot Markets,55,100,0.25,4125.00
+11030,Thüringer Rostbratwurst,Meat/Poultry,Save-a-lot Markets,123.79,60,0.25,5570.55
+11031,Chai,Beverages,Save-a-lot Markets,18,45,0,810.00
+11031,Flotemysost,Dairy Products,Save-a-lot Markets,21.5,16,0,344.00
+11031,Guaraná Fantástica,Beverages,Save-a-lot Markets,4.5,21,0,94.50
+11031,Konbu,Seafood,Save-a-lot Markets,6,80,0,480.00
+11031,Wimmers gute Semmelknödel,Grains/Cereals,Save-a-lot Markets,33.25,20,0,665.00
+11032,Côte de Blaye,Beverages,White Clover Markets,263.5,25,0,6587.50
+11032,Inlagd Sill,Seafood,White Clover Markets,19,35,0,665.00
+11032,Raclette Courdavault,Dairy Products,White Clover Markets,55,30,0,1650.00
+11033,Gudbrandsdalsost,Dairy Products,Richter Supermarkt,36,36,0.1,1166.40
+11033,Perth Pasties,Meat/Poultry,Richter Supermarkt,32.8,70,0.1,2066.40
+11034,Gula Malacca,Condiments,Old World Delicatessen,19.45,12,0,233.40
+11034,Sir Rodney's Scones,Confections,Old World Delicatessen,10,15,0.1,135.00
+11034,Sirop d'érable,Condiments,Old World Delicatessen,28.5,6,0,171.00
+11035,Chai,Beverages,Suprêmes délices,18,10,0,180.00
+11035,Singaporean Hokkien Fried Mee,Grains/Cereals,Suprêmes délices,14,30,0,420.00
+11035,Steeleye Stout,Beverages,Suprêmes délices,18,60,0,1080.00
+11035,Tourtière,Meat/Poultry,Suprêmes délices,7.45,10,0,74.50
+11036,Konbu,Seafood,Drachenblut Delikatessen,6,7,0,42.00
+11036,Raclette Courdavault,Dairy Products,Drachenblut Delikatessen,55,30,0,1650.00
+11037,Outback Lager,Beverages,Godos Cocina Típica,15,4,0,60.00
+11038,Boston Crab Meat,Seafood,Suprêmes délices,18.4,5,0.2,73.60
+11038,Filo Mix,Grains/Cereals,Suprêmes délices,7,2,0,14.00
+11038,Flotemysost,Dairy Products,Suprêmes délices,21.5,30,0,645.00
+11039,Maxilaku,Confections,LINO-Delicateses,20,60,0,1200.00
+11039,Ravioli Angelo,Grains/Cereals,LINO-Delicateses,19.5,28,0,546.00
+11039,Rössle Sauerkraut,Produce,LINO-Delicateses,45.6,20,0,912.00
+11039,Steeleye Stout,Beverages,LINO-Delicateses,18,24,0,432.00
+11040,Sir Rodney's Scones,Confections,Great Lakes Food Market,10,20,0,200.00
+11041,Chang,Beverages,Chop-suey Chinese,19,30,0.2,456.00
+11041,Vegie-spread,Condiments,Chop-suey Chinese,43.9,30,0,1317.00
+11042,Gula Malacca,Condiments,Comércio Mineiro,19.45,15,0,291.75
+11042,Sirop d'érable,Condiments,Comércio Mineiro,28.5,4,0,114.00
+11043,Queso Cabrales,Dairy Products,Spécialités du monde,21,10,0,210.00
+11044,Tarte au sucre,Confections,Wolski  Zajazd,49.3,12,0,591.60
+11045,Geitost,Dairy Products,Bottom-Dollar Markets,2.5,15,0,37.50
+11045,Manjimup Dried Apples,Produce,Bottom-Dollar Markets,53,24,0,1272.00
+11046,Mascarpone Fabioli,Dairy Products,Die Wandernde Kuh,32,15,0.05,456.00
+11046,Queso Manchego La Pastora,Dairy Products,Die Wandernde Kuh,38,20,0.05,722.00
+11046,Steeleye Stout,Beverages,Die Wandernde Kuh,18,18,0.05,307.80
+11047,Chai,Beverages,Eastern Connection,18,25,0.25,337.50
+11047,Chef Anton's Gumbo Mix,Condiments,Eastern Connection,21.35,30,0.25,480.38
+11048,Scottish Longbreads,Confections,Bottom-Dollar Markets,12.5,42,0,525.00
+11049,Chang,Beverages,Gourmet Lanchonetes,19,10,0.2,152.00
+11049,Queso Manchego La Pastora,Dairy Products,Gourmet Lanchonetes,38,4,0.2,121.60
+11050,Lakkalikööri,Beverages,Folk och fä HB,18,50,0.1,810.00
+11051,Guaraná Fantástica,Beverages,La maison d'Asie,4.5,10,0.2,36.00
+11052,Ipoh Coffee,Beverages,Hanari Carnes,46,30,0.2,1104.00
+11052,Sirop d'érable,Condiments,Hanari Carnes,28.5,10,0.2,228.00
+11053,Carnarvon Tigers,Seafood,Piccolo und mehr,62.5,35,0.2,1750.00
+11053,Mascarpone Fabioli,Dairy Products,Piccolo und mehr,32,20,0,640.00
+11053,Wimmers gute Semmelknödel,Grains/Cereals,Piccolo und mehr,33.25,25,0.2,665.00
+11054,Geitost,Dairy Products,Cactus Comidas para llevar,2.5,10,0,25.00
+11054,Laughing Lumberjack Lager,Beverages,Cactus Comidas para llevar,14,20,0,280.00
+11055,Guaraná Fantástica,Beverages,HILARION-Abastos,4.5,15,0,67.50
+11055,Manjimup Dried Apples,Produce,HILARION-Abastos,53,20,0,1060.00
+11055,NuNuCa Nuß-Nougat-Creme,Confections,HILARION-Abastos,14,15,0,210.00
+11055,Ravioli Angelo,Grains/Cereals,HILARION-Abastos,19.5,20,0,390.00
+11056,Camembert Pierrot,Dairy Products,Eastern Connection,34,50,0,1700.00
+11056,Pâté chinois,Meat/Poultry,Eastern Connection,24,35,0,840.00
+11056,Uncle Bob's Organic Dried Pears,Produce,Eastern Connection,30,40,0,1200.00
+11057,Outback Lager,Beverages,North/South,15,3,0,45.00
+11058,Camembert Pierrot,Dairy Products,Blauer See Delikatessen,34,21,0,714.00
+11058,Sir Rodney's Scones,Confections,Blauer See Delikatessen,10,3,0,30.00
+11058,Sirop d'érable,Condiments,Blauer See Delikatessen,28.5,4,0,114.00
+11059,Alice Mutton,Meat/Poultry,Ricardo Adocicados,39,12,0,468.00
+11059,Camembert Pierrot,Dairy Products,Ricardo Adocicados,34,35,0,1190.00
+11059,Konbu,Seafood,Ricardo Adocicados,6,30,0,180.00
+11060,Camembert Pierrot,Dairy Products,Franchi S.p.A.,34,4,0,136.00
+11060,Original Frankfurter grüne Soße,Condiments,Franchi S.p.A.,13,10,0,130.00
+11061,Camembert Pierrot,Dairy Products,Great Lakes Food Market,34,15,0,510.00
+11062,Outback Lager,Beverages,Reggiani Caseifici,15,12,0.2,144.00
+11062,Perth Pasties,Meat/Poultry,Reggiani Caseifici,32.8,10,0.2,262.40
+11063,Boston Crab Meat,Seafood,Hungry Owl All-Night Grocers,18.4,40,0.1,662.40
+11063,Jack's New England Clam Chowder,Seafood,Hungry Owl All-Night Grocers,9.65,30,0.1,260.55
+11063,Sasquatch Ale,Beverages,Hungry Owl All-Night Grocers,14,30,0,420.00
+11064,Alice Mutton,Meat/Poultry,Save-a-lot Markets,39,77,0.1,2702.70
+11064,Jack's New England Clam Chowder,Seafood,Save-a-lot Markets,9.65,12,0,115.80
+11064,Pâté chinois,Meat/Poultry,Save-a-lot Markets,24,4,0.1,86.40
+11064,Perth Pasties,Meat/Poultry,Save-a-lot Markets,32.8,25,0.1,738.00
+11064,Scottish Longbreads,Confections,Save-a-lot Markets,12.5,55,0,687.50
+11065,Nord-Ost Matjeshering,Seafood,LILA-Supermercado,25.89,4,0.25,77.67
+11065,Tourtière,Meat/Poultry,LILA-Supermercado,7.45,20,0.25,111.75
+11066,Pavlova,Confections,White Clover Markets,17.45,3,0,52.35
+11066,Sasquatch Ale,Beverages,White Clover Markets,14,35,0,490.00
+11066,Teatime Chocolate Biscuits,Confections,White Clover Markets,9.2,42,0,386.40
+11067,Jack's New England Clam Chowder,Seafood,Drachenblut Delikatessen,9.65,9,0,86.85
+11068,Ipoh Coffee,Beverages,Queen Cozinha,46,36,0.15,1407.60
+11068,Original Frankfurter grüne Soße,Condiments,Queen Cozinha,13,28,0.15,309.40
+11068,Rössle Sauerkraut,Produce,Queen Cozinha,45.6,8,0.15,310.08
+11069,Chartreuse verte,Beverages,Tortuga Restaurante,18,20,0,360.00
+11070,Chai,Beverages,Lehmanns Marktstand,18,40,0.15,612.00
+11070,Chang,Beverages,Lehmanns Marktstand,19,20,0.15,323.00
+11070,Gorgonzola Telino,Dairy Products,Lehmanns Marktstand,12.5,20,0,250.00
+11070,Pavlova,Confections,Lehmanns Marktstand,17.45,30,0.15,444.98
+11071,Konbu,Seafood,LILA-Supermercado,6,10,0.05,57.00
+11071,Uncle Bob's Organic Dried Pears,Produce,LILA-Supermercado,30,15,0.05,427.50
+11072,Chang,Beverages,Ernst Handel,19,8,0,152.00
+11072,Jack's New England Clam Chowder,Seafood,Ernst Handel,9.65,40,0,386.00
+11072,Valkoinen suklaa,Confections,Ernst Handel,16.25,22,0,357.50
+11072,Wimmers gute Semmelknödel,Grains/Cereals,Ernst Handel,33.25,130,0,4322.50
+11073,Guaraná Fantástica,Beverages,Pericles Comidas clásicas,4.5,20,0,90.00
+11073,Queso Cabrales,Dairy Products,Pericles Comidas clásicas,21,10,0,210.00
+11074,Pavlova,Confections,Simons bistro,17.45,14,0.05,232.09
+11075,Chang,Beverages,Richter Supermarkt,19,10,0.15,161.50
+11075,Lakkalikööri,Beverages,Richter Supermarkt,18,2,0.15,30.60
+11075,Spegesild,Seafood,Richter Supermarkt,12,30,0.15,306.00
+11076,Grandma's Boysenberry Spread,Condiments,Bon app',25,20,0.25,375.00
+11076,Teatime Chocolate Biscuits,Confections,Bon app',9.2,10,0.25,69.00
+11076,Tofu,Produce,Bon app',23.25,20,0.25,348.75
+11077,Aniseed Syrup,Condiments,Rattlesnake Canyon Grocery,10,4,0,40.00
+11077,Camembert Pierrot,Dairy Products,Rattlesnake Canyon Grocery,34,2,0.06,63.92
+11077,Chang,Beverages,Rattlesnake Canyon Grocery,19,24,0.2,364.80
+11077,Chartreuse verte,Beverages,Rattlesnake Canyon Grocery,18,2,0.05,34.20
+11077,Chef Anton's Cajun Seasoning,Condiments,Rattlesnake Canyon Grocery,22,1,0,22.00
+11077,Filo Mix,Grains/Cereals,Rattlesnake Canyon Grocery,7,2,0,14.00
+11077,Grandma's Boysenberry Spread,Condiments,Rattlesnake Canyon Grocery,25,1,0.02,24.50
+11077,Ikura,Seafood,Rattlesnake Canyon Grocery,31,1,0,31.00
+11077,Jack's New England Clam Chowder,Seafood,Rattlesnake Canyon Grocery,9.65,3,0,28.95
+11077,Konbu,Seafood,Rattlesnake Canyon Grocery,6,4,0,24.00
+11077,Louisiana Hot Spiced Okra,Condiments,Rattlesnake Canyon Grocery,17,1,0,17.00
+11077,Mascarpone Fabioli,Dairy Products,Rattlesnake Canyon Grocery,32,1,0,32.00
+11077,Northwoods Cranberry Sauce,Condiments,Rattlesnake Canyon Grocery,40,2,0.1,72.00
+11077,Original Frankfurter grüne Soße,Condiments,Rattlesnake Canyon Grocery,13,2,0,26.00
+11077,Pâté chinois,Meat/Poultry,Rattlesnake Canyon Grocery,24,2,0,48.00
+11077,Pavlova,Confections,Rattlesnake Canyon Grocery,17.45,2,0.03,33.85
+11077,Queso Manchego La Pastora,Dairy Products,Rattlesnake Canyon Grocery,38,2,0.05,72.20
+11077,Rhönbräu Klosterbier,Beverages,Rattlesnake Canyon Grocery,7.75,4,0,31.00
+11077,Röd Kaviar,Seafood,Rattlesnake Canyon Grocery,15,2,0.01,29.70
+11077,Sir Rodney's Marmalade,Confections,Rattlesnake Canyon Grocery,81,1,0.04,77.76
+11077,Spegesild,Seafood,Rattlesnake Canyon Grocery,12,3,0.02,35.28
+11077,Tofu,Produce,Rattlesnake Canyon Grocery,23.25,1,0.03,22.55
+11077,Tunnbröd,Grains/Cereals,Rattlesnake Canyon Grocery,9,2,0,18.00
+11077,Uncle Bob's Organic Dried Pears,Produce,Rattlesnake Canyon Grocery,30,1,0.05,28.50
+11077,Wimmers gute Semmelknödel,Grains/Cereals,Rattlesnake Canyon Grocery,33.25,2,0.03,64.50
