@@ -23,7 +23,7 @@ The objective is to analyze the northwind company business activities in these p
 * Flowchart     - [drawio](https://app.diagrams.net/)
 
 ## :chart: Output
-* [Analysis Report[()
+* [Analysis Report](https://github.com/izzahlux/Northwind_Analysis/blob/main/Northwind%20Analysis%20Report.pdf)
 * Visualization Dashboard
   * [Sales Analysis Dashboard](https://datastudio.google.com/reporting/da670d46-4bf8-4b41-afad-c604666c938b)
   * [Product Analysis Dashboard](https://datastudio.google.com/reporting/1f91184b-c386-4ed3-b4ea-95906bda15d1)
