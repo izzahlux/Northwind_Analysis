@@ -1,0 +1,1 @@
+EXEC Getinvoice_Para ALFKI
